@@ -1,0 +1,24 @@
+main {
+    .events-container {
+      .events {
+        .h2-div-for-events {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          border-left: 2px solid #219ebc;
+          padding-left: 7px;
+          height: 16px;
+          .span-for-h2-div-for-events {
+            position: absolute;
+            min-height: 2px;
+            min-width: 80%;
+            background-color: #219ebc;
+            left: -80%;
+            
+          }
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,35 @@
+.contact-form-div-of-contact-us-2 {
+  form {
+    .h2-div-for-contact-form-div-of-contact-us-2 {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      position: relative;
+      border-left: 2px solid #219ebc;
+      padding-left: 7px;
+      height: 16px;
+      width: 100%;
+      margin-left: 10%;
+      .span-for-contact-form-div-of-contact-us-2 {
+        position: absolute;
+        min-height: 2px;
+        min-width: 10%;
+        background-color: #219ebc;
+        left: -10%;
+      }
+    }
+  }
+}
+@media screen and (max-width: 596px) {
+  .contact-form-div-of-contact-us-2 {
+    form {
+      .h2-div-for-contact-form-div-of-contact-us-2 {
+        margin-left: 32px;
+        .span-for-contact-form-div-of-contact-us-2 {
+          min-width: 32px;
+          left: -32px;
+        }
+      }
+    }
+  }
+}

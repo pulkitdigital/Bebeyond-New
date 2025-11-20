@@ -1,0 +1,18 @@
+.banner-of-sidebar-of-our-blogs-2 {
+  background-image: url("../../../../../public/about-header-img.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    background: linear-gradient(
+      -45deg,
+      rgba(33, 157, 188, 0.7) 0%,
+      rgba(251, 134, 0, 0.7) 100%
+    );
+    height: 100%;
+    width: 100%;
+  }
+}

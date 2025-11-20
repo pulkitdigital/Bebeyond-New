@@ -1,0 +1,47 @@
+main {
+  .contact-us-2-container {
+    .contact-us-2 {
+      .get-in-touch-div-of-contact-us-2 {
+        .h2-div-for-get-in-touch-div-of-contact-us-2 {
+          display: flex;
+          align-items: center;
+          justify-content: flex-start;
+          position: relative;
+          border-left: 2px solid #219ebc;
+          padding-left: 7px;
+          height: 16px;
+          width: 100%;
+          margin-left: 10%;
+          .span-for-h2-div-for-get-in-touch-div-of-contact-us-2 {
+            position: absolute;
+            min-height: 2px;
+            min-width: 10%;
+            background-color: #219ebc;
+            left: -10%;
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width:596px) {
+  main {
+    .contact-us-2-container {
+      .contact-us-2 {
+        .get-in-touch-div-of-contact-us-2 {
+          .h2-div-for-get-in-touch-div-of-contact-us-2 {
+            margin-left: 32px;
+            .span-for-h2-div-for-get-in-touch-div-of-contact-us-2 {
+              position: absolute;
+              min-height: 2px;
+              min-width: 32px;
+              background-color: #219ebc;
+              left: -32px;
+            }
+          }
+        }
+      }
+    }
+  }
+    
+}

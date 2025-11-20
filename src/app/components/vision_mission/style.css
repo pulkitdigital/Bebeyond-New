@@ -1,0 +1,24 @@
+main {
+    .vision-mission-container {
+      .vision-mission {
+        .h2-div-for-vision-mission {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          border-left: 2px solid #219ebc;
+          padding-left: 7px;
+          height: 16px;
+          margin-left: 50px;
+          .span-for-h2-div-for-vision-mission {
+            position: absolute;
+            min-height: 2px;
+            min-width: 50px;
+            background-color: #219ebc;
+            left: -50px;
+          }
+        }
+      }
+    }
+  }
+  

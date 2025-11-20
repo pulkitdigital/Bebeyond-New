@@ -1,0 +1,39 @@
+.main-of-extra-benifits {
+    background-image: url("../../../../public/cta-img.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .div-for-bg-light-black-of-main-of-extra-benifits {
+        background: rgba(28, 28, 52, 0.88);
+    }
+    .extra-benifits-container {
+        .div-for-bg-blue-of-main-of-extra-benifits{
+            transform: rotate(-30deg);
+        }
+        .div-for-bg-orange-of-main-of-extra-benifits{
+            transform: rotate(-30deg);
+
+        }
+        .extra-benifits {
+            .h2-div-for-extra-benifits {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                position: relative;
+                border-left: 2px solid #219ebc;
+                padding-left: 7px;
+                height: 16px;
+                margin-left: 50px;
+
+                .span-for-h2-div-for-extra-benifits {
+                    position: absolute;
+                    min-height: 2px;
+                    min-width: 50px;
+                    background-color: #219ebc;
+                    left: -50px;
+                }
+            }
+        }
+    }
+}

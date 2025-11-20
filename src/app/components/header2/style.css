@@ -1,0 +1,15 @@
+.header-2-main {
+  background-image: url("../../../../public/header-2-banner-6-new.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  .header-2-main-banner-overlay {
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: linear-gradient(to bottom right, #00000040, #fb860060);
+    height: 100%;
+    width: 100%;
+  }
+}

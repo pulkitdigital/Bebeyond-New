@@ -1,0 +1,5 @@
+.vision-mission-cards-container {
+    .vision-mission-card {
+        box-shadow: 4px 4px 8px rgba(116, 116, 117, 0.44);
+    }
+}

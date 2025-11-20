@@ -1,0 +1,22 @@
+main {
+  .our-blogs-2-container {
+    .our-blogs-2 {
+      .h2-div-for-our-blogs-2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        border-left: 2px solid #219ebc;
+        padding-left: 7px;
+        height: 16px;
+        .span-for-h2-div-for-our-blogs-2 {
+          position: absolute;
+          min-height: 2px;
+          min-width: 50%;
+          background-color: #219ebc;
+          left: -50%;
+        }
+      }
+    }
+  }
+}
