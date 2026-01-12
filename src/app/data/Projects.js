@@ -1,5 +1,66 @@
 export const projects2 = [
   {
+    forBrand: "madan_uniforms",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Website Design Project Image",
+    _h4: "Digital Publishing Hub",
+    _p2: "Social Media Marketing and Meta Ads",
+    _p3: "Madan Uniforms is a Prayagraj-based retail and B2B uniform manufacturer serving schools, institutions, and corporate clients. With a strong offline reputation and steady bulk demand, the brand required a focused digital advertising strategy to increase visibility, reach decision-makers, and generate consistent inquiries during peak seasons.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Marketing", "Meta Ads"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Marketing and Meta Ads" },
+      { _h6: "Project Length:", _pD: "60 Days" },
+      { _h6: "Client:", _pD: "Madan Uniforms" },
+      { _h6: "Category:", _pD: "Social Media Marketing and Meta Ads" },
+    ],
+
+    _h4_new: "Retail Store",
+    _p_new:
+      "Madan Uniforms is a Prayagraj-based retail and B2B uniform manufacturer serving schools, institutions, and corporate clients. With a strong offline reputation and steady bulk demand, the brand required a focused digital advertising strategy to increase visibility, reach decision-makers, and generate consistent inquiries during peak seasons.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Despite a strong offline reputation, Madan Uniforms had limited digital reach. School owners, administrators, and institutional buyers were not being effectively reached through online platforms.",
+      "Uniform demand is highly seasonal, peaking during admissions and academic sessions. Advertising needed precise timing to capture high-intent demand without wasting budget during off-seasons.",
+      "Balancing B2B institutional buyers and local retail customers required distinct messaging and targeting strategies to address both audiences effectively.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We analyzed Madan Uniforms’ product range, order patterns, and peak sales periods to align advertising efforts with actual business demand.",
+      "Meta Ads campaigns were structured to target school owners, administrators, educational institutions, and local retail buyers within Prayagraj and nearby areas. Location, interest, and behavior-based targeting ensured reach to high-intent decision-makers.",
+      "Ad creatives highlighted bulk supply capability, product quality and variety, and reliability with timely delivery. Messaging remained practical and conversion-focused.",
+      "Campaigns were continuously optimized based on reach, engagement, inquiry quality, and cost efficiency. Underperforming creatives were replaced, and high-performing formats were scaled.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Performance-driven Meta Ads campaigns focused on visibility, engagement, and inquiry generation.",
+      "A local dominance strategy ensured Madan Uniforms remained top-of-mind during school uniform purchasing cycles.",
+      "Optimized targeting and creatives ensured cost-efficient use of ad spend by focusing only on high-intent audiences.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger local visibility across Facebook and Instagram within the target geography.",
+      "Consistent inquiries from schools, institutions, and retail customers.",
+      "Improved demand capture during peak admission and academic seasons.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Meta Ads Strategy & Execution",
+      "Retail and B2B Audience Targeting",
+      "Local & Regional Campaigns",
+      "Seasonal Demand Optimization",
+    ],
+
+    _pTag: "Social Media Marketing and Meta Ads",
+  },
+  {
     forBrand: "first_print_publication",
     _img: "/projects_img/website-design.jpg",
     img_title: "Website Design Project Image",
@@ -100,7 +161,12 @@ export const projects2 = [
     _p2: "Video Production",
     _p3: "Produced engaging video content for social media to promote cultural awareness and amplify Indigenous voices.",
     _span: "Read More",
-    serviceUse: ["Video Production", "Motion Graphics", "Social Media", "Content Strategy"],
+    serviceUse: [
+      "Video Production",
+      "Motion Graphics",
+      "Social Media",
+      "Content Strategy",
+    ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Amplifying Voices Through Video" },
       {
@@ -190,7 +256,12 @@ export const projects2 = [
     _p2: "Social Media Marketing",
     _p3: "Designed a social media strategy and Meta ads campaign to boost conversions and expand online reach for a jewelry merchant.",
     _span: "Read More",
-    serviceUse: ["Social Media Mgmt", "Meta Ads", "Content", "Community Building"],
+    serviceUse: [
+      "Social Media Mgmt",
+      "Meta Ads",
+      "Content",
+      "Community Building",
+    ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Social Media Success with Meta Ads" },
       {
@@ -282,9 +353,17 @@ export const projects2 = [
     _p2: "Website Redesign",
     _p3: "Revamped a website to showcase expertise in tungsten carbide dies with a modern design and improved functionality.",
     _span: "Read More",
-    serviceUse: ["Web Dev", "Content Strategy", "Expertise Showcase", "Product Spotlight"],
+    serviceUse: [
+      "Web Dev",
+      "Content Strategy",
+      "Expertise Showcase",
+      "Product Spotlight",
+    ],
     _pDetails: [
-      { _h6: "Project Name:", _pD: "Website for a Wire Dies Manufacturing Leader" },
+      {
+        _h6: "Project Name:",
+        _pD: "Website for a Wire Dies Manufacturing Leader",
+      },
       {
         _h6: "Project Length:",
         _pD: "20 Days",
@@ -438,7 +517,7 @@ export const projects2 = [
     _newp13: "",
     _newH5_14: "",
     _newp14: "",
-    _newH5_15: "", 
+    _newH5_15: "",
     _newp15: "",
     _newH5_16: "",
     _newp16: "",
@@ -726,7 +805,10 @@ export const projects2 = [
     _span: "Read More",
     serviceUse: ["Shopify", "Product Showcase", "UX", "E-commerce"],
     _pDetails: [
-      { _h6: "Project Name:", _pD: "Building an E-commerce Powerhouse on Shopify" },
+      {
+        _h6: "Project Name:",
+        _pD: "Building an E-commerce Powerhouse on Shopify",
+      },
       {
         _h6: "Project Length:",
         _pD: "20 Days",
@@ -1143,7 +1225,12 @@ export const projects2 = [
     _p2: "Branding",
     _p3: "Developed branding and social media strategies to connect with customers and highlight the stories behind exquisite furniture designs.",
     _span: "Read More",
-    serviceUse: ["Branding", "Logo", "Visual Identity", "Social Media Strategy"],
+    serviceUse: [
+      "Branding",
+      "Logo",
+      "Visual Identity",
+      "Social Media Strategy",
+    ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Brand Identity for Handcrafted Furniture" },
       {
@@ -1322,7 +1409,12 @@ export const projects2 = [
     _p2: "Content Creation",
     _p3: "Developed engaging e-books and textbooks with interactive storytelling to enhance student learning experiences.",
     _span: "Read More",
-    serviceUse: ["Instructional Design", "Content Dev", "E-book Formatting", "Book Writing"],
+    serviceUse: [
+      "Instructional Design",
+      "Content Dev",
+      "E-book Formatting",
+      "Book Writing",
+    ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "E-books and Comprehensive Books" },
       {
@@ -1843,6 +1935,7 @@ export const projects3 = [
   projects2[6],
   projects2[7],
   projects2[8],
+  projects2[9],
 ];
 
 // "Saatvik Kumbh City: Website and Online platform listings"

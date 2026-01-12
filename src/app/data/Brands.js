@@ -5,9 +5,17 @@ const getProjectsForBrand = (brandName) =>
 
 export const brands2 = [
   {
+    para: "Madan Uniforms is a Prayagraj-based retail and B2B uniform manufacturer supplying high-quality uniforms to schools, and institutions. The brand is known for consistent quality, timely bulk delivery, and a wide range of uniform solutions tailored to institutional requirements.With a strong presence in the local market, Madan Uniforms serves both walk-in retail customers and large-scale B2B clients, focusing on durability, comfort, and cost-effective production.",
+    pathname: "madan_uniforms",
+    _img: "/18 Logos/madan.webp",
+    img_title: "Madan Uniforms Logo",
+    brandName: "Madan Uniforms",
+    ourWorks: getProjectsForBrand("madan_uniforms"),
+  },
+  {
     para: "First Print Publications, a Prayagraj-based book publishing company led by the passionate Abhishek Agrawal, approached us with a vision: to transform their online presence and create a dynamic hub for authors, scholars, and book enthusiasts. They wanted a website that would not only showcase their publishing services but also provide a seamless and engaging experience for their diverse audience. Recognizing the importance of supporting authors and scholars, we created dedicated sections for each group.",
     pathname: "first_print_publication",
-    _img: "/18 Logos/FPP - Original.png",
+    _img: "/18 Logos/fpp.webp",
     img_title: "First Print Publication Logo",
     brandName: "First Print Publication",
     ourWorks: getProjectsForBrand("first_print_publication"),

@@ -9,7 +9,7 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { useAppContext } from "@/context";
 
-function OurBlogs2Cards() { 
+function OurBlogs2Cards() {
   const { setLoaderToggel } = useAppContext();
   const [viewMoreBtn, setViewMoreBtn] = useState("flex");
   const [viewLessBtn, setViewLessBtn] = useState("hidden");
@@ -113,9 +113,16 @@ function OurBlogs2Cards() {
               <p className=" mx-4 text-p3 font-medium text-color_gray public_sans_body 792px:text-p4">
                 {data._p5}
               </p>
+              {/* <Link
+                onClick={() => setLoaderToggel(true)}
+                // href={`/info/${"blog"}-${"blog_info"}-${ind + 1}`}
+                href={`/info/${data.slug}`}
+                title={data._h4 + " Page"}
+                className=" 576px:absolute 576px:bottom-1 538px:static 490px:absolute 446px:static"
+              > */}
               <Link
                 onClick={() => setLoaderToggel(true)}
-                href={`/info/${"blog"}-${"blog_info"}-${ind + 1}`}
+                href={`/info/${data.slug || `blog-blog_info-${ind + 1}`}`}
                 title={data._h4 + " Page"}
                 className=" 576px:absolute 576px:bottom-1 538px:static 490px:absolute 446px:static"
               >
