@@ -799,7 +799,7 @@ export const projects2 = [
     img_title: "Hi-Pro Bags Social Media Management",
     _h4: "Wholesale Bag Manufacturer",
     _p2: "Social Media Management",
-    _p3: "Hi-Pro Bags designs and manufactures dependable bags for everyday use. As a wholesale-focused manufacturer, the brand needed a clear, professional social media presence to communicate product reliability, manufacturing strength, and consistent quality to distributors and bulk buyers.",
+    _p3: "Hi-Pro Bags designs and manufactures dependable bags for everyday use. As a wholesale-focused manufacturer, the brand needed a professional social media presence to communicate product reliability and consistent quality to distributors and bulk buyers",
     _span: "Read More",
 
     serviceUse: ["Social Media Management"],
@@ -985,7 +985,7 @@ export const projects2 = [
   img_title: "iBrandSolutions Website Design & Development",
   _h4: "Digital Marketing & Growth Agency",
   _p2: "Website Design and Development",
-  _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into trusted and profitable digital businesses. The website was designed to clearly communicate the agency’s evolution, capabilities, and strategy-led approach to modern brand growth.",
+  _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into profitable digital businesses. The website was designed to communicate the agency’s capabilities and strategy-led approach to modern brand growth.",
   _span: "Read More",
 
   serviceUse: ["Website Design", "Website Development"],
