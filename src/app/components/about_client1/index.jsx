@@ -3,7 +3,7 @@ import React, { useRef } from "react";
 import "./style.css";
 import { motion } from "framer-motion";
 import Image from "next/image";
-function AboutBrand1({ _brandName, _para }) {
+function AboutBrand1({ _brandName, _para, about_img }) {
   const imgRef = useRef();
   return (
     <main className=" w-full flex items-center justify-center">
@@ -19,13 +19,16 @@ function AboutBrand1({ _brandName, _para }) {
             className={`left-div-of-about-brand-1 w-48% flex items-center justify-center 596px:hidden`}
           >
             <div className=" relative bg-img-div-of-left-div-of-about-brand-1 w-full">
-              <Image
-                width={500}
-                height={250}
-                className={` w-full h-[290px]`}
-                src="/about_brand_img.jpg"
-                alt="img"
-              />
+              {about_img && (
+                <Image
+                  src={about_img}
+                  alt={`${_brandName} About Image`}
+                  width={600}
+                  height={350}
+                  className="w-full h-[290px] object-contain"
+                  priority
+                />
+              )}
             </div>
           </motion.div>
           <motion.div

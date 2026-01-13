@@ -18,6 +18,34 @@ function ProjectInfo1({ projectInfoData }) {
                 <p className="w-70% text-justify text-p1 font-p1 text-color_gray public_sans_body 1004px:text-p2 792px:text-p3 500px:w-full">
                   {projectInfoData._p_new}
                 </p>
+                <div className="project-detail-div-of-img-div-of-info w-70% flex items-start justify-between flex-wrap gap-y-4 px-2 pt-8 pb-2 1004px:pb-8 1004px:pt-4">
+                  {projectInfoData._pDetails.map((d, i) => {
+                    return (
+                      <div
+                        key={i}
+                        className=" w-32% flex items-start justify-center flex-col 662px:w-48%"
+                      >
+                        <span className=" bricolage_grotesque_head text-p1 font-p1 1004px:text-p2 792px:text-p3">
+                          {d._h6}
+                        </span>
+                        <span className=" text-p2 font-p2 text-color_gray public_sans_body 1004px:text-p3 792px:text-p4">
+                          {d._h6 === "Live Website:" ? (
+                            <a
+                              href={d._pD}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-color_blue underline"
+                            >
+                              {d._pD}
+                            </a>
+                          ) : (
+                            <p>{d._pD}</p>
+                          )}
+                        </span>
+                      </div>
+                    );
+                  })}
+                </div>
                 <div className="img-div-of-info w-70% flex items-center justify-center flex-col 500px:w-full">
                   <Image
                     width={1000}
@@ -28,26 +56,12 @@ function ProjectInfo1({ projectInfoData }) {
                     className=" w-full h-450px 1004px:h-340px 792px:h-250px"
                     src={projectInfoData._img}
                   />
-                  {/* <div className="project-detail-div-of-img-div-of-info w-full flex items-start justify-between flex-wrap gap-y-4 px-8 pt-8 pb-16 1004px:pb-8 1004px:pt-4">
-                    {projectInfoData._pDetails.map((d, i) => {
-                      return (
-                        <div
-                          key={i}
-                          className=" w-32% flex items-start justify-center flex-col 662px:w-48%"
-                        >
-                          <span className=" bricolage_grotesque_head text-p1 font-p1 1004px:text-p2 792px:text-p3">
-                            {d._h6}
-                          </span>
-                          <span className=" text-p2 font-p2 text-color_gray public_sans_body 1004px:text-p3 792px:text-p4">
-                            {d._pD}
-                          </span>
-                        </div>
-                      );
-                    })}
-                  </div> */}
                 </div>
                 <div className="right-div-of-info pl-6 mt-[65px] absolute right-0 w-30% flex items-start justify-start flex-col gap-8 1004px:mt-[55px] 792px:mt-[50px] 500px:hidden">
-                  <ServicesIncludes serviceUse={projectInfoData.serviceUse} _sIncludesH="Services Use" />
+                  <ServicesIncludes
+                    serviceUse={projectInfoData.serviceUse}
+                    _sIncludesH="Services Use"
+                  />
                   <div className="banner-of-right-div-of-info rounded-md overflow-hidden w-full min-h-[464px] flex items-center justify-center"></div>
                 </div>
                 {projectInfoData._newH5_1 && (
@@ -361,7 +375,10 @@ function ProjectInfo1({ projectInfoData }) {
                   <span>{projectInfoData._pTag}</span>
                 </p>
                 <div className="w-full hidden items-center justify-center 500px:flex">
-                  <ServicesIncludes serviceUse={projectInfoData.serviceUse} _sIncludesH="Services Use" />
+                  <ServicesIncludes
+                    serviceUse={projectInfoData.serviceUse}
+                    _sIncludesH="Services Use"
+                  />
                 </div>
                 <Get_A_Quote1 />
               </>

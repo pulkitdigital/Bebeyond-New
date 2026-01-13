@@ -52,9 +52,9 @@ function WhyChoose1Content() {
     excellenceTextColor: "text-black",
   });
   const [bottomData, setBottomData] = useState([
-    { _img: "/design_img.jpg",img_title:"Design Service Image", _display: "flex" },
-    { _img: "/tech_app_img.jpg",img_title:"Tech & App Development Image", _display: "hidden" },
-    { _img: "/branding_img.jpg",img_title:"Branding Service Image", _display: "hidden" },
+    { _img: "/Home-Images/Innovation.webp",img_title:"Innovation Image", _display: "flex" },
+    { _img: "/Home-Images/collabration.webp",img_title:"Collabration  Image", _display: "hidden" },
+    { _img: "/Home-Images/adaptibility.webp",img_title:"Adaptibility", _display: "hidden" },
   ]);
   function changeContentOnClick(param) {
     if (param === "INNOVATION") {
@@ -68,9 +68,9 @@ function WhyChoose1Content() {
         excellenceTextColor: "text-black",
       });
       setBottomData([
-        { _img: "/design_img.jpg", img_title:"Design Service Image", _display: "flex" },
-        { _img: "/tech_app_img.jpg", img_title:"Tech & App Development Image", _display: "hidden" },
-        { _img: "/branding_img.jpg", img_title:"Branding Service Image", _display: "hidden" },
+        { _img: "/Home-Images/Innovation.webp", img_title:"Innovation Image", _display: "flex" },
+        { _img: "/Home-Images/collabration.webp", img_title:"Collabration  Image", _display: "hidden" },
+        { _img: "/Home-Images/adaptibility.webp", img_title:"Adaptibility", _display: "hidden" },
       ]);
       setCounterVal({ counterVal1: 0, counterVal2: 0 });
       setStartCount(true);
@@ -86,9 +86,9 @@ function WhyChoose1Content() {
       });
 
       setBottomData([
-        { _img: "/design_img.jpg", img_title:"Design Service Image", _display: "hidden" },
-        { _img: "/tech_app_img.jpg",img_title:"Tech & App Development Image", _display: "flex" },
-        { _img: "/branding_img.jpg",img_title:"Branding Service Image", _display: "hidden" },
+        { _img: "/Home-Images/Innovation.webp", img_title:"Innovation Image", _display: "hidden" },
+        { _img: "/Home-Images/collabration.webp",img_title:"Collabration  Image", _display: "flex" },
+        { _img: "/Home-Images/adaptibility.webp",img_title:"Adaptibility", _display: "hidden" },
       ]);
       setCounterVal({ counterVal1: 1, counterVal2: 1 });
       setStartCount(true);
@@ -104,9 +104,9 @@ function WhyChoose1Content() {
       });
 
       setBottomData([
-        { _img: "/design_img.jpg", img_title:"Design Service Image", _display: "hidden" },
-        { _img: "/tech_app_img.jpg", img_title:"Tech & App Development Image", _display: "hidden" },
-        { _img: "/branding_img.jpg",img_title:"Branding Service Image", _display: "flex" },
+        { _img: "/Home-Images/Innovation.webp", img_title:"Innovation Image", _display: "hidden" },
+        { _img: "/Home-Images/collabration.webp", img_title:"Collabration  Image", _display: "hidden" },
+        { _img: "/Home-Images/adaptibility.webp",img_title:"Adaptibility", _display: "flex" },
       ]);
       setCounterVal({ counterVal1: 2, counterVal2: 2 });
       setStartCount(true);

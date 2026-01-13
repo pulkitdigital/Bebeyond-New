@@ -1,11 +1,12 @@
 export const projects2 = [
+  // Madan Uniforms Project
   {
     forBrand: "madan_uniforms",
     _img: "/projects_img/website-design.jpg",
-    img_title: "Website Design Project Image",
-    _h4: "Digital Publishing Hub",
+    img_title: "Retail Uniform Manufacturer Project Image",
+    _h4: "Retail Store",
     _p2: "Social Media Marketing and Meta Ads",
-    _p3: "Madan Uniforms is a Prayagraj-based retail and B2B uniform manufacturer serving schools, institutions, and corporate clients. With a strong offline reputation and steady bulk demand, the brand required a focused digital advertising strategy to increase visibility, reach decision-makers, and generate consistent inquiries during peak seasons.",
+    _p3: "Madan Uniforms is a Prayagraj-based retail and B2B school uniform manufacturer, known for durable quality, reliable delivery, and a strong offline presence built over the years.",
     _span: "Read More",
 
     serviceUse: ["Social Media Marketing", "Meta Ads"],
@@ -19,115 +20,1096 @@ export const projects2 = [
 
     _h4_new: "Retail Store",
     _p_new:
-      "Madan Uniforms is a Prayagraj-based retail and B2B uniform manufacturer serving schools, institutions, and corporate clients. With a strong offline reputation and steady bulk demand, the brand required a focused digital advertising strategy to increase visibility, reach decision-makers, and generate consistent inquiries during peak seasons.",
+      "Along with institutional supply, Madan Uniforms caters to parents and students through its retail stores, especially during peak admission and academic seasons. The brand required a focused digital advertising strategy to support both B2B institutional demand and local retail footfall while maintaining cost efficiency.",
 
     _newH5_1: "Challenges:",
     _newp1: [
-      "Despite a strong offline reputation, Madan Uniforms had limited digital reach. School owners, administrators, and institutional buyers were not being effectively reached through online platforms.",
-      "Uniform demand is highly seasonal, peaking during admissions and academic sessions. Advertising needed precise timing to capture high-intent demand without wasting budget during off-seasons.",
-      "Balancing B2B institutional buyers and local retail customers required distinct messaging and targeting strategies to address both audiences effectively.",
+      "Despite a strong offline reputation, Madan Uniforms had limited digital visibility. School owners, administrators, and institutional buyers were not being reached effectively through online platforms.",
+      "Retail demand was highly seasonal, with spikes during admissions and academic sessions. The challenge was to capture peak demand without overspending during low-demand periods.",
+      "The brand needed to address two distinct audiences—B2B institutional buyers and local retail customers—each requiring different messaging, creatives, and targeting strategies.",
     ],
 
     _newH5_2: "Our Approach:",
     _newp2: [
-      "We analyzed Madan Uniforms’ product range, order patterns, and peak sales periods to align advertising efforts with actual business demand.",
-      "Meta Ads campaigns were structured to target school owners, administrators, educational institutions, and local retail buyers within Prayagraj and nearby areas. Location, interest, and behavior-based targeting ensured reach to high-intent decision-makers.",
-      "Ad creatives highlighted bulk supply capability, product quality and variety, and reliability with timely delivery. Messaging remained practical and conversion-focused.",
-      "Campaigns were continuously optimized based on reach, engagement, inquiry quality, and cost efficiency. Underperforming creatives were replaced, and high-performing formats were scaled.",
+      "BeBeyond began by analyzing Madan Uniforms’ product mix, buying cycles, and historical demand patterns. This helped align digital advertising efforts with real business needs instead of running generic campaigns.",
+      "Meta Ads campaigns were structured to target school authorities, institutions, and local retail buyers within Prayagraj. Location, interest, and behavior-based targeting ensured ads reached high-intent audiences.",
+      "Creative strategy focused on practical decision-making factors such as product quality, school-specific uniforms, variety, and delivery reliability. Messaging was kept clear, local, and conversion-driven.",
     ],
 
     _newH5_3: "Solutions:",
     _newp3: [
-      "Performance-driven Meta Ads campaigns focused on visibility, engagement, and inquiry generation.",
-      "A local dominance strategy ensured Madan Uniforms remained top-of-mind during school uniform purchasing cycles.",
-      "Optimized targeting and creatives ensured cost-efficient use of ad spend by focusing only on high-intent audiences.",
+      "A performance-led Meta Ads strategy was implemented to drive visibility, engagement, and enquiry generation for both institutional and retail segments.",
+      "Campaigns were monitored and optimized continuously based on reach, engagement, enquiry quality, and cost efficiency to ensure effective budget utilization.",
+      "High-performing creatives, audiences, and formats were scaled, while underperforming elements were refined or replaced to maintain consistent performance.",
     ],
 
     _newH5_4: "Results:",
     _newp4: [
-      "Stronger local visibility across Facebook and Instagram within the target geography.",
-      "Consistent inquiries from schools, institutions, and retail customers.",
-      "Improved demand capture during peak admission and academic seasons.",
+      "Madan Uniforms achieved stronger local visibility across Facebook and Instagram within its target geography.",
+      "The campaigns generated consistent enquiries from schools, institutions, parents, and students, supporting both B2B and retail sales.",
+      "The brand successfully captured peak seasonal demand during admission and academic periods while maintaining cost-effective digital growth.",
     ],
 
     _newH5_5: "Key Features:",
     _newp5: [
       "Meta Ads Strategy & Execution",
-      "Retail and B2B Audience Targeting",
-      "Local & Regional Campaigns",
+      "Retail and Institutional Audience Targeting",
+      "Local & Regional Campaign Management",
       "Seasonal Demand Optimization",
     ],
 
     _pTag: "Social Media Marketing and Meta Ads",
   },
+
+  // Amber Group Project
+  {
+    forBrand: "amber_group",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Amber Group Social Media Management",
+    _h4: "Hospitality & Events",
+    _p2: "Social Media Management",
+    _p3: "Amber is a premium hospitality and events brand offering curated cafe experiences, event spaces, and comfortable stays. Known for refined ambience and quality food, the brand needed a strong social media presence to drive recall and engagement.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "Amber Group" },
+      { _h6: "Category:", _pD: "Hospitality & Events" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "Amber Group needed a consistent and visually refined social media strategy to reflect its premium hospitality and events experience. The objective was to showcase ambience, food quality, and guest experiences while driving enquiries and visits.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The hospitality and events space is highly competitive, making brand differentiation critical.",
+      "Guests often rely on visual appeal and social proof when choosing dining or event venues.",
+      "Balancing everyday hospitality promotion with event and celebration-focused communication required structured planning.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We developed a content strategy focused on ambience, food presentation, and guest experiences to represent the Amber brand accurately.",
+      "Reels, carousels, and static posts were planned to highlight dining offerings, events, and overall hospitality.",
+      "Posting schedules were aligned with weekends, celebrations, and high-footfall periods.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Monthly content calendars curated around hospitality, events, and seasonal promotions.",
+      "High-quality visual content showcasing food, interiors, and customer moments.",
+      "Engagement-driven captions and CTAs to encourage reservations and event enquiries.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved brand presence and visual consistency across social platforms.",
+      "Higher engagement from local audiences seeking hospitality and event venues.",
+      "Increased enquiries for events, gatherings, and casual visits.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Hospitality & Events Content Strategy",
+      "Visual Storytelling for Dining & Events",
+      "Audience Engagement & Brand Recall",
+      "Consistent Social Media Presence",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+  {
+    forBrand: "amber_group",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Amber Group Website Design & Development",
+    _h4: "Hospitality & Events",
+    _p2: "Website Design and Development",
+    _p3: "Amber Group required a clean, visually appealing website to present its hospitality offerings, event spaces, and brand experiences while supporting enquiries and digital credibility.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Amber Group" },
+      { _h6: "Category:", _pD: "Hospitality & Events Website Development" },
+      // { _h6: "Live Website:", _pD: "https://springgreen-quail-699876.hostingersite.com/" }
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The Amber Group website was designed to reflect the brand’s premium hospitality and events experience while clearly communicating dining options, event spaces, and brand values. The focus remained on visual appeal, clarity, and smooth enquiry flow.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Hospitality and events brands rely heavily on visual presentation, making design quality essential.",
+      "Multiple offerings such as dining, events, and stays needed clear content separation.",
+      "Building trust and encouraging enquiries required intuitive navigation and layout.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "The website structure was planned to clearly highlight hospitality experiences, event spaces, and brand information.",
+      "Design elements focused on warmth, elegance, and consistency to match the Amber ambience.",
+      "CTAs and enquiry points were placed strategically to support conversions.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A responsive, visually rich website optimized for mobile and desktop devices.",
+      "Clear sections showcasing ambience, food, and event capabilities.",
+      "Integrated enquiry and contact points for high-intent visitors.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger digital presence and improved brand credibility.",
+      "Better user understanding of Amber Group’s hospitality and events offerings.",
+      "Increased enquiries for events, dining, and private gatherings.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Hospitality & Events UI/UX Design",
+      "Visual Storytelling Through Design",
+      "Lead-Focused Website Structure",
+      "Mobile & SEO-Friendly Development",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // SkyPro Aviation Projects
+  {
+    forBrand: "skypro_aviation",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "SkyPro Aviation Social Media Management",
+    _h4: "Aviation Training Academy",
+    _p2: "Social Media Management",
+    _p3: "SkyPro Aviation is a leading aviation training academy in India, led by airline-experienced instructors. The brand needed a strong social media presence to educate, engage, and convert aspiring pilots.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "SkyPro Aviation" },
+      { _h6: "Category:", _pD: "Aviation Education Marketing" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "SkyPro Aviation needed a structured social media strategy to communicate trust, credibility, and clarity around aviation training. The goal was to position the academy as a reliable, end-to-end aviation training partner while driving consistent student enquiries.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Aviation training is a high-investment decision, requiring strong trust and clarity before conversion.",
+      "Potential students lacked clear understanding of the complete aviation training journey, from DGCA exams to type rating.",
+      "Competition from multiple academies created noise, making differentiation critical.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We built a content strategy focused on education, transparency, and authority, simplifying complex aviation concepts for aspiring pilots.",
+      "Social media content highlighted instructor experience, training pathways, DGCA guidance, and real student journeys.",
+      "Posting consistency and platform-specific formats were used to maintain visibility and engagement.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Structured monthly content calendars aligned with admission cycles and student intent.",
+      "Informative reels, carousel posts, and explainer content to address common student doubts.",
+      "Direct-response messaging to drive enquiries through DMs and lead forms.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved brand credibility and clarity across social platforms.",
+      "Higher engagement from aviation aspirants actively researching aviation training.",
+      "Steady growth in qualified enquiries driven through social media.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Aviation-Focused Content Strategy",
+      "Instructor & Training Authority Positioning",
+      "Lead-Oriented Social Media Content",
+      "Consistent Brand Communication",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+  {
+    forBrand: "skypro_aviation",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "SkyPro Aviation Website Design & Development",
+    _h4: "Aviation Training Academy",
+    _p2: "Website Design and Development",
+    _p3: "SkyPro Aviation required a modern, conversion-focused website to clearly communicate its complete aviation training ecosystem, build trust with aspiring pilots, and support enquiry generation.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "SkyPro Aviation" },
+      { _h6: "Category:", _pD: "Aviation Website Development" },
+      { _h6: "Live Website:", _pD: "https://skyproaviation.org/" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The SkyPro Aviation website was designed to act as a central information hub for aspiring pilots, clearly outlining training programs, guidance structure, and career pathways while maintaining strong trust signals.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Aviation training involves complex processes that needed to be explained clearly and logically.",
+      "The website had to appeal to students, parents, and career decision-makers simultaneously.",
+      "Trust and credibility were critical due to the long-term investment nature of aviation training.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured the website around the complete aviation training journey, from DGCA ground classes to flying and licence conversion.",
+      "Clear navigation, logical content flow, and focused CTAs were implemented to guide users.",
+      "Design choices emphasized professionalism, clarity, and aviation credibility.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A responsive, fast-loading website optimized for mobile and desktop users.",
+      "Clear program pages explaining training stages, eligibility, and guidance.",
+      "Strategically placed enquiry forms to capture high-intent leads.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved user understanding of SkyPro Aviation’s complete training ecosystem.",
+      "Increased trust and time spent on the website by prospective students.",
+      "More consistent and qualified enquiries through the website.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "User-Centric Website Architecture",
+      "Aviation-Focused UI/UX Design",
+      "Lead-Optimized Page Structure",
+      "Mobile & SEO-Friendly Development",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // First Print Publication Project
+  {
+    forBrand: "first_print_publication",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "First Print Publications Social Media Management",
+    _h4: "Digital Publishing Hub",
+    _p2: "Social Media Management",
+    _p3: "First Print Publications required a consistent and informative social media presence to connect with authors, scholars, and readers while building credibility in the publishing ecosystem.",
+    _span: "Read More",
+
+    serviceUse: [
+      "Social Media Management",
+      "Content Strategy",
+      "Creative Design",
+    ],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "First Print Publications" },
+      { _h6: "Category:", _pD: "Publishing & Education Marketing" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "First Print Publications needed a structured social media strategy to educate their audience, build trust with authors and scholars, and highlight their publishing expertise. The focus was on clarity, credibility, and consistent engagement.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Publishing services are complex and often misunderstood by first-time authors and scholars.",
+      "The audience included diverse segments such as authors, researchers, and academic institutions, each requiring different messaging.",
+      "Low brand visibility on social platforms limited reach and engagement.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We created an educational content strategy explaining publishing processes, submission guidelines, and author journeys.",
+      "Content themes were designed to address common doubts faced by authors and scholars.",
+      "Posting consistency and platform-appropriate formats were used to build long-term visibility.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Monthly content calendars aligned with publishing cycles and academic timelines.",
+      "Informative posts, reels, and carousels focused on author guidance and publishing insights.",
+      "Clear CTAs encouraging manuscript submissions and enquiries.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved awareness and credibility within the publishing community.",
+      "Higher engagement from authors and scholars researching publishing solutions.",
+      "Increased enquiries for publishing and academic services.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Educational Publishing Content",
+      "Author & Scholar-Focused Messaging",
+      "Consistent Brand Communication",
+      "Lead-Oriented Social Media Strategy",
+    ],
+
+    _pTag: "Social Media Management",
+  },
   {
     forBrand: "first_print_publication",
     _img: "/projects_img/website-design.jpg",
-    img_title: "Website Design Project Image",
+    img_title: "First Print Publications Website Design & Development",
     _h4: "Digital Publishing Hub",
-    _p2: "Website Design",
-    _p3: "Created an interactive website for showcasing publishing services, catering to authors, scholars, and book enthusiasts with a seamless user experience.",
+    _p2: "Website Design and Development",
+    _p3: "A complete website solution designed to showcase publishing services, support authors and scholars, and enable online book sales through a seamless digital experience.",
     _span: "Read More",
-    serviceUse: ["Web Dev", "E-Commerce", "WordPress", "UX Design"],
+
+    serviceUse: ["Website Design", "Website Development", "WordPress"],
+
     _pDetails: [
-      { _h6: "Project Name:", _pD: "Digital Publishing Hub" },
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "First Print Publications" },
+      { _h6: "Category:", _pD: "Publishing & Education Marketing" },
+      { _h6: "Live Website:", _pD: "https://firstprintpublications.com/" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "First Print Publications approached us to build a complete digital publishing hub that could support authors, scholars, and readers. The website needed to communicate services clearly while offering a smooth and professional user experience.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The brand had no existing online presence, requiring the website to be built entirely from scratch.",
+      "The website needed to serve multiple audiences including authors, scholars, and book buyers.",
+      "E-commerce functionality had to be integrated without compromising usability.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We focused on user-centric design to make the website intuitive and accessible for all user groups.",
+      "WordPress was selected for flexibility, scalability, and ease of content management.",
+      "Site architecture was planned to clearly separate publishing services, author resources, and book sales.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A modern, responsive website reflecting the academic and publishing ecosystem.",
+      "Integrated e-commerce store with secure payment gateways and smooth checkout.",
+      "Dedicated sections for authors and scholars, including submission guidelines and resources.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Strong digital presence aligned with the brand’s publishing vision.",
+      "Improved engagement from authors, scholars, and readers.",
+      "Streamlined book sales and enquiry processes through the website.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Author Portal & Submission Flow",
+      "Integrated E-commerce Store",
+      "Scholar Resource Sections",
+      "Responsive & SEO-Friendly Design",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  //Ttapio Cafe Project
+  {
+    forBrand: "ttapio_cafe",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Ttapio Cafe Social Media & Branding",
+    _h4: "Retail Cafe",
+    _p2: "Social Media Management & Branding",
+    _p3: "Ttapio Cafe is a Jammu-based specialty cafe offering handcrafted bubble tea, desserts, and comfort beverages. The brand required a complete digital foundation to establish a strong identity and consistently attract local customers.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management", "Branding"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management & Branding" },
+      { _h6: "Client:", _pD: "Ttapio Cafe" },
+      { _h6: "Category:", _pD: "Retail Cafe" },
+    ],
+
+    _h4_new: "Social Media Management & Branding",
+    _p_new:
+      "Ttapio Cafe needed end-to-end brand building and social media execution to create a clear identity, maintain consistency, and turn online engagement into real cafe visits and orders.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The cafe had quality products but no defined digital brand identity or consistent visual presence.",
+      "Social media content lacked structure, resulting in limited reach and weak brand recall.",
+      "Building recognition from scratch while driving real footfall required a focused branding approach.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We defined Ttapio Cafe’s brand tone, visual style, and content direction to ensure consistency across platforms.",
+      "Social media strategy was aligned with trending formats, local audience behaviour, and peak cafe hours.",
+      "Branding and content worked together to build familiarity, trust, and recognition.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Complete brand identity execution including visual consistency, logo usage, and content templates.",
+      "Social media content creation with menu-focused creatives, reels, and trend-based formats.",
+      "Consistent posting and brand-led storytelling to strengthen recall and engagement.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Established a strong and recognizable digital identity for Ttapio Cafe.",
+      "Improved engagement, stronger brand recall, and steady growth in followers and enquiries.",
+      "Social media became a key channel for awareness, dine-in interest, and online orders.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Brand Identity Development",
+      "Social Media Strategy & Execution",
+      "Visual & Content Consistency",
+      "Reel & Trend-Based Marketing",
+      "Local Brand Building",
+    ],
+
+    _pTag: "Social Media + Branding",
+  },
+  // Lovely Jewellers Project
+  {
+    forBrand: "lovely_jewellers",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Lovely Jewellers Social Media Management",
+    _h4: "Jewellery Store",
+    _p2: "Social Media Management",
+    _p3: "Lovely Jewellers, located in Prayagraj, is a trusted destination for elegant gold and silver jewellery crafted with precision and care. To strengthen local visibility and customer engagement, the brand required a focused and consistent social media presence.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "Lovely Jewellers" },
+      { _h6: "Category:", _pD: "Jewellery Store" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "Lovely Jewellers needed a visually strong and trust-driven social media strategy to showcase jewellery collections, highlight craftsmanship, and stay top-of-mind for weddings, festivals, and everyday jewellery buyers.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Jewellery purchasing is trust-based, requiring consistent credibility and brand recall.",
+      "Standing out in a competitive local jewellery market demanded strong visual presentation.",
+      "Balancing traditional jewellery buyers with modern style preferences needed clear content direction.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We created a content strategy focused on showcasing gold and silver jewellery through clean, elegant visuals.",
+      "Content themes were aligned with weddings, festivals, daily wear, and special occasions.",
+      "Posting consistency and local relevance were maintained to strengthen brand familiarity.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Curated monthly social media content calendars tailored to jewellery collections and seasons.",
+      "High-quality posts and reels highlighting craftsmanship, designs, and in-store collections.",
+      "Engagement-driven captions to encourage enquiries, visits, and brand interaction.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved local brand visibility across social media platforms.",
+      "Higher engagement from customers interested in gold and silver jewellery.",
+      "Better brand recall during weddings, festivals, and special occasions.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Jewellery-Focused Visual Content",
+      "Local Audience Engagement",
+      "Festival & Occasion-Based Campaigns",
+      "Consistent Brand Communication",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+
+  // Pookie Hub Project
+  {
+    forBrand: "pookie_hub",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Pookie Hub Social Media Management & Meta Ads",
+    _h4: "Lifestyle & Gift Store",
+    _p2: "Social Media Management & Meta Ads",
+    _p3: "Pookie Hub is Prayagraj’s cutest lifestyle store offering toys, stationery, gifts, and home décor that spark joy across all age groups. To drive local visibility, engagement, and store footfall, the brand required a combined social media and Meta Ads strategy.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management", "Meta Ads"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management & Meta Ads" },
+      { _h6: "Client:", _pD: "Pookie Hub" },
+      { _h6: "Category:", _pD: "Lifestyle & Retail Store" },
+    ],
+
+    _h4_new: "Social Media Management & Meta Ads",
+    _p_new:
+      "Pookie Hub needed a fun, colorful, and performance-driven digital strategy to showcase its wide product range while driving real-world store visits. The focus was on combining engaging organic content with targeted Meta Ads to reach the right local audience.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The store caters to multiple customer segments including kids, parents, students, and gift buyers, requiring varied messaging.",
+      "Standing out in a competitive retail environment demanded strong visual content and frequent visibility.",
+      "Driving actual footfall from digital platforms required precise local ad targeting.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We developed a playful and visually rich social media content strategy highlighting toys, stationery, gifts, and creative products.",
+      "Content themes were aligned with festivals, gifting occasions, school needs, and trending products.",
+      "Meta Ads campaigns were structured to target local audiences in and around Prayagraj using location, interest, and behavior-based targeting.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Consistent organic content through reels, carousels, and posts to build brand recall and engagement.",
+      "Meta Ads campaigns focused on reach, engagement, and store awareness to drive discovery.",
+      "High-performing creatives were scaled, while underperforming ads were optimized or replaced to improve efficiency.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Increased local visibility and awareness for Pookie Hub across Facebook and Instagram.",
+      "Higher engagement from parents, kids, and young shoppers discovering products through social media.",
+      "Improved store visits and enquiries driven by a combination of organic content and Meta Ads.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Playful & Youth-Focused Content Strategy",
+      "Local Audience Targeting via Meta Ads",
+      "Product Discovery & Visual Storytelling",
+      "Footfall & Engagement-Driven Campaigns",
+    ],
+
+    _pTag: "Social Media Management & Meta Ads",
+  },
+
+  //Backyard Sport Arena Project
+  {
+    forBrand: "backyard_sports_arena",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Backyard Sports Arena Social Media Management",
+    _h4: "Sports & Recreation Arena",
+    _p2: "Social Media Management",
+    _p3: "Backyard Sports Arena is Naini’s go-to destination for sports lovers, offering a modern and well-equipped space for multiple sports. To build strong local visibility and community engagement, the arena required a consistent and energetic social media presence.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "Backyard Sports Arena" },
+      { _h6: "Category:", _pD: "Sports & Recreation" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "Backyard Sports Arena needed a dynamic social media strategy to showcase its courts, sports facilities, and community-driven activities. The focus was on promoting an active lifestyle while encouraging bookings, participation, and repeat visits.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Local sports venues require constant visibility to stay top-of-mind among players.",
+      "Appealing to both serious athletes and casual players needed balanced messaging.",
+      "Building a sports community online required regular engagement and real-action content.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We created a high-energy content strategy showcasing live games, training sessions, and facility highlights.",
+      "Content themes focused on different sports, player moments, and community participation.",
+      "Posting schedules were aligned with peak playing hours, weekends, and local tournaments.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Consistent social media posts and reels highlighting courts, matches, and player experiences.",
+      "Engaging captions encouraging bookings, team participation, and friendly competition.",
+      "Community-driven content to build loyalty and repeat engagement.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger local brand presence among sports enthusiasts in and around Naini.",
+      "Higher engagement from players, teams, and fitness-focused audiences.",
+      "Improved awareness and participation driven by social media activity.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Sports-Focused Content Strategy",
+      "Community Engagement & Player Highlights",
+      "Local Visibility & Brand Recall",
+      "Consistent Social Media Presence",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+
+  //Agarwal Bag House
+  {
+    forBrand: "agarwal_bag_house",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Agarwal Bag House Social Media Management",
+    _h4: "Bags & Utility Retail Brand",
+    _p2: "Social Media Management",
+    _p3: "Agarwal Bag House is a one-stop destination for functional and reliable bags for everyday use, travel, business, and bulk requirements. To strengthen local visibility and communicate product variety, the brand required a consistent and practical social media presence.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "Agarwal Bag House" },
+      { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "Agarwal Bag House needed a clear and product-focused social media strategy to highlight its wide range of bags, including school bags, backpacks, handbags, trolley bags, and customized bulk orders. The goal was to drive store awareness and enquiries through simple, honest communication.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The product range was wide, making it important to communicate utility without overwhelming customers.",
+      "Standing out in a competitive local retail market required consistent visibility.",
+      "Educating customers about bulk and customized bag options needed clear messaging.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We developed a content strategy focused on everyday use-cases such as school, travel, office, and gifting.",
+      "Content themes highlighted durability, pricing value, and practical design rather than gimmicks.",
+      "Posting schedules were aligned with school seasons, travel periods, and bulk buying cycles.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Consistent social media posts showcasing different bag categories and use-cases.",
+      "Simple product-focused visuals and captions explaining functionality and value.",
+      "Clear CTAs encouraging store visits, bulk enquiries, and customization requests.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved local visibility and brand familiarity.",
+      "Higher engagement from parents, students, travelers, and business buyers.",
+      "Increased enquiries for bulk and customized bag orders.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Product-Focused Social Media Content",
+      "Local Retail Audience Engagement",
+      "Bulk & Custom Order Communication",
+      "Consistent Brand Messaging",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+  {
+    forBrand: "agarwal_bag_house",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Agarwal Bag House Website Design & Development",
+    _h4: "Bags & Utility Retail Brand",
+    _p2: "Website Design and Development",
+    _p3: "Agarwal Bag House required a clean and informative website to showcase its product range, highlight bulk and customization services, and provide easy enquiry access for retail and B2B customers.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Agarwal Bag House" },
+      { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The website for Agarwal Bag House was designed to clearly present its wide range of bags and services while keeping navigation simple and enquiry-focused. The emphasis was on clarity, trust, and ease of contact.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to present multiple product categories without clutter.",
+      "Both retail customers and bulk buyers had to be addressed on the same platform.",
+      "Clear communication of customization and bulk order services was essential.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured the website around key product categories such as school bags, travel bags, handbags, and eco-friendly options.",
+      "Design choices focused on simplicity and usability rather than heavy visuals.",
+      "Clear enquiry points were added for bulk orders and branding requirements.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A responsive, easy-to-navigate website suitable for all devices.",
+      "Dedicated sections explaining bulk orders, customization, and product categories.",
+      "Clear contact and enquiry forms to capture high-intent leads.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved digital presence for Agarwal Bag House.",
+      "Better customer understanding of product range and services.",
+      "More structured enquiries from retail and B2B customers.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Utility-Focused Website Structure",
+      "Retail & B2B Information Flow",
+      "Clear Enquiry & Contact Points",
+      "Mobile-Friendly Development",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  //Hi-Pro Bags Project
+  {
+    forBrand: "hi_pro_bags",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Hi-Pro Bags Social Media Management",
+    _h4: "Wholesale Bag Manufacturer",
+    _p2: "Social Media Management",
+    _p3: "Hi-Pro Bags designs and manufactures dependable bags for everyday use. As a wholesale-focused manufacturer, the brand needed a clear, professional social media presence to communicate product reliability, manufacturing strength, and consistent quality to distributors and bulk buyers.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "Hi-Pro Bags" },
+      { _h6: "Category:", _pD: "Manufacturing & Wholesale Marketing" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "Hi-Pro Bags needed a focused and practical social media strategy to present its manufacturing capabilities, product durability, and wholesale reliability. The objective was to build trust with distributors, retailers, and bulk buyers through disciplined, no-nonsense communication.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Wholesale buyers prioritise durability, consistency, and scalable supply over lifestyle branding.",
+      "Explaining product construction and manufacturing strength visually required a structured content approach.",
+      "Maintaining a professional brand tone across social platforms was critical for credibility.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We created a utility-driven content strategy highlighting materials, construction quality, and real-world use cases.",
+      "Content themes focused on strength, capacity, comfort, and long-term performance.",
+      "Visual consistency and posting discipline were maintained to reflect manufacturing reliability.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Regular social media posts showcasing product categories and production strengths.",
+      "Clear visuals with feature-based captions explaining bag functionality and build quality.",
+      "Wholesale-focused messaging supporting distributor and bulk order enquiries.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger professional presence across social platforms.",
+      "Improved trust and clarity for distributors and bulk buyers.",
+      "Better-quality enquiries aligned with wholesale requirements.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Wholesale-Focused Content Strategy",
+      "Product & Manufacturing Communication",
+      "Utility-Driven Visual Presentation",
+      "Consistent Brand Messaging",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+  {
+    forBrand: "hi_pro_bags",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Hi-Pro Bags Website Design & Development",
+    _h4: "Wholesale Bag Manufacturer",
+    _p2: "Website Design and Development",
+    _p3: "Hi-Pro Bags required a clear, professional website to represent its manufacturing capabilities, product range, and wholesale focus while supporting distributor and bulk order enquiries.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Hi-Pro Bags" },
       {
-        _h6: "Project Length:",
-        _pD: "20 Days",
+        _h6: "Category:",
+        _pD: "Manufacturing & Wholesale Website Development",
       },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The Hi-Pro Bags website was designed to communicate reliability, scale, and manufacturing credibility. The focus was on presenting product categories clearly, highlighting production capability, and making bulk enquiry access simple and direct.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to clearly communicate wholesale positioning without retail confusion.",
+      "Multiple product categories had to be presented cleanly without visual clutter.",
+      "Bulk buyers and distributors required fast access to product and enquiry information.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured the website around core product categories and manufacturing strengths.",
+      "Design decisions prioritised clarity, readability, and professional presentation.",
+      "Clear enquiry pathways were created for distributors and bulk buyers.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A responsive, easy-to-navigate website suitable for desktop and mobile users.",
+      "Dedicated sections highlighting product ranges, materials, and production capability.",
+      "Simple enquiry forms designed to capture high-intent wholesale leads.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved digital credibility for Hi-Pro Bags as a wholesale manufacturer.",
+      "Better understanding of product range and manufacturing strength among visitors.",
+      "More structured and relevant distributor and bulk enquiries.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Wholesale-Centric Website Structure",
+      "Clear Product Categorisation",
+      "Manufacturing Capability Highlight",
+      "Lead-Focused Enquiry Design",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // Chandra Shekhar Singh College of Pharmacy Project
+  {
+    forBrand: "csscp",
+    _img: "/projects_img/website-design.jpg",
+    img_title:
+      "Chandra Shekhar Singh College of Pharmacy Website Design & Development",
+    _h4: "Pharmacy Education Institute",
+    _p2: "Website Design and Development",
+    _p3: "Chandra Shekhar Singh College of Pharmacy is a leading pharmacy institute in Uttar Pradesh offering M.Pharm, B.Pharm, and D.Pharm programs. The website was developed to clearly present academic offerings, institutional approvals, and secure student and administrative logins.",
+    _span: "Read More",
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Chandra Shekhar Singh College of Pharmacy" },
+      { _h6: "Category:", _pD: "Educational Website Development" },
+      { _h6: "Live Website:", _pD: "https://csscp.in/" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The website for Chandra Shekhar Singh College of Pharmacy was designed as a complete academic and administrative digital platform. Along with public-facing academic information, secure student and administrative login systems were implemented to support internal operations and communication.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to serve multiple user groups including students, parents, faculty, and administrators.",
+      "Secure access was required for students and staff without affecting the public information flow.",
+      "Academic programs, approvals, and internal systems had to coexist within a single, structured platform.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured the website to separate public academic content from secure internal dashboards.",
+      "User roles were clearly defined to support student login and administrative access with appropriate permissions.",
+      "Design and development focused on usability, security, and long-term scalability.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A responsive website with dedicated student login and administrative login panels.",
+      "Role-based access for managing academic data, notices, and internal information.",
+      "Clear navigation ensuring students and administrators could access relevant sections efficiently.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved academic communication and internal process management through secure logins.",
+      "Better user experience for students accessing academic information and updates.",
+      "Enhanced institutional credibility through a professionally built, role-based digital platform.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Student Login System",
+      "Administrative Login & Dashboard",
+      "Role-Based Access Management",
+      "Education-Focused Website Architecture",
+      "Responsive & Secure Development",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  //Ibrand Solutions Project
+  {
+  forBrand: "ibrand_solutions",
+  _img: "/projects_img/website-design.jpg",
+  img_title: "iBrandSolutions Website Design & Development",
+  _h4: "Digital Marketing & Growth Agency",
+  _p2: "Website Design and Development",
+  _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into trusted and profitable digital businesses. The website was designed to clearly communicate the agency’s evolution, capabilities, and strategy-led approach to modern brand growth.",
+  _span: "Read More",
+
+  serviceUse: ["Website Design", "Website Development"],
+
+  _pDetails: [
+    { _h6: "Project Name:", _pD: "Website Design and Development" },
+    { _h6: "Client:", _pD: "iBrandSolutions" },
+    { _h6: "Category:", _pD: "Agency Website Development" },
+    { _h6: "Live Website:", _pD: "https://ibrand.solutions/" },
+  ],
+
+  _h4_new: "Website Design & Development",
+  _p_new:
+    "The iBrandSolutions website was built to position the brand as a credible, strategy-driven digital partner. The focus was on clarity, authority, and conversion, ensuring visitors quickly understand the agency’s value, services, and growth mindset.",
+
+  _newH5_1: "Challenges:",
+  _newp1: [
+    "The website needed to reflect the transition from a solo freelance vision to a full-scale digital agency.",
+    "Communicating strategy, creativity, and performance under one brand narrative required clear structure.",
+    "The site had to appeal to modern brands looking for measurable growth, not generic marketing services."
+  ],
+
+  _newH5_2: "Our Approach:",
+  _newp2: [
+    "We structured the website around iBrandSolutions’ core philosophy of strategy-led creativity and performance marketing.",
+    "Content flow was designed to guide users from brand story to services, process, and conversion points.",
+    "Design decisions focused on modern aesthetics, readability, and strong brand positioning."
+  ],
+
+  _newH5_3: "Solutions:",
+  _newp3: [
+    "A clean, conversion-focused website highlighting services, approach, and brand journey.",
+    "Clear messaging aligned with authentic content, data-driven decisions, and performance funnels.",
+    "Strategic CTAs placed to encourage enquiries, consultations, and business discussions."
+  ],
+
+  _newH5_4: "Results:",
+  _newp4: [
+    "Stronger digital identity reflecting iBrandSolutions’ growth and maturity as an agency.",
+    "Improved clarity of services and value proposition for potential clients.",
+    "A scalable website foundation supporting long-term brand and business growth."
+  ],
+
+  _newH5_5: "Key Features:",
+  _newp5: [
+    "Agency-Focused Website Architecture",
+    "Strategy-Led Content Structure",
+    "Conversion-Oriented Page Design",
+    "Responsive & SEO-Friendly Development"
+  ],
+
+  _pTag: "Website Design and Development"
+},
+
+  //Scanner Adda Project
+  {
+    forBrand: "scanner_adda",
+    _img: "/projects_img/e-commerce-development.jpg",
+    img_title: "E-commerce Development Project Image",
+    _h4: "Building an E-commerce Powerhouse on Shopify",
+    _p2: "E-Commerce Development",
+    _p3: "Built an e-commerce platform with email marketing integration to showcase products and streamline the purchasing process.",
+    _span: "Read More",
+    serviceUse: ["Shopify", "Product Showcase", "UX", "E-commerce"],
+    _pDetails: [
       {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
+        _h6: "Project Name:",
+        _pD: "Building an E-commerce Powerhouse on Shopify",
       },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
-        _pD: "First Print Publications",
+        _pD: "Scanner Adda",
       },
       {
         _h6: "Category:",
-        _pD: "Website Design",
+        _pD: "E-Commerce Development",
       },
     ],
-    _h4_new: "Digital Publishing Hub",
+    _h4_new: "Building an E-commerce Powerhouse on Shopify",
     _p_new:
-      "First Print Publications, a Prayagraj-based book publishing company led by the passionate Abhishek Agrawal, approached us with a vision: to transform their online presence and create a dynamic hub for authors, scholars, and book enthusiasts. They wanted a website that would not only showcase their publishing services but also provide a seamless and engaging experience for their diverse audience.",
+      "[Insert a visually appealing image of Scanner Adda's Shopify website or products here] Scanner Adda, a leading provider of scanners and imaging solutions, approached us with a goal: to establish a robust online presence and boost sales through a user-friendly e-commerce website and effective email marketing campaigns. They wanted a platform that would showcase their products, streamline the purchasing process, and nurture customer relationships.",
     _newH5_1: "Challenges:",
     _newp1: [
-      "Building from scratch: First Print Publications had no existing online presence, which meant we were starting with a blank canvas. This presented both an opportunity and a challenge. We had the freedom to create a website that perfectly reflected their brand and values, but we also had to carefully consider their target audience, their goals, and the overall user experience.",
-      "Catering to a diverse audience: First Print Publications serves a wide range of users, from established authors seeking to publish their next bestseller to aspiring writers taking their first steps in the literary world. They also provide valuable services for academics and researchers, particularly in the area of thesis publication. We needed to create a website that was informative, accessible, and engaging for everyone, regardless of their background or experience.",
-      "Integrating e-commerce: A key requirement was to build a seamless e-commerce experience for book sales. We had to ensure that the online store was easy to navigate, secure, and integrated with their existing inventory and sales processes. This involved selecting the right e-commerce platform, configuring product pages, setting up payment gateways, and ensuring a smooth and user-friendly checkout process.",
+      "Creating a User-Friendly E-commerce Experience: Scanner Adda needed a website that was easy to navigate, visually appealing, and provided a seamless shopping experience for customers.",
+      "Optimizing for Conversions: The website needed to be optimized for conversions, ensuring that visitors could easily find the products they needed and complete their purchases with minimal friction.",
+      "Building an Email List and Engaging Subscribers: Scanner Adda wanted to build an email list and engage subscribers with valuable content and promotions to drive sales and foster customer loyalty.",
     ],
     _newH5_2: "Our Approach:",
     _newp2: [
-      "Understanding the vision: We began by immersing ourselves in the world of First Print Publications. We had in-depth discussions with Abhishek, delving into his vision, goals, and challenges. We wanted to understand the heart and soul of his company and translate that into a compelling online presence.",
-      "User-centric design: We believe that a website should be more than just a digital brochure; it should be an engaging and user-friendly experience. We focused on creating a website that was intuitive and easy to navigate for all user groups, with clear site architecture, user-friendly menus, and a visually appealing design that reflected the world of literature and academia.",
-      "WordPress development: We chose WordPress as the platform for its flexibility, scalability, and ease of use. This allowed us to create a custom website that met First Print Publications' specific needs and provided them with a platform they could easily manage and update themselves. WordPress also offers a wide range of plugins and themes that allowed us to add functionality and customize the website to meet their unique requirements.",
-      "E-commerce integration: We integrated a secure and user-friendly e-commerce platform, allowing customers to easily browse and purchase books online. We ensured a smooth checkout process, secure payment gateways, and integration with their inventory management system.",
-      "Author and scholar focus: Recognizing the importance of supporting authors and scholars, we created dedicated sections for each group. The Author Portal provides a space for authors to submit manuscripts, track their submissions, and manage their profiles. The Scholar Resources section offers valuable information and support for academics seeking thesis publication assistance.",
+      "Shopify Development: We chose Shopify as the platform for its user-friendly interface, robust e-commerce features, and scalability. This allowed us to create a custom online store that met Scanner Adda's specific needs.",
+      "Product Showcase: We designed product pages that showcased Scanner Adda's scanners and imaging solutions in a clear and compelling way, highlighting key features and benefits.",
+      "User Experience (UX) Design: We focused on creating a seamless and intuitive user experience, ensuring that visitors could easily find the products they needed and navigate the website with ease.",
+      "E-commerce Optimization: We implemented various e-commerce optimization strategies, including clear calls to action, streamlined checkout processes, and secure payment gateways, to maximize conversions.",
+      "Email Marketing Strategy: We developed an email marketing strategy that included building an email list, segmenting subscribers, and creating engaging email campaigns that promoted Scanner Adda's products and services.",
     ],
     _newH5_3: "Solutions:",
     _newp3: [
-      "A dynamic website: We delivered a website that effectively showcases First Print Publications' services, including book publishing, editing, and marketing. The website features a clean and modern design, with compelling visuals and engaging content that highlights their expertise and passion for publishing.",
-      "User-friendly interface: The website is easy to navigate, with clear calls to action and a visually appealing design. We ensured that users could easily find the information they needed, whether they were looking to buy a book, submit a manuscript, or learn more about the publishing process.",
-      "E-commerce functionality: The integrated e-commerce store allows customers to purchase books online with ease. The store features a wide selection of titles, secure payment options, and a streamlined checkout process.",
-      "Dedicated resources and support: The website provides valuable information and support for authors and scholars. This includes FAQs, submission guidelines, and contact information for the First Print Publications team.",
+      "User-Friendly E-commerce Store: We delivered a Shopify store that was easy to navigate, visually appealing, and provided a seamless shopping experience for customers.",
+      "Optimized for Conversions: The website was optimized for conversions, with clear calls to action, streamlined checkout processes, and a user-friendly interface.",
+      "Engaging Email Campaigns: We created and implemented email marketing campaigns that nurtured leads, promoted products, and drove sales.",
     ],
     _newH5_4: "Results:",
     _newp4: [
-      "Increased online visibility: First Print Publications now has a strong online presence that reflects their brand and values. The website has helped them reach a wider audience and establish themselves as a leading publisher in their field.",
-      "Improved customer engagement: The website has become a valuable tool for connecting with authors, scholars, and potential clients. The Author Portal and Scholar Resources sections have facilitated communication and collaboration.",
-      "Streamlined sales process: The e-commerce store has made it easier for customers to purchase books, leading to increased sales and revenue.",
+      "Increased Website Traffic: Scanner Adda saw a significant increase in website traffic after launching their new Shopify store.",
+      "Improved Sales Performance: The e-commerce store and email marketing campaigns contributed to a significant boost in sales.",
+      "Enhanced Brand Awareness: The new online presence helped Scanner Adda increase its brand visibility and reach a wider audience.",
     ],
-    _newH5_5: "Key Features:",
+    _newH5_5: "Key Takeaways:",
     _newp5: [
-      "Author Portal: A dedicated space for authors to submit manuscripts, track submissions, and manage their profiles.",
-      "E-commerce Store: A user-friendly online store for browsing and purchasing books.",
-      "Scholar Resources: Information and support for scholars seeking thesis publication assistance.",
-      "Responsive Design: A seamless experience across all devices.",
+      "This project demonstrated the power of combining a user-friendly e-commerce platform with effective email marketing to drive business growth.",
+      "We leveraged our expertise in Shopify development, UX design, e-commerce optimization, and email marketing to achieve tangible results for Scanner Adda.",
+      "By focusing on user experience, conversion optimization, and targeted email campaigns, we helped Scanner Adda establish a successful online presence and achieve its business goals.",
     ],
     _newH5_6: "",
     _newp6: "",
@@ -151,8 +1133,10 @@ export const projects2 = [
     _newp15: "",
     _newH5_16: "",
     _newp16: "",
-    _pTag: "Website Design",
+    _pTag: "E-Commerce Development",
   },
+
+  // Indigenius Matter Project
   {
     forBrand: "indigenius_matter",
     _img: "/projects_img/video-production.jpg",
@@ -248,6 +1232,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Video Production",
   },
+
+  // Javer Wala Project
   {
     forBrand: "javer_wala",
     _img: "/projects_img/social-media-marketing.jpg",
@@ -264,18 +1250,18 @@ export const projects2 = [
     ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Social Media Success with Meta Ads" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Jewar Wallah",
@@ -345,6 +1331,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Social Media Marketing",
   },
+
+  // Kay Pee Dies Project
   {
     forBrand: "kay_pee_dies",
     _img: "/projects_img/website-redesign.jpg",
@@ -364,18 +1352,18 @@ export const projects2 = [
         _h6: "Project Name:",
         _pD: "Website for a Wire Dies Manufacturing Leader",
       },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Kay Pee Dies",
@@ -444,6 +1432,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Website Redesign",
   },
+
+  // Kazaru Project
   {
     forBrand: "kazaru",
     _img: "/projects_img/website-design.jpg",
@@ -455,18 +1445,18 @@ export const projects2 = [
     serviceUse: ["Web Dev", "WordPress", "Content Strategy", "Visual Branding"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Home Decor WordPress Website" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Kazaru",
@@ -523,6 +1513,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Website Design",
   },
+
+  // National Accountancy Bureau Project
   {
     forBrand: "national_accountancy_bureau",
     _img: "/projects_img/website-design.jpg",
@@ -534,18 +1526,18 @@ export const projects2 = [
     serviceUse: ["Web Dev", "Content Strategy", "UX", "Resource Center"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Financial Website for Accountancy Bureau" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "National Accountancy Bureau",
@@ -614,6 +1606,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Website Design",
   },
+
+  // National Academy of Commerce Project
   {
     forBrand: "national_academy_of_commerce",
     _img: "/projects_img/website-design.jpg",
@@ -625,18 +1619,18 @@ export const projects2 = [
     serviceUse: ["Web Dev", "Content Strategy", "UX", "Course Showcase"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Academic Website for Commerce Institute" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "National Academy of Commerce",
@@ -705,6 +1699,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Website Design",
   },
+
+  // Sappy Project
   {
     forBrand: "sappy",
     _img: "/projects_img/branding.jpg",
@@ -716,18 +1712,18 @@ export const projects2 = [
     serviceUse: ["Branding, Logo", "Visual Identity", "Messaging & Tone"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Branding a Corporate Gifting Portal" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Sappy",
@@ -795,100 +1791,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Branding",
   },
-  {
-    forBrand: "scanner_adda",
-    _img: "/projects_img/e-commerce-development.jpg",
-    img_title: "E-commerce Development Project Image",
-    _h4: "Building an E-commerce Powerhouse on Shopify",
-    _p2: "E-Commerce Development",
-    _p3: "Built an e-commerce platform with email marketing integration to showcase products and streamline the purchasing process.",
-    _span: "Read More",
-    serviceUse: ["Shopify", "Product Showcase", "UX", "E-commerce"],
-    _pDetails: [
-      {
-        _h6: "Project Name:",
-        _pD: "Building an E-commerce Powerhouse on Shopify",
-      },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
-      {
-        _h6: "Client:",
-        _pD: "Scanner Adda",
-      },
-      {
-        _h6: "Category:",
-        _pD: "E-Commerce Development",
-      },
-    ],
-    _h4_new: "Building an E-commerce Powerhouse on Shopify",
-    _p_new:
-      "[Insert a visually appealing image of Scanner Adda's Shopify website or products here] Scanner Adda, a leading provider of scanners and imaging solutions, approached us with a goal: to establish a robust online presence and boost sales through a user-friendly e-commerce website and effective email marketing campaigns. They wanted a platform that would showcase their products, streamline the purchasing process, and nurture customer relationships.",
-    _newH5_1: "Challenges:",
-    _newp1: [
-      "Creating a User-Friendly E-commerce Experience: Scanner Adda needed a website that was easy to navigate, visually appealing, and provided a seamless shopping experience for customers.",
-      "Optimizing for Conversions: The website needed to be optimized for conversions, ensuring that visitors could easily find the products they needed and complete their purchases with minimal friction.",
-      "Building an Email List and Engaging Subscribers: Scanner Adda wanted to build an email list and engage subscribers with valuable content and promotions to drive sales and foster customer loyalty.",
-    ],
-    _newH5_2: "Our Approach:",
-    _newp2: [
-      "Shopify Development: We chose Shopify as the platform for its user-friendly interface, robust e-commerce features, and scalability. This allowed us to create a custom online store that met Scanner Adda's specific needs.",
-      "Product Showcase: We designed product pages that showcased Scanner Adda's scanners and imaging solutions in a clear and compelling way, highlighting key features and benefits.",
-      "User Experience (UX) Design: We focused on creating a seamless and intuitive user experience, ensuring that visitors could easily find the products they needed and navigate the website with ease.",
-      "E-commerce Optimization: We implemented various e-commerce optimization strategies, including clear calls to action, streamlined checkout processes, and secure payment gateways, to maximize conversions.",
-      "Email Marketing Strategy: We developed an email marketing strategy that included building an email list, segmenting subscribers, and creating engaging email campaigns that promoted Scanner Adda's products and services.",
-    ],
-    _newH5_3: "Solutions:",
-    _newp3: [
-      "User-Friendly E-commerce Store: We delivered a Shopify store that was easy to navigate, visually appealing, and provided a seamless shopping experience for customers.",
-      "Optimized for Conversions: The website was optimized for conversions, with clear calls to action, streamlined checkout processes, and a user-friendly interface.",
-      "Engaging Email Campaigns: We created and implemented email marketing campaigns that nurtured leads, promoted products, and drove sales.",
-    ],
-    _newH5_4: "Results:",
-    _newp4: [
-      "Increased Website Traffic: Scanner Adda saw a significant increase in website traffic after launching their new Shopify store.",
-      "Improved Sales Performance: The e-commerce store and email marketing campaigns contributed to a significant boost in sales.",
-      "Enhanced Brand Awareness: The new online presence helped Scanner Adda increase its brand visibility and reach a wider audience.",
-    ],
-    _newH5_5: "Key Takeaways:",
-    _newp5: [
-      "This project demonstrated the power of combining a user-friendly e-commerce platform with effective email marketing to drive business growth.",
-      "We leveraged our expertise in Shopify development, UX design, e-commerce optimization, and email marketing to achieve tangible results for Scanner Adda.",
-      "By focusing on user experience, conversion optimization, and targeted email campaigns, we helped Scanner Adda establish a successful online presence and achieve its business goals.",
-    ],
-    _newH5_6: "",
-    _newp6: "",
-    _newH5_7: "",
-    _newp7: "",
-    _newH5_8: "",
-    _newp8: "",
-    _newH5_9: "",
-    _newp9: "",
-    _newH5_10: "",
-    _newp10: "",
-    _newH5_11: "",
-    _newp11: "",
-    _newH5_12: "",
-    _newp12: "",
-    _newH5_13: "",
-    _newp13: "",
-    _newH5_14: "",
-    _newp14: "",
-    _newH5_15: "",
-    _newp15: "",
-    _newH5_16: "",
-    _newp16: "",
-    _pTag: "E-Commerce Development",
-  },
+
+  // Sreejit Project
   {
     forBrand: "sreejit",
     _img: "/projects_img/e-commerce-development.jpg",
@@ -900,18 +1804,18 @@ export const projects2 = [
     serviceUse: ["Web Design", "UX", "E-commerce", "Amazon Smart Biz"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Online Store for Handcrafted Candles" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Sreejit by Anupama",
@@ -975,6 +1879,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "E-Commerce Development",
   },
+
+  // The Balaji Creation Project
   {
     forBrand: "the_balaji_creation",
     _img: "/projects_img/website-redesign.jpg",
@@ -986,18 +1892,18 @@ export const projects2 = [
     serviceUse: ["Web Dev", "WordPress", "CMS", "Responsive Design"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Revamping a Jewelry Store Website" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "The Balaji Creations",
@@ -1052,6 +1958,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Website Redesign",
   },
+
+  // The Celeste Chic & Co Project
   {
     forBrand: "the_celeste_chic_and_company",
     _img: "/projects_img/branding.jpg",
@@ -1063,18 +1971,18 @@ export const projects2 = [
     serviceUse: ["Branding", "Logo", "Visual Identity", "Brand Positioning"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Complete Branding for a Jewelry Brand" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "The Celeste Chic & Co",
@@ -1136,6 +2044,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Branding",
   },
+
+  // The Celeste Chic & Co Strategy Project
   // {
   //   forBrand: "the_celeste_chic_and_company",
   //   _img: "/projects_img/branding.jpg",
@@ -1217,6 +2127,8 @@ export const projects2 = [
   //   _newp16: "",
   //   _pTag: "Branding",
   // },
+
+  // The Woods Living Project
   {
     forBrand: "the_woods_living",
     _img: "/projects_img/branding.jpg",
@@ -1233,18 +2145,18 @@ export const projects2 = [
     ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Brand Identity for Handcrafted Furniture" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "The Woods Living",
@@ -1311,6 +2223,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Branding",
   },
+
+  // Utkarsh Singhal Law Offices Project
   {
     forBrand: "utkarsh_singhal_law_offices",
     _img: "/projects_img/social-media-marketing.jpg",
@@ -1322,18 +2236,18 @@ export const projects2 = [
     serviceUse: ["Social Media Mgmt", "Content", "Community", "Brand Building"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Social Media Strategy for Legal Experts" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Utkarsh Singhal Law Offices",
@@ -1401,6 +2315,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Social Media Marketing",
   },
+
+  // Zebra Learn Project
   {
     forBrand: "zebra_learn",
     _img: "/projects_img/content-creation.jpg",
@@ -1417,18 +2333,18 @@ export const projects2 = [
     ],
     _pDetails: [
       { _h6: "Project Name:", _pD: "E-books and Comprehensive Books" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Zebra Learn",
@@ -1495,90 +2411,94 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Content Creation",
   },
-  {
-    forBrand: "ttapio_cafe",
-    _img: "/projects_img/website-design.jpg",
-    img_title: "Website Design Project Image",
-    _h4: "Social Media Strategy & Content Creation",
-    _p2: "Website Design",
-    _p3: "For Tapio Cafe, we understood that every post had to feel as fresh and inviting as a cup of coffee on a chilly morning.",
-    _span: "Read More",
-    serviceUse: ["Web Dev", "Content Strategy", "UX", "Resource Center"],
-    _pDetails: [
-      { _h6: "Project Name:", _pD: "Social Media Strategy & Content Creation" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
-      {
-        _h6: "Client:",
-        _pD: "Tapio Cafe",
-      },
-      {
-        _h6: "Category:",
-        _pD: "Website Design",
-      },
-    ],
-    _h4_new: "Social Media Strategy & Content Creation",
-    _p_new:
-      "Tapio Cafe is all about giving their customers a unique and fun experience with amazing food and a cozy vibe. However, their Instagram and Facebook weren’t fully capturing the essence of their brand. They needed a strategy that would not only show off their delicious menu but also engage the audience and keep them coming back for more. The goal was clear: increase brand visibility, grow their following, and create content that felt just as warm and inviting as the cafe itself.",
-    _newH5_1: "What We Did:",
-    _newp1: [
-      "For Tapio Cafe, we understood that every post had to feel as fresh and inviting as a cup of coffee on a chilly morning. We designed a strategy to match their laid-back yet vibrant brand.",
-    ],
-    _newH5_2: "Crafting a Content Experience",
-    _newp2: [
-      "We developed a content mix that celebrated the cafe’s offerings, from delicious food shots to behind-the-scenes looks at the preparation process. We also used storytelling, showcasing customers enjoying their experience and highlighting special promotions or events. This wasn’t just about food; it was about creating an experience that followers could feel and almost taste through their screens.",
-    ],
-    _newH5_3: "SEO-Driven Approach",
-    _newp3: [
-      "We knew that in order to stand out in the crowded food scene, Tapio Cafe needed to make sure their content was discoverable. Our SEO approach included using localized keywords, relevant food-related hashtags, and SEO-driven captions to make sure the content appeared in searches for people craving great food or unique cafes. Whether it was through specific food terms or location-based keywords, we ensured their posts were reaching the right people at the right time.",
-    ],
-    _newH5_4: "Smart Captioning & Engagement Strategy",
-    _newp4: [
-      "Tapio Cafe’s posts needed more than just pretty pictures—they needed captions that reflected the fun and welcoming vibe of the cafe. We crafted witty, catchy captions designed to spark engagement. From asking fun questions to offering playful calls-to-action like 'Tag your coffee buddy!' or 'What’s your go-to order?', we kept the conversation flowing and encouraged interaction. By using an engaging tone, we made followers feel like they were already part of the Tapio Cafe family.",
-    ],
-    _newH5_5: "Running Targeted Ads for Maximum Impact",
-    _newp5: [
-      "To boost their visibility, we created targeted ads designed to bring in new customers from their local area. We focused on people who were likely to be interested in cafes, good food, and unique hangout spots. Through Instagram and Facebook’s powerful ad tools, we made sure Tapio Cafe’s message reached potential customers who were actively searching for great food experiences. This helped attract foot traffic to the cafe, as well as boost online engagement.",
-    ],
-    _newH5_6: "Data-Driven Strategy Optimization",
-    _newp6: [
-      "With Tapio Cafe, it wasn’t just about posting and hoping for the best—it was about constantly reviewing and refining. We used Instagram Insights and Facebook Analytics to monitor post performance and audience behavior, adjusting content and posting times based on what worked best. This helped us optimize every post and make sure we were getting the most out of every piece of content.",
-    ],
-    _newH5_7: "The Result:",
-    _newp7: [
-      "The transformation was clear: Tapio Cafe’s social media went from being just a casual food account to a buzzing hub of excitement and engagement. Their reach and follower base grew significantly, and their audience wasn’t just following—they were engaging with every post. The cafe's unique vibe and offerings were now being shared and talked about across the platform, building a stronger community of food lovers. Tapio Cafe not only gained more followers but also saw increased foot traffic, with people more excited to visit and share their experiences.",
-      "It wasn’t just about boosting numbers; it was about creating a stronger connection with customers and turning online followers into loyal cafe visitors.",
-    ],
-    _newH5_8: "",
-    _newp8: "",
-    _newH5_9: "",
-    _newp9: "",
-    _newH5_10: "",
-    _newp10: "",
-    _newH5_11: "",
-    _newp11: "",
-    _newH5_12: "",
-    _newp12: "",
-    _newH5_13: "",
-    _newp13: "",
-    _newH5_14: "",
-    _newp14: "",
-    _newH5_15: "",
-    _newp15: "",
-    _newH5_16: "",
-    _newp16: "",
-    _pTag: "Website Design",
-  },
+
+  //Ttapio Cafe Project - for website design
+  // {
+  //   forBrand: "ttapio_cafe",
+  //   _img: "/projects_img/website-design.jpg",
+  //   img_title: "Website Design Project Image",
+  //   _h4: "Social Media Strategy & Content Creation",
+  //   _p2: "Website Design",
+  //   _p3: "For Tapio Cafe, we understood that every post had to feel as fresh and inviting as a cup of coffee on a chilly morning.",
+  //   _span: "Read More",
+  //   serviceUse: ["Web Dev", "Content Strategy", "UX", "Resource Center"],
+  //   _pDetails: [
+  //     { _h6: "Project Name:", _pD: "Social Media Strategy & Content Creation" },
+  //     {
+  //       _h6: "Project Length:",
+  //       _pD: "20 Days",
+  //     },
+  //     {
+  //       _h6: "Completion Date:",
+  //       _pD: "JAN/11/24",
+  //     },
+  //     {
+  //       _h6: "Live Website:",
+  //       _pD: "www.projectdomain.com",
+  //     },
+  //     {
+  //       _h6: "Client:",
+  //       _pD: "Tapio Cafe",
+  //     },
+  //     {
+  //       _h6: "Category:",
+  //       _pD: "Website Design",
+  //     },
+  //   ],
+  //   _h4_new: "Social Media Strategy & Content Creation",
+  //   _p_new:
+  //     "Tapio Cafe is all about giving their customers a unique and fun experience with amazing food and a cozy vibe. However, their Instagram and Facebook weren’t fully capturing the essence of their brand. They needed a strategy that would not only show off their delicious menu but also engage the audience and keep them coming back for more. The goal was clear: increase brand visibility, grow their following, and create content that felt just as warm and inviting as the cafe itself.",
+  //   _newH5_1: "What We Did:",
+  //   _newp1: [
+  //     "For Tapio Cafe, we understood that every post had to feel as fresh and inviting as a cup of coffee on a chilly morning. We designed a strategy to match their laid-back yet vibrant brand.",
+  //   ],
+  //   _newH5_2: "Crafting a Content Experience",
+  //   _newp2: [
+  //     "We developed a content mix that celebrated the cafe’s offerings, from delicious food shots to behind-the-scenes looks at the preparation process. We also used storytelling, showcasing customers enjoying their experience and highlighting special promotions or events. This wasn’t just about food; it was about creating an experience that followers could feel and almost taste through their screens.",
+  //   ],
+  //   _newH5_3: "SEO-Driven Approach",
+  //   _newp3: [
+  //     "We knew that in order to stand out in the crowded food scene, Tapio Cafe needed to make sure their content was discoverable. Our SEO approach included using localized keywords, relevant food-related hashtags, and SEO-driven captions to make sure the content appeared in searches for people craving great food or unique cafes. Whether it was through specific food terms or location-based keywords, we ensured their posts were reaching the right people at the right time.",
+  //   ],
+  //   _newH5_4: "Smart Captioning & Engagement Strategy",
+  //   _newp4: [
+  //     "Tapio Cafe’s posts needed more than just pretty pictures—they needed captions that reflected the fun and welcoming vibe of the cafe. We crafted witty, catchy captions designed to spark engagement. From asking fun questions to offering playful calls-to-action like 'Tag your coffee buddy!' or 'What’s your go-to order?', we kept the conversation flowing and encouraged interaction. By using an engaging tone, we made followers feel like they were already part of the Tapio Cafe family.",
+  //   ],
+  //   _newH5_5: "Running Targeted Ads for Maximum Impact",
+  //   _newp5: [
+  //     "To boost their visibility, we created targeted ads designed to bring in new customers from their local area. We focused on people who were likely to be interested in cafes, good food, and unique hangout spots. Through Instagram and Facebook’s powerful ad tools, we made sure Tapio Cafe’s message reached potential customers who were actively searching for great food experiences. This helped attract foot traffic to the cafe, as well as boost online engagement.",
+  //   ],
+  //   _newH5_6: "Data-Driven Strategy Optimization",
+  //   _newp6: [
+  //     "With Tapio Cafe, it wasn’t just about posting and hoping for the best—it was about constantly reviewing and refining. We used Instagram Insights and Facebook Analytics to monitor post performance and audience behavior, adjusting content and posting times based on what worked best. This helped us optimize every post and make sure we were getting the most out of every piece of content.",
+  //   ],
+  //   _newH5_7: "The Result:",
+  //   _newp7: [
+  //     "The transformation was clear: Tapio Cafe’s social media went from being just a casual food account to a buzzing hub of excitement and engagement. Their reach and follower base grew significantly, and their audience wasn’t just following—they were engaging with every post. The cafe's unique vibe and offerings were now being shared and talked about across the platform, building a stronger community of food lovers. Tapio Cafe not only gained more followers but also saw increased foot traffic, with people more excited to visit and share their experiences.",
+  //     "It wasn’t just about boosting numbers; it was about creating a stronger connection with customers and turning online followers into loyal cafe visitors.",
+  //   ],
+  //   _newH5_8: "",
+  //   _newp8: "",
+  //   _newH5_9: "",
+  //   _newp9: "",
+  //   _newH5_10: "",
+  //   _newp10: "",
+  //   _newH5_11: "",
+  //   _newp11: "",
+  //   _newH5_12: "",
+  //   _newp12: "",
+  //   _newH5_13: "",
+  //   _newp13: "",
+  //   _newH5_14: "",
+  //   _newp14: "",
+  //   _newH5_15: "",
+  //   _newp15: "",
+  //   _newH5_16: "",
+  //   _newp16: "",
+  //   _pTag: "Website Design",
+  // },
+
+  // Whimsical Tides Project
   {
     forBrand: "whimsical_tides",
     _img: "/projects_img/art-&-design.jpg",
@@ -1590,18 +2510,18 @@ export const projects2 = [
     serviceUse: ["Infographics", "Structuring", "Content", "Customization"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Crafting an Engaging Content Strategy" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Whimsical Tides",
@@ -1661,6 +2581,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Art & Design",
   },
+
+  // Data Gol Project
   {
     forBrand: "data_gol",
     _img: "/projects_img/design-&-marketing.jpg",
@@ -1672,18 +2594,18 @@ export const projects2 = [
     serviceUse: ["Infographics", "Structuring", "Content", "Customization"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "White Paper & Brochure Design" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Data Gol",
@@ -1752,6 +2674,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Design & Marketing",
   },
+
+  // Shashwat Singhal & Company Project
   {
     forBrand: "shaswat_singhal_and_company",
     _img: "/projects_img/content-&-marketing.jpg",
@@ -1763,18 +2687,18 @@ export const projects2 = [
     serviceUse: ["Infographics", "Structuring", "Content", "Customization"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Strengthening Client Communication" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Shashwat Singhal & Company",
@@ -1836,6 +2760,8 @@ export const projects2 = [
     _newp16: "",
     _pTag: "Content & Marketing",
   },
+
+  // Venus Project
   {
     forBrand: "venus",
     _img: "/projects_img/marketing.jpg",
@@ -1847,18 +2773,18 @@ export const projects2 = [
     serviceUse: ["Infographics", "Structuring", "Content", "Customization"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Digital Growth Strategy" },
-      {
-        _h6: "Project Length:",
-        _pD: "20 Days",
-      },
-      {
-        _h6: "Completion Date:",
-        _pD: "JAN/11/24",
-      },
-      {
-        _h6: "Live Website:",
-        _pD: "www.projectdomain.com",
-      },
+      // {
+      //   _h6: "Project Length:",
+      //   _pD: "20 Days",
+      // },
+      // {
+      //   _h6: "Completion Date:",
+      //   _pD: "JAN/11/24",
+      // },
+      // {
+      //   _h6: "Live Website:",
+      //   _pD: "www.projectdomain.com",
+      // },
       {
         _h6: "Client:",
         _pD: "Venus Restaurant",

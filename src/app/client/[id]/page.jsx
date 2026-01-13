@@ -29,7 +29,12 @@ function BrandInfo({ params }) {
   return (
     <>
       <Header4 _dynamic1={paramData[0]} _dynamic2="brand_info" />
-      <AboutBrand1 _brandName={infoData && infoData[0].brandName} _para={infoData && infoData[0].para} />
+      <AboutBrand1
+        _brandName={infoData && infoData[0].brandName}
+        _para={infoData && infoData[0].para}
+        about_img={infoData && infoData[0].about_img}
+      />
+
       <main
         id="all-projects"
         className=" w-full flex items-center justify-center bg-color_creame"
