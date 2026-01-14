@@ -6,8 +6,8 @@ import { MdOutlineSupportAgent } from "react-icons/md";
 export const services2 = [
   {
     _img: "/tech_app_img.jpg",
-    title: "UI/UX Icon",
-    iconSvg: "/BeB_Icon Set/BeB_Icon Set/Set/UX-UI.svg",
+    title: "Creative Services Image",
+    iconSvg: "/Home-Images/CreativeServices.webp",
     _h4: "Creative Services",
     _p1: "We design unique logos and visuals, creating content that connects with your audience.",
     _newp1:
@@ -77,8 +77,8 @@ export const services2 = [
   },
   {
     _img: "/tech_app_img.jpg",
-    title:"Branding Icon",
-    iconSvg: "/BeB_Icon Set/BeB_Icon Set/Set/Branding.svg",
+    title:"Digital Marketing Image",
+    iconSvg: "/Home-Images/DigitalMarketing.webp",
     _h4: "Digital Marketing",
     _p1: "We boost brands online with SEO, PPC campaigns, and strategies driving traffic results.",
     _newp1:
@@ -142,8 +142,8 @@ export const services2 = [
   },
   {
     _img: "/tech_app_img.jpg",
-    title:"Web Development Icon",
-    iconSvg: "/BeB_Icon Set/BeB_Icon Set/Set/Web Dev.svg",
+    title:"Technology Solutions Image",
+    iconSvg: "/Home-Images/TechnologySolutions.webp",
     _h4: "Technology Solutions",
     _p1: "We build websites and apps, leveraging automation and AI for useful business insights.",
     _newp1:
@@ -208,8 +208,8 @@ export const services2 = [
   },
   {
     _img: "/tech_app_img.jpg",
-    title:"Branding Icon",
-    iconSvg: "/BeB_Icon Set/BeB_Icon Set/Set/Branding.svg",
+    title:"Media Services Image",
+    iconSvg: "/Home-Images/MediaServices.webp",
     _h4: "Media Services",
     _p1: "We create impactful visual stories that deeply engage your audience across all platforms.",
     _newp1:
@@ -263,8 +263,8 @@ export const services2 = [
   },
   {
     _img: "/tech_app_img.jpg",
-    title:"UI/UX Icon",
-    iconSvg: "/BeB_Icon Set/BeB_Icon Set/Set/UX-UI.svg",
+    title:"Strategy Development Image",
+    iconSvg: "/Home-Images/StrategyDevelopment.webp",
     _h4: "Strategy Development",
     _p1: "We develop actionable strategies that align with goals and deliver measurable success.",
     _newp1:
@@ -323,8 +323,8 @@ export const services2 = [
   },
   {
     _img: "/tech_app_img.jpg",
-    title: "Web Development Icon",
-    iconSvg: "/BeB_Icon Set/BeB_Icon Set/Set/Web Dev.svg",
+    title: "Analytics & Insights Image",
+    iconSvg: "/Home-Images/AnalyticsInsights.webp",
     _h4: "Analytics & Insights",
     _p1: "We analyze crucial data to reveal insights that help optimize ROI and strategic moves.",
     _newp1:

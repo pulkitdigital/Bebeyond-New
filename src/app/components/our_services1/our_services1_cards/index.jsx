@@ -27,9 +27,9 @@ function OurServices1Cards() {
               }}
               viewport={{ once: true }}
               key={ind}
-              className="card-div-of-our-services-1-cards-container w-32% flex flex-col items-center justify-center bg-white  group relative overflow-hidden 922px:w-48%  400px:min-h-0 400px:w-full 400px:gap-2"
+              className="card-div-of-our-services-1-cards-container w-32% flex flex-col items-center justify-center bg-white  group relative overflow-hidden 922px:w-48%  400px:min-h-0 400px:w-full 400px:gap-2 rounded-[16px]"
             >
-              <Image
+              {/* <Image
                 width={100}
                 height={100}
                 priority={true}
@@ -37,18 +37,22 @@ function OurServices1Cards() {
                 src="/BeB-Pattern Set/BeB-Pattern Set/Pattern/polygon-corner-shape.png"
                 alt="icon"
                 className="polygon-corner-shape-img-of-card-div-of-our-services-1-cards-container w-1/3 absolute opacity-0 left-0 top-0 group-hover:opacity-100 transition-all duration-500 ease-in-out 1004px:w-1/4"
-              />
-              <div className="img-div-of-card-div-of-our-services-1-cards-container w-24 flex items-center justify-center relative h-24 bg-color_blue_light group-hover:bg-color_orange_light transition-all duration-500 ease-in-out my-7 1004px:h-20 1004px:w-20 792px:w-16 792px:h-16">
+              /> */}
+              {/* <div className="img-div-of-card-div-of-our-services-1-cards-container w-24 flex items-center justify-center relative h-24 bg-color_blue_light group-hover:bg-color_orange_light transition-all duration-500 ease-in-out my-7 1004px:h-20 1004px:w-20 792px:w-16 792px:h-16"> */}
+              <div
+                className="flex items-center justify-center p-8"
+              >
                 <Image
-                  width={250}
-                  height={100}
-                  priority={true}
+                  width={500}
+                  height={250}
+                  priority
                   src={data.iconSvg}
                   title={data.title}
-                  alt="icon"
-                  className=" w-16 absolute 1004px:w-12 792px:w-10"
+                  alt={data.title}
+                  className="max-w-full max-h-full object-contain rounded-[16px]"
                 />
               </div>
+
               <h4 className=" w-88% text-h4 font-h4 bricolage_grotesque_head text-center 1004px:text-h5 1004px:leading-h5 792px:text-p1">
                 {data._h4}
               </h4>
