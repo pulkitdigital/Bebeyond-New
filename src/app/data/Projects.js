@@ -747,6 +747,7 @@ export const projects2 = [
       { _h6: "Project Name:", _pD: "Website Design and Development" },
       { _h6: "Client:", _pD: "Agarwal Bag House" },
       { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
+      { _h6: "Live Website:", _pD: "https://agarwalbaghouse.com/" },
     ],
 
     _h4_new: "Website Design & Development",
@@ -799,7 +800,7 @@ export const projects2 = [
     img_title: "Hi-Pro Bags Social Media Management",
     _h4: "Wholesale Bag Manufacturer",
     _p2: "Social Media Management",
-    _p3: "Hi-Pro Bags designs and manufactures dependable bags for everyday use. As a wholesale-focused manufacturer, the brand needed a professional social media presence to communicate product reliability and consistent quality to distributors and bulk buyers",
+    _p3: "Hi-Pro Bags designs and manufactures dependable bags for everyday use. As a wholesale-focused manufacturer, the brand needed a professional social media presence to communicate quality and reliability.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management"],
@@ -870,6 +871,7 @@ export const projects2 = [
         _h6: "Category:",
         _pD: "Manufacturing & Wholesale Website Development",
       },
+      { _h6: "Live Website:", _pD: "https://hiprobags.com/" },
     ],
 
     _h4_new: "Website Design & Development",
@@ -923,7 +925,7 @@ export const projects2 = [
       "Chandra Shekhar Singh College of Pharmacy Website Design & Development",
     _h4: "Pharmacy Education Institute",
     _p2: "Website Design and Development",
-    _p3: "Chandra Shekhar Singh College of Pharmacy is a leading pharmacy institute in Uttar Pradesh offering M.Pharm, B.Pharm, and D.Pharm programs. The website was developed to clearly present academic offerings, institutional approvals, and secure student and administrative logins.",
+    _p3: "Chandra Shekhar Singh College of Pharmacy is a leading pharmacy institute in Uttar Pradesh offering M.Pharm, B.Pharm, and D.Pharm programs. The website was developed to present academic offerings, institutional approvals, and secure logins.",
     _span: "Read More",
     serviceUse: ["Website Design", "Website Development"],
 
@@ -980,65 +982,65 @@ export const projects2 = [
 
   //Ibrand Solutions Project
   {
-  forBrand: "ibrand_solutions",
-  _img: "/projects_img/website-design.jpg",
-  img_title: "iBrandSolutions Website Design & Development",
-  _h4: "Digital Marketing & Growth Agency",
-  _p2: "Website Design and Development",
-  _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into profitable digital businesses. The website was designed to communicate the agency’s capabilities and strategy-led approach to modern brand growth.",
-  _span: "Read More",
+    forBrand: "ibrand_solutions",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "iBrandSolutions Website Design & Development",
+    _h4: "Digital Marketing & Growth Agency",
+    _p2: "Website Design and Development",
+    _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into profitable digital businesses. The website was designed to communicate the agency’s capabilities and strategy-led approach.",
+    _span: "Read More",
 
-  serviceUse: ["Website Design", "Website Development"],
+    serviceUse: ["Website Design", "Website Development"],
 
-  _pDetails: [
-    { _h6: "Project Name:", _pD: "Website Design and Development" },
-    { _h6: "Client:", _pD: "iBrandSolutions" },
-    { _h6: "Category:", _pD: "Agency Website Development" },
-    { _h6: "Live Website:", _pD: "https://ibrand.solutions/" },
-  ],
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "iBrandSolutions" },
+      { _h6: "Category:", _pD: "Agency Website Development" },
+      { _h6: "Live Website:", _pD: "https://ibrand.solutions/" },
+    ],
 
-  _h4_new: "Website Design & Development",
-  _p_new:
-    "The iBrandSolutions website was built to position the brand as a credible, strategy-driven digital partner. The focus was on clarity, authority, and conversion, ensuring visitors quickly understand the agency’s value, services, and growth mindset.",
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The iBrandSolutions website was built to position the brand as a credible, strategy-driven digital partner. The focus was on clarity, authority, and conversion, ensuring visitors quickly understand the agency’s value, services, and growth mindset.",
 
-  _newH5_1: "Challenges:",
-  _newp1: [
-    "The website needed to reflect the transition from a solo freelance vision to a full-scale digital agency.",
-    "Communicating strategy, creativity, and performance under one brand narrative required clear structure.",
-    "The site had to appeal to modern brands looking for measurable growth, not generic marketing services."
-  ],
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to reflect the transition from a solo freelance vision to a full-scale digital agency.",
+      "Communicating strategy, creativity, and performance under one brand narrative required clear structure.",
+      "The site had to appeal to modern brands looking for measurable growth, not generic marketing services.",
+    ],
 
-  _newH5_2: "Our Approach:",
-  _newp2: [
-    "We structured the website around iBrandSolutions’ core philosophy of strategy-led creativity and performance marketing.",
-    "Content flow was designed to guide users from brand story to services, process, and conversion points.",
-    "Design decisions focused on modern aesthetics, readability, and strong brand positioning."
-  ],
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured the website around iBrandSolutions’ core philosophy of strategy-led creativity and performance marketing.",
+      "Content flow was designed to guide users from brand story to services, process, and conversion points.",
+      "Design decisions focused on modern aesthetics, readability, and strong brand positioning.",
+    ],
 
-  _newH5_3: "Solutions:",
-  _newp3: [
-    "A clean, conversion-focused website highlighting services, approach, and brand journey.",
-    "Clear messaging aligned with authentic content, data-driven decisions, and performance funnels.",
-    "Strategic CTAs placed to encourage enquiries, consultations, and business discussions."
-  ],
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A clean, conversion-focused website highlighting services, approach, and brand journey.",
+      "Clear messaging aligned with authentic content, data-driven decisions, and performance funnels.",
+      "Strategic CTAs placed to encourage enquiries, consultations, and business discussions.",
+    ],
 
-  _newH5_4: "Results:",
-  _newp4: [
-    "Stronger digital identity reflecting iBrandSolutions’ growth and maturity as an agency.",
-    "Improved clarity of services and value proposition for potential clients.",
-    "A scalable website foundation supporting long-term brand and business growth."
-  ],
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger digital identity reflecting iBrandSolutions’ growth and maturity as an agency.",
+      "Improved clarity of services and value proposition for potential clients.",
+      "A scalable website foundation supporting long-term brand and business growth.",
+    ],
 
-  _newH5_5: "Key Features:",
-  _newp5: [
-    "Agency-Focused Website Architecture",
-    "Strategy-Led Content Structure",
-    "Conversion-Oriented Page Design",
-    "Responsive & SEO-Friendly Development"
-  ],
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Agency-Focused Website Architecture",
+      "Strategy-Led Content Structure",
+      "Conversion-Oriented Page Design",
+      "Responsive & SEO-Friendly Development",
+    ],
 
-  _pTag: "Website Design and Development"
-},
+    _pTag: "Website Design and Development",
+  },
 
   //Scanner Adda Project
   {
@@ -1134,6 +1136,869 @@ export const projects2 = [
     _newH5_16: "",
     _newp16: "",
     _pTag: "E-Commerce Development",
+  },
+
+  //Dayanand Sagar University Project
+  {
+    forBrand: "dayanand_sagar_university",
+    _img: "/projects_img/video-editing.webp",
+    img_title: "Dayanand Sagar University Lecture Video Editing",
+    _h4: "Higher Education Institution",
+    _p2: "Video Editing",
+    _p3: "Dayanand Sagar University is a multidisciplinary institution focused on education and research. To support digital learning, the university required professional editing of recorded lectures for clarity and ease of understanding.",
+    _span: "Read More",
+
+    serviceUse: ["Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Class Lecture Video Editing" },
+      { _h6: "Client:", _pD: "Dayanand Sagar University" },
+      { _h6: "Category:", _pD: "Educational Video Production" },
+    ],
+
+    _h4_new: "Video Editing",
+    _p_new:
+      "Dayanand Sagar University required structured and professional editing of academic lecture recordings to enhance the learning experience for students. The focus was on improving video clarity, flow, and presentation while maintaining academic accuracy.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Raw lecture recordings often contained long pauses, interruptions, and inconsistencies.",
+      "Audio clarity and visual continuity were critical for student comprehension.",
+      "Lecture content needed to remain accurate while being refined for digital consumption.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We followed a structured editing workflow to clean and refine recorded class sessions.",
+      "Unnecessary pauses, errors, and distractions were removed while preserving teaching continuity.",
+      "Visual and audio adjustments were made to ensure clarity and consistency across lectures.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Professional editing of lecture videos with clean cuts and smooth transitions.",
+      "Audio enhancement to improve voice clarity and reduce background noise.",
+      "Consistent formatting suitable for online learning platforms.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved student learning experience through clear and structured lecture videos.",
+      "More engaging and accessible recorded sessions for online and hybrid education.",
+      "A consistent video library supporting long-term digital learning initiatives.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Class Lecture Video Editing",
+      "Audio Cleanup & Enhancement",
+      "Academic Content Consistency",
+      "E-Learning Ready Video Formats",
+    ],
+
+    _pTag: "Video Editing",
+  },
+
+  //Max HealthCare
+  {
+    forBrand: "max_healthcare",
+    _img: "/projects_img/video-editing.webp",
+    img_title: "Max Healthcare Doctor Lecture Video Editing",
+    _h4: "Healthcare & Medical Services",
+    _p2: "Video Editing",
+    _p3: "Max Healthcare is one of India’s leading healthcare providers delivering medical services across multiple specialties. To support medical education, the organization required professional editing of doctor-led video lectures.",
+    _span: "Read More",
+
+    serviceUse: ["Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Doctor Lecture Video Editing" },
+      { _h6: "Client:", _pD: "Max Healthcare" },
+      { _h6: "Category:", _pD: "Medical & Healthcare Video Production" },
+    ],
+
+    _h4_new: "Video Editing",
+    _p_new:
+      "Max Healthcare required structured and precise editing of doctor lecture videos to ensure clarity, professionalism, and accurate medical communication. The focus was on maintaining clinical integrity while making content accessible for digital learning and awareness initiatives.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Doctor lecture recordings often included long pauses, interruptions, and technical inconsistencies.",
+      "Medical content required high accuracy, clear audio, and distraction-free visuals.",
+      "Videos needed to be suitable for professional, educational, and patient-awareness use.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We followed a careful editing workflow that preserved medical accuracy while improving flow and presentation.",
+      "Unnecessary pauses, errors, and distractions were removed without altering clinical meaning.",
+      "Audio and visual enhancements were applied to ensure clarity and consistency.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Professional editing of doctor lecture videos with clean cuts and smooth transitions.",
+      "Audio cleanup to enhance voice clarity and reduce background noise.",
+      "Consistent formatting suitable for internal training, awareness programs, and digital platforms.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Clear and professional medical lecture videos aligned with Max Healthcare’s quality standards.",
+      "Improved viewer comprehension and engagement with educational medical content.",
+      "A consistent video library supporting training, education, and outreach initiatives.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Doctor Lecture Video Editing",
+      "Medical Content Accuracy Preservation",
+      "Audio Cleanup & Enhancement",
+      "Healthcare-Grade Video Presentation",
+    ],
+
+    _pTag: "Video Editing",
+  },
+
+  //Madhu Rekha Eye Care Centre Project
+  {
+    forBrand: "madhu_rekha_eye_care",
+    _img: "/projects_img/software-development.webp",
+    img_title: "Madhu Rekha Eye Care Centre Billing Software",
+    _h4: "Ophthalmology Clinic",
+    _p2: "Billing Software Development",
+    _p3: "Madhu Rekha Eye Care Centre is a specialized ophthalmology clinic in Jamshedpur, offering comprehensive eye care services. The clinic required custom billing software to manage billing, payments, receipts, and records efficiently.",
+    _span: "Read More",
+
+    serviceUse: ["Software Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Clinic Billing Software Development" },
+      { _h6: "Client:", _pD: "Madhu Rekha Eye Care Centre" },
+      { _h6: "Category:", _pD: "Healthcare Software Development" },
+    ],
+
+    _h4_new: "Billing Software Development",
+    _p_new:
+      "Madhu Rekha Eye Care Centre required a complete billing and clinic management software to handle daily patient transactions, generate professional invoices and receipts, manage payments and refunds, and maintain accurate digital records aligned with healthcare operational needs.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Manual billing and record management increased the risk of calculation errors and data inconsistency.",
+      "The clinic needed structured handling of invoices, partial payments, refunds, and multiple payment modes.",
+      "Professional, printable receipts and invoices were required for patients and record-keeping.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed a role-based billing system focused on simplicity, accuracy, and daily clinical workflow.",
+      "The system was structured around a central dashboard to track bills, payments, refunds, and totals in real time.",
+      "Data flow was planned to ensure every transaction reflected correctly across invoices, receipts, and reports.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A complete billing dashboard displaying invoices, payments received, refunds issued, and outstanding balances.",
+      "CRUD-based bill management allowing creation, editing, updating, and deletion of patient bills.",
+      "Payment receipt and refund receipt generation with support for UPI, bank transfer, and cheque entries.",
+      "Automatic PDF generation for invoices, payment receipts, refund receipts, and clinic profile documents.",
+      "Standardized invoice and receipt formats ensuring professional and compliant documentation.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Streamlined billing operations with accurate and transparent financial records.",
+      "Reduced manual workload and billing errors through automated calculations and structured workflows.",
+      "Professional, printable PDF invoices and receipts improving patient trust and record management.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Billing Dashboard & Financial Overview",
+      "CRUD Bill Management System",
+      "Payment & Refund Receipt Handling",
+      "Multi-Mode Payment Entry (UPI / Bank / Cheque)",
+      "PDF Invoice & Receipt Generation",
+      "Create & Edit Clinic Profile",
+    ],
+
+    _pTag: "Billing Software Development",
+  },
+
+  //Indian School of Business (ISB) Project
+  {
+    forBrand: "indian_school_of_business",
+    _img: "/projects_img/video-editing.webp",
+    img_title: "Indian School of Business Video Editing",
+    _h4: "Global Management Institution",
+    _p2: "Video Editing",
+    _p3: "The Indian School of Business (ISB) is a globally recognised institution offering advanced management programmes. To support academic delivery, ISB required professional video editing for recorded lectures and learning content.",
+    _span: "Read More",
+
+    serviceUse: ["Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Academic Video Editing" },
+      { _h6: "Client:", _pD: "Indian School of Business (ISB)" },
+      { _h6: "Category:", _pD: "Education & Management Video Production" },
+    ],
+
+    _h4_new: "Video Editing",
+    _p_new:
+      "ISB required precise and professional editing of academic and management lecture videos to ensure clarity, consistency, and a premium learning experience aligned with global education standards.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Recorded lectures required refinement to maintain engagement while preserving academic depth.",
+      "Audio and visual clarity were critical for executive learners and online participants.",
+      "Content needed to reflect ISB’s global positioning and academic credibility.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We followed a structured editing workflow focused on clarity, flow, and professional presentation.",
+      "Unnecessary pauses, distractions, and inconsistencies were removed without affecting academic accuracy.",
+      "Visual and audio enhancements were applied to maintain a polished, executive-level finish.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Professional editing of lecture and academic videos with clean cuts and smooth transitions.",
+      "Audio cleanup and enhancement to ensure clear voice delivery.",
+      "Consistent formatting suitable for executive education and online learning platforms.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "High-quality academic video content aligned with ISB’s global standards.",
+      "Improved learner engagement and comprehension across recorded programmes.",
+      "A consistent and scalable video library supporting digital and blended learning.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Academic & Executive Lecture Video Editing",
+      "Audio Enhancement & Noise Reduction",
+      "Premium, Professional Video Output",
+      "E-Learning Platform–Ready Formats",
+    ],
+
+    _pTag: "Video Editing",
+  },
+
+  // Jesus Lal Universal Education Project
+  {
+    forBrand: "jesus_lal_universal_education",
+    _img: "/projects_img/social-media-marketing.jpg",
+    img_title: "Jesus Lall Social Media Management & Video Editing",
+    _h4: "Education Leadership & Learning Advocacy",
+    _p2: "Social Media Management & Video Editing",
+    _p3: "Jesus Lall, Chairman of Universal Education, focuses on practical and future-ready education. To share actionable insights with teachers, students, and parents, a structured social media and video content strategy was required.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management", "Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management & Video Editing" },
+      { _h6: "Client:", _pD: "Jesus Lall (Universal Education)" },
+      { _h6: "Category:", _pD: "Education & Thought Leadership Marketing" },
+    ],
+
+    _h4_new: "Social Media Management & Video Editing",
+    _p_new:
+      "The objective was to build a strong and consistent digital presence for Jesus Lall by combining strategic social media management with professional video editing. The focus was on delivering meaningful educational content that bridges classroom learning with real-world application.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Educational insights needed to be communicated clearly and consistently across digital platforms.",
+      "Raw video content required refinement to maintain clarity, engagement, and authority.",
+      "Building trust with educators, parents, and students required a professional yet relatable digital tone.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We developed a content strategy aligned with practical education, leadership, and future-ready learning.",
+      "Video content was edited to enhance clarity, remove distractions, and maintain a strong narrative flow.",
+      "Social media publishing was planned to ensure consistency, relevance, and audience engagement.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "End-to-end social media management including content planning, publishing, and engagement.",
+      "Professional video editing for educational talks, guidance videos, and thought leadership content.",
+      "Consistent branding and messaging to strengthen credibility and digital presence.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger and more recognizable digital presence across social platforms.",
+      "Improved engagement and reach among educators, students, and parents.",
+      "Clear and impactful delivery of educational ideas through polished video content.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Education-Focused Social Media Strategy",
+      "Thought Leadership Content Management",
+      "Professional Video Editing & Optimization",
+      "Consistent Brand Voice & Visual Identity",
+    ],
+
+    _pTag: "Social Media Management & Video Editing",
+  },
+
+  // Khan Academy Project
+  {
+    forBrand: "khan_academy",
+    _img: "/projects_img/video-editing.webp",
+    img_title: "Khan Academy Educational Video Editing",
+    _h4: "Online Learning Platform",
+    _p2: "Video Editing",
+    _p3: "Khan Academy is a personalized learning platform offering instructional videos and practice-based learning across subjects. To support digital education, professional video editing was required to enhance clarity and learner engagement.",
+    _span: "Read More",
+
+    serviceUse: ["Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Educational Video Editing" },
+      { _h6: "Client:", _pD: "Khan Academy" },
+      { _h6: "Category:", _pD: "EdTech & Online Learning Video Production" },
+    ],
+
+    _h4_new: "Video Editing",
+    _p_new:
+      "Khan Academy required clean and precise editing of instructional videos to ensure concepts were delivered clearly and effectively for self-paced learners. The focus was on maintaining educational accuracy while improving visual flow and audio clarity.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Instructional videos needed to remain concise while covering concepts in depth.",
+      "Audio clarity and visual consistency were critical for learners across age groups.",
+      "Content had to support self-paced learning without distractions or interruptions.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We followed a structured editing workflow focused on clarity, pacing, and learner comprehension.",
+      "Unnecessary pauses, errors, and distractions were removed while preserving instructional intent.",
+      "Visual and audio enhancements were applied to maintain a clean and focused learning experience.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Professional editing of instructional and explainer videos with smooth transitions.",
+      "Audio cleanup to ensure clear narration and minimal background noise.",
+      "Consistent formatting suitable for large-scale online learning platforms.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved clarity and engagement across instructional video content.",
+      "A consistent and learner-friendly video library supporting self-paced education.",
+      "High-quality educational videos aligned with Khan Academy’s learning standards.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Instructional Video Editing",
+      "Audio Cleanup & Enhancement",
+      "Learner-Centric Video Flow",
+      "EdTech Platform–Ready Formats",
+    ],
+
+    _pTag: "Video Editing",
+  },
+
+  // Phuhars Project
+  {
+    forBrand: "phuhars",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Phuhars Shopify Website Design & Development",
+    _h4: "Sustainable Clothing Brand",
+    _p2: "Website Design and Development",
+    _p3: "Phuhars is a women-led, conscious clothing brand rooted in sustainability and ethical design. To support its slow-fashion philosophy, the brand required a clean Shopify website that reflected its values and enabled seamless shopping.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development", "Shopify"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development (Shopify)" },
+      { _h6: "Client:", _pD: "Phuhars" },
+      { _h6: "Category:", _pD: "Sustainable Fashion Website Development" },
+      { _h6: "Live Website:", _pD: "https://phuhars.com/" },
+    ],
+
+    _h4_new: "Website Design & Development (Shopify)",
+    _p_new:
+      "The Phuhars website was designed and developed on Shopify to serve as a digital extension of the brand’s conscious values. The focus was on storytelling, clarity, and ease of shopping while maintaining a calm, minimal, and ethical fashion aesthetic.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to communicate sustainability, ethics, and craftsmanship without feeling commercial or fast-fashion driven.",
+      "Product presentation had to balance storytelling with usability for online shoppers.",
+      "A scalable e-commerce setup was required to support growth while maintaining brand integrity.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed a minimal and earthy visual language aligned with Phuhars’ slow-fashion philosophy.",
+      "Shopify was selected to provide a reliable and scalable e-commerce foundation.",
+      "Site structure was planned to highlight fabric stories, brand values, and travel-inspired collections alongside products.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A fully custom Shopify website with a clean, conscious design aesthetic.",
+      "Clear product pages highlighting natural fabrics, fit, comfort, and care.",
+      "Smooth shopping flow with intuitive navigation and secure checkout.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "A strong digital presence aligned with Phuhars’ ethical and sustainable brand values.",
+      "Improved storytelling and product discovery for conscious consumers.",
+      "A scalable Shopify platform supporting long-term growth and slow-fashion commerce.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Shopify-Based E-commerce Development",
+      "Conscious & Minimal UI/UX Design",
+      "Sustainable Fashion Storytelling",
+      "Mobile-Optimized Shopping Experience",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // The Hamper Exchange Project
+  {
+    forBrand: "the_hamper_exchange",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "The Hamper Exchange Shopify Website Design & Development",
+    _h4: "Wellness & Gifting Brand",
+    _p2: "Website Design and Development",
+    _p3: "The Hamper Exchange is a care and wellness brand offering curated, personalized gift hampers. To support mindful gifting, the brand required a clean, calming, and conversion-friendly Shopify website.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development", "Shopify"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development (Shopify)" },
+      { _h6: "Client:", _pD: "The Hamper Exchange" },
+      { _h6: "Category:", _pD: "Wellness & Gifting Website Development" },
+      { _h6: "Live Website:", _pD: "https://thehamperexchange.com/" },
+    ],
+
+    _h4_new: "Website Design & Development (Shopify)",
+    _p_new:
+      "The Hamper Exchange website was designed and developed on Shopify to reflect calmness, care, and premium gifting. The focus was on smooth product discovery, personalization clarity, and an effortless shopping experience for individual and corporate buyers.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to convey wellness, care, and emotional value without appearing generic or cluttered.",
+      "Multiple use-cases such as self-care, corporate gifting, and special occasions had to be presented clearly.",
+      "Personalized hampers required intuitive navigation and product understanding.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed a soft, minimal visual language aligned with wellness and relaxation.",
+      "Shopify was chosen to support scalable e-commerce and smooth order management.",
+      "Site structure was planned to clearly separate personal gifting, corporate gifting, and occasion-based hampers.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A custom Shopify website with a calming, premium UI/UX design.",
+      "Clear product pages explaining hamper contents, benefits, and personalization options.",
+      "Streamlined checkout and enquiry flow for both retail and corporate customers.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "A strong digital storefront aligned with the brand’s wellness and care philosophy.",
+      "Improved product discovery and user experience for gift buyers.",
+      "A scalable Shopify platform supporting personalized and corporate gifting needs.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Shopify-Based E-commerce Development",
+      "Wellness-Focused UI/UX Design",
+      "Personalized Gifting Product Flow",
+      "Mobile-Optimized & Conversion-Friendly Website",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // Off Road Anarchy Project
+  {
+    forBrand: "off_road_anarchy",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Off Road Anarchy Wix Website Design & Development",
+    _h4: "Adventure & Off-Road Brand",
+    _p2: "Website Design and Development",
+    _p3: "Off Road Anarchy is a destination for adventure seekers driven by adrenaline, exploration, and rugged off-road journeys. The brand required a bold and immersive website to reflect its raw spirit and connect with off-road enthusiasts.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development", "Wix"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development (Wix)" },
+      { _h6: "Client:", _pD: "Off Road Anarchy" },
+      { _h6: "Category:", _pD: "Adventure & Lifestyle Website Development" },
+      { _h6: "Live Website:", _pD: "https://www.orachallenge.in/" },
+    ],
+
+    _h4_new: "Website Design & Development (Wix)",
+    _p_new:
+      "The Off Road Anarchy website was designed and developed on Wix to capture the intensity, freedom, and thrill of off-road culture. The focus was on strong visuals, bold typography, and an immersive layout that speaks directly to adventure enthusiasts.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to visually represent rugged terrain and high-adrenaline experiences.",
+      "Maintaining performance and usability alongside heavy visual storytelling was critical.",
+      "The platform had to be easy to manage while supporting future content updates.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed a bold, high-impact visual style aligned with off-road and adventure culture.",
+      "Wix was selected for its flexibility, visual control, and ease of content management.",
+      "Site structure was planned to highlight brand story, adventures, and community engagement.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A custom-designed Wix website with immersive layouts and strong visual sections.",
+      "Clear navigation supporting storytelling, galleries, and brand information.",
+      "Responsive design optimized for mobile and desktop adventure audiences.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "A strong digital presence reflecting the raw and adventurous identity of Off Road Anarchy.",
+      "Improved engagement and connection with off-road enthusiasts.",
+      "A scalable Wix platform ready for future content, events, and community growth.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Wix-Based Website Development",
+      "Bold & Immersive UI/UX Design",
+      "Adventure-Focused Visual Storytelling",
+      "Mobile-Optimized & Easy-to-Manage Platform",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // PixelClay Project
+  {
+    forBrand: "pixelclay",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "PixelClay Framer Website Design & Development",
+    _h4: "Creative Digital Agency",
+    _p2: "Website Design and Development",
+    _p3: "PixelClay is a creative digital agency focused on building strong brand identities through design and strategy. The agency required a modern, high-performance website to reflect its creative depth and clarity of thinking.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development", "Framer"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development (Framer)" },
+      { _h6: "Client:", _pD: "PixelClay" },
+      { _h6: "Category:", _pD: "Agency Website Development" },
+      { _h6: "Live Website:", _pD: "https://www.pixelclay.in/" },
+    ],
+
+    _h4_new: "Website Design & Development (Framer)",
+    _p_new:
+      "The PixelClay website was designed and developed on Framer to showcase the agency’s creative capabilities with speed, precision, and flexibility. The focus was on clean layouts, strong typography, and smooth interactions that reflect PixelClay’s design-first philosophy.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to communicate creative credibility without visual clutter.",
+      "Balancing aesthetics with performance and responsiveness was critical.",
+      "The platform had to support frequent updates and evolving creative work.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed a minimal, modern interface aligned with PixelClay’s brand personality.",
+      "Framer was selected for its interaction capabilities, performance, and design flexibility.",
+      "Content structure was planned to clearly present services, work, and agency philosophy.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A custom Framer website with smooth animations and interaction-driven layouts.",
+      "Clear service and portfolio sections highlighting design, branding, and digital work.",
+      "Responsive design ensuring consistency across desktop and mobile devices.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "A strong digital presence aligned with PixelClay’s creative positioning.",
+      "Improved clarity of services and agency value proposition.",
+      "A scalable and easy-to-maintain website supporting future growth.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Framer-Based Website Development",
+      "Modern, Interaction-Driven UI/UX",
+      "Creative Agency–Focused Layouts",
+      "High-Performance & Responsive Design",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  // EducationTechPlus Project
+  {
+    forBrand: "educationtechplus",
+    _img: "/projects_img/video-editing.webp",
+    img_title: "EducationTechPlus Video Editing",
+    _h4: "Education Technology Platform",
+    _p2: "Video Editing",
+    _p3: "EducationTechPlus is a forward-focused education technology platform transforming how learning is delivered. To support digital education initiatives, the platform required professional video editing for instructional content.",
+    _span: "Read More",
+
+    serviceUse: ["Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Educational Video Editing" },
+      { _h6: "Client:", _pD: "EducationTechPlus" },
+      { _h6: "Category:", _pD: "EdTech Video Production" },
+    ],
+
+    _h4_new: "Video Editing",
+    _p_new:
+      "EducationTechPlus required clean, structured, and learner-friendly video editing to enhance digital learning experiences. The focus was on clarity, engagement, and consistency across educational video content while maintaining instructional accuracy.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Raw educational recordings needed refinement for smooth delivery and learner engagement.",
+      "Audio and visual clarity were critical for accessibility across diverse learner groups.",
+      "Content had to support modern, digital-first learning environments without distractions.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We followed a structured editing workflow focused on pacing, clarity, and comprehension.",
+      "Unnecessary pauses, interruptions, and visual distractions were removed while preserving educational intent.",
+      "Audio and visual enhancements were applied to create a polished and professional learning experience.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Professional editing of instructional and training videos with clean cuts and smooth transitions.",
+      "Audio cleanup and enhancement for clear narration and minimal background noise.",
+      "Consistent formatting suitable for EdTech platforms and online learning systems.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved clarity and engagement across digital learning videos.",
+      "A consistent and scalable video library supporting modern education delivery.",
+      "High-quality educational content aligned with EducationTechPlus’s innovation-driven vision.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Instructional & Training Video Editing",
+      "Audio Cleanup & Enhancement",
+      "Learner-Centric Video Flow",
+      "EdTech Platform–Ready Video Formats",
+    ],
+
+    _pTag: "Video Editing",
+  },
+
+  // XARM Solutions Project
+  {
+    forBrand: "xarm_solutions",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "XARM Solutions Micro Site Design & Development",
+    _h4: "Brand Experience & Experiential Marketing Agency",
+    _p2: "Micro Site Design and Development",
+    _p3: "XARM Solutions is a brand experience agency delivering immersive events and activations. To support campaigns and experiential launches, the brand required high-impact microsites designed for storytelling and engagement.",
+    _span: "Read More",
+
+    serviceUse: ["Micro Site Design", "Micro Site Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Micro Site Design and Development" },
+      { _h6: "Client:", _pD: "XARM Solutions" },
+      { _h6: "Category:", _pD: "Experiential Marketing & Event Technology" },
+    ],
+
+    _h4_new: "Micro Site Design & Development",
+    _p_new:
+      "The microsites developed for XARM Solutions were crafted to translate complex experiential concepts into focused, interactive digital experiences. The goal was to support events and activations with fast, visually engaging, and purpose-driven microsites.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Experiential campaigns required fast-turnaround microsites aligned with event timelines.",
+      "Content needed to be immersive while remaining lightweight and performance-focused.",
+      "Microsites had to clearly communicate concepts, schedules, and engagement points within a limited scope.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed microsites with strong visual storytelling aligned to each event or activation.",
+      "Layouts were kept focused, minimal, and conversion-oriented to avoid distraction.",
+      "Development prioritized speed, responsiveness, and ease of deployment.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Custom-designed microsites tailored for specific events, brand activations, and campaigns.",
+      "Interactive sections for schedules, highlights, brand stories, and call-to-actions.",
+      "Responsive design ensuring smooth performance across devices and on-ground usage.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Effective digital support for experiential campaigns and live events.",
+      "Improved audience engagement through focused and immersive microsite experiences.",
+      "Scalable microsite framework supporting multiple campaigns and activations.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Event-Focused Micro Site Architecture",
+      "High-Impact Visual Storytelling",
+      "Fast & Lightweight Development",
+      "Responsive & Campaign-Ready Design",
+    ],
+
+    _pTag: "Micro Site Design and Development",
+  },
+
+  // CA Nishant Kumar Project
+  {
+    forBrand: "ca_nishant_kumar",
+    _img: "/projects_img/meta-ads.webp",
+    img_title: "Nishant Kumar Meta Ads Campaigns",
+    _h4: "CA Educator & Author",
+    _p2: "Meta Ads",
+    _p3: "Nishant Kumar is a Chartered Accountant, educator, and author who has mentored over 1,00,000 CA students. To scale reach, drive course visibility, and attract high-intent aspirants, structured Meta Ads campaigns were executed.",
+    _span: "Read More",
+
+    serviceUse: ["Meta Ads"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Meta Ads Management" },
+      { _h6: "Client:", _pD: "CA Nishant Kumar" },
+      { _h6: "Category:", _pD: "Education & EdTech Advertising" },
+    ],
+
+    _h4_new: "Meta Ads Management",
+    _p_new:
+      "The objective was to drive consistent student enquiries and course awareness for Nishant Kumar’s CA Foundation and Intermediate offerings. Meta Ads were used as a performance channel to reach exam-focused students with high intent and clear academic goals.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The CA education space is highly competitive, requiring strong differentiation and credibility.",
+      "Ads needed to appeal to serious aspirants while filtering out low-intent traffic.",
+      "Campaigns had to align with exam cycles, result periods, and batch launches.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured Meta Ads campaigns around exam-focused messaging, rank results, and faculty credibility.",
+      "Targeting was optimized using age, education level, interests, and exam intent signals.",
+      "Creatives highlighted teaching impact, student success, and practical exam-oriented guidance.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Lead-generation and traffic campaigns focused on CA Foundation and Intermediate students.",
+      "Creative formats including reels, static ads, and testimonial-led messaging.",
+      "Continuous optimization of audiences, creatives, and budgets to improve lead quality.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Increased reach and visibility among CA aspirants across India.",
+      "Consistent flow of qualified leads for courses and academic programs.",
+      "Improved cost efficiency through data-driven optimization and targeting.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Education-Focused Meta Ads Strategy",
+      "High-Intent Student Targeting",
+      "Lead Generation & Performance Optimization",
+      "Exam Cycle–Aligned Campaign Planning",
+    ],
+
+    _pTag: "Meta Ads",
+  },
+
+
+  // Humans of Bombay Project
+  {
+    forBrand: "humans_of_bombay",
+    _img: "/projects_img/video-editing.webp",
+    img_title: "Humans of Bombay Video Editing",
+    _h4: "Storytelling & Media Platform",
+    _p2: "Video Editing",
+    _p3: "Humans of Bombay (HOB) is a storytelling platform capturing real human experiences across India through powerful narratives. To amplify emotional impact, professional video editing was undertaken for story-led video content.",
+    _span: "Read More",
+
+    serviceUse: ["Video Editing"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Story-Based Video Editing" },
+      { _h6: "Client:", _pD: "Humans of Bombay" },
+      { _h6: "Category:", _pD: "Digital Storytelling & Media Production" },
+    ],
+
+    _h4_new: "Video Editing",
+    _p_new:
+      "HOB required sensitive and narrative-driven video editing to preserve authenticity while enhancing emotional resonance. The focus was on pacing, clarity, and visual storytelling without compromising the raw honesty of real-life stories.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "Storytelling videos required emotional sensitivity and restraint in editing.",
+      "Maintaining authenticity while improving flow and engagement was critical.",
+      "Audio clarity and visual continuity were essential for immersive viewing.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We adopted a documentary-style editing approach focused on natural pacing and emotional beats.",
+      "Unnecessary distractions were removed while preserving genuine expressions and pauses.",
+      "Color correction and audio balancing were applied subtly to support mood and clarity.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Narrative-driven video edits with clean cuts and thoughtful transitions.",
+      "Audio cleanup to ensure voices remained clear and intimate.",
+      "Consistent formatting suitable for social platforms and long-form storytelling.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger emotional impact and viewer engagement across storytelling videos.",
+      "Preserved authenticity while enhancing watchability and narrative flow.",
+      "High-quality video assets aligned with HOB’s storytelling ethos.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Story-Led Video Editing",
+      "Emotionally Sensitive Narrative Flow",
+      "Audio Cleanup & Visual Balance",
+      "Social & Long-Form Ready Formats",
+    ],
+
+    _pTag: "Video Editing",
   },
 
   // Indigenius Matter Project

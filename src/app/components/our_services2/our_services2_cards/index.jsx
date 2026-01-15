@@ -39,7 +39,7 @@ function OurServices2Cards() {
               /> */}
               {/* <div className="img-div-of-card-div-of-our-services-2-cards-container w-24 flex items-center justify-center relative h-24 bg-color_blue_light group-hover:bg-color_orange_light transition-all duration-500 ease-in-out my-7 1004px:h-20 1004px:w-20 792px:w-16 792px:h-16"> */}
               <div
-                className="flex items-center justify-center p-8"
+                className="flex items-center justify-center p-5"
               >
                 <Image
                   width={500}

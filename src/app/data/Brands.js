@@ -147,6 +147,161 @@ export const brands2 = [
     ourWorks: getProjectsForBrand("scanner_adda"),
   },
 
+  //Dayanand Sagar University
+  {
+    para: "Dayanand Sagar University is a multidisciplinary institution focused on quality education, innovation, and research. Built on a strong academic foundation, DSU offers industry-aligned programs across engineering, sciences, management, and arts, supported by modern infrastructure, experienced faculty, and a future-ready learning environment.",
+    pathname: "dayanand_sagar_university",
+    _img: "/18 Logos/dsu.webp",
+    about_img: "/18 Logos/dsu.webp",
+    img_title: "Dayanand Sagar University Logo",
+    brandName: "Dayanand Sagar University",
+    ourWorks: getProjectsForBrand("dayanand_sagar_university"),
+  },
+
+  // Max Healthcare
+  {
+    para: "Max Healthcare is one of India’s leading healthcare providers, offering world-class medical services across multiple specialties. Known for advanced technology, experienced doctors, and patient-centric care, Max delivers comprehensive diagnosis, treatment, and preventive healthcare through its network of modern hospitals and clinics.",
+    pathname: "max_healthcare",
+    _img: "/18 Logos/max_healthcare.webp",
+    about_img: "/18 Logos/max_healthcare.webp",
+    img_title: "Max Healthcare Logo",
+    brandName: "Max Healthcare",
+    ourWorks: getProjectsForBrand("max_healthcare"),
+  },
+
+  // Madhu Rekha Eye Care Centre
+  {
+    para: "Madhu Rekha Eye Care Centre is a specialized ophthalmology clinic in Sonari, Jamshedpur, providing comprehensive eye care services. Led by experienced eye specialists, the centre focuses on accurate diagnosis, advanced treatment, and patient-centric care, offering reliable solutions for medical and surgical eye conditions with transparency and professionalism.",
+    pathname: "madhu_rekha_eye_care",
+    _img: "/18 Logos/madhu_rekha_eye_care.webp",
+    about_img: "/18 Logos/madhu_rekha_eye_care.webp",
+    img_title: "Madhu Rekha Eye Care Logo",
+    brandName: "Madhu Rekha Eye Care Centre",
+    ourWorks: getProjectsForBrand("madhu_rekha_eye_care"),
+  },
+
+  // Indian School of Business(ISB)
+  {
+    para: "The Indian School of Business (ISB) is a globally recognised institution offering advanced management programmes designed to develop future-ready leaders. With a strong focus on innovation, leadership, and real-world impact, ISB equips professionals with strategic thinking, ethical values, and global perspectives to excel across industries and geographies.",
+    pathname: "indian_school_of_business",
+    _img: "/18 Logos/isb.webp",
+    about_img: "/18 Logos/isb.webp",
+    img_title: "Indian School of Business Logo",
+    brandName: "Indian School of Business",
+    ourWorks: getProjectsForBrand("indian_school_of_business"),
+  },
+
+  //Jesus Lal - Universal Education
+  {
+    para: "Jesus Lall is the Chairman of Universal Education, focused on making education practical, inclusive, and modern. Through actionable tips and effective tools for teachers, students, and parents, he works to bridge the gap between learning and real-world application, promoting meaningful education that is accessible, relevant, and future-ready.",
+    pathname: "jesus_lal_universal_education",
+    _img: "/18 Logos/jesus_lal_universal_education.webp",
+    about_img: "/18 Logos/jesus_lal_universal_education.webp",
+    img_title: "Jesus Lall - Universal Education Logo",
+    brandName: "Jesus Lall - Universal Education",
+    ourWorks: getProjectsForBrand("jesus_lal_universal_education"),
+  },
+
+  // Khan Academy
+  {
+    para: "Khan Academy is a personalized learning platform offering practice exercises, instructional videos, and a tailored learning dashboard for learners of all ages. Covering subjects from kindergarten to early college, the platform emphasizes skill mastery, self-paced learning, and strong foundational knowledge to support academic success and long-term career readiness.",
+    pathname: "khan_academy",
+    _img: "/18 Logos/khan_academy.webp",
+    about_img: "/18 Logos/khan_academy.webp",
+    img_title: "Khan Academy Logo",
+    brandName: "Khan Academy",
+    ourWorks: getProjectsForBrand("khan_academy"),
+  },
+
+  // Phuhars
+  {
+    para: "Phuhars is a women-led, conscious clothing brand rooted in care for people, the planet, and thoughtful design. Working exclusively with natural fabrics, ethical sourcing, and eco-friendly processes, Phuhar creates timeless, travel-inspired garments that value comfort, individuality, and sustainability—offering a slow, intentional alternative to fast fashion.",
+    pathname: "phuhars",
+    _img: "/18 Logos/phuhars.webp",
+    about_img: "/18 Logos/phuhars.webp",
+    img_title: "Phuhars Logo",
+    brandName: "Phuhars",
+    ourWorks: getProjectsForBrand("phuhars"),
+  },
+
+  // The Hamper Exchange
+  {
+    para: "The Hamper Exchange is a dedicated care and wellness hamper brand offering thoughtfully curated, personalized gift hampers designed to promote relaxation and well-being. Featuring spa essentials, daily care products, and wellness-focused items, the brand provides meaningful gifting solutions for self-care, corporate gifting, and special occasions, creating calming and rejuvenating experiences through every hamper.",
+    pathname: "the_hamper_exchange",
+    _img: "/18 Logos/the_hamper_exchange.webp",
+    about_img: "/18 Logos/the_hamper_exchange.webp",
+    img_title: "The Hamper Exchange Logo",
+    brandName: "The Hamper Exchange",
+    ourWorks: getProjectsForBrand("the_hamper_exchange"),
+  },
+
+  // Off Road Anarchy
+  {
+    para: "Off Road Anarchy is a destination for true adventure seekers driven by adrenaline and exploration. Built for those who thrive on rugged terrains and challenging trails, it celebrates the raw spirit of off-road journeys. Every ride is about pushing limits, embracing the wild, and experiencing freedom where untamed paths turn into unforgettable stories.",
+    pathname: "off_road_anarchy",
+    _img: "/18 Logos/off_road_anarchy.webp",
+    about_img: "/18 Logos/off_road_anarchy.webp",
+    img_title: "Off Road Anarchy Logo",
+    brandName: "Off Road Anarchy",
+    ourWorks: getProjectsForBrand("off_road_anarchy"),
+  },
+
+  // PixelClay
+  {
+    para: "PixelClay is a creative digital agency focused on building strong brand identities through design, strategy, and technology. From branding and websites to digital experiences and content, PixelClay helps businesses communicate clearly, look distinctive, and connect meaningfully with their audience through thoughtful, detail-driven creative solutions.",
+    pathname: "pixelclay",
+    _img: "/18 Logos/pixelclay.webp",
+    about_img: "/18 Logos/pixelclay.webp",
+    img_title: "PixelClay Logo",
+    brandName: "PixelClay",
+    ourWorks: getProjectsForBrand("pixelclay"),
+  },
+
+  // EducationTechPlus
+  {
+    para: "EducationTechPlus is a forward-focused education technology platform dedicated to transforming how learning is delivered and experienced. By equipping educators, learners, and institutions with innovative digital tools and resources, EducationTechPlus enhances engagement, accessibility, and effectiveness, helping modern education systems adapt, evolve, and prepare learners for the future.",
+    pathname: "educationtechplus",
+    _img: "/18 Logos/educationtechplus.webp",
+    about_img: "/18 Logos/educationtechplus.webp",
+    img_title: "EducationTechPlus Logo",
+    brandName: "EducationTechPlus",
+    ourWorks: getProjectsForBrand("educationtechplus"),
+  },
+
+  // XARM Solutions
+  {
+    para: "XARM Solutions is a brand experience agency that blends creativity, strategy, and technical expertise to deliver impactful events and activations. With over 15 years of innovation, XARM Solutions transforms complex ideas into immersive experiences, helping brands connect meaningfully with audiences while pushing the boundaries of modern experiential marketing.",
+    pathname: "xarm_solutions",
+    _img: "/18 Logos/xarm_solutions.webp",
+    about_img: "/18 Logos/xarm_solutions.webp",
+    img_title: "XARM Solutions Logo",
+    brandName: "XARM Solutions",
+    ourWorks: getProjectsForBrand("xarm_solutions"),
+  },
+
+
+  // CA Nishant Kumar
+  {
+    para: "Nishant Kumar is a Chartered Accountant, educator, and author who has mentored over 1,00,000 CA students across Foundation and Intermediate levels. Associated with Adda247, he is known for high-impact teaching, bestselling CA textbooks, All India Rank results, and a strong digital presence sharing practical insights on exams, taxation, and finance.",
+    pathname: "ca_nishant_kumar",
+    _img: "/18 Logos/ca_nishant_kumar.webp",
+    about_img: "/18 Logos/ca_nishant_kumar.webp",
+    img_title: "CA Nishant Kumar Logo",
+    brandName: "CA Nishant Kumar",
+    ourWorks: getProjectsForBrand("ca_nishant_kumar"),
+  },
+
+  // Humans of Bombay (HOB)
+  {
+    para: "Humans of Bombay (HOB) is a storytelling platform that captures real human experiences across India through powerful narratives and visual content. By sharing stories of resilience, love, struggle, and hope, HOB creates meaningful conversations, builds emotional connections, and highlights diverse voices that reflect the realities and spirit of modern India.",
+    pathname: "humans_of_bombay",
+    _img: "/18 Logos/humans_of_bombay.webp",
+    about_img: "/18 Logos/humans_of_bombay.webp",
+    img_title: "Humans of Bombay Logo",
+    brandName: "Humans of Bombay",
+    ourWorks: getProjectsForBrand("humans_of_bombay"),
+  },
+
   // Indigenius Matter
   {
     para: "Indigenious Matters, an organization dedicated to amplifying Indigenous voices and promoting cultural awareness, approached us with a unique challenge: they needed engaging video content that would resonate with their audience on social media. They wanted to educate, inspire, and spark conversations, all while maintaining a consistent and professional brand identity. We started by designing a custom video template that incorporated Indigenious Matters' brand elements and ensured consistency across all their video content.",
