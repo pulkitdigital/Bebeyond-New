@@ -14,7 +14,7 @@ function ContactUs1({ _d, _d2, _pt, _mW_pt }) {
           priority={true}
           title="Dark Map Background Pattern"
           src="/BeB-Pattern Set/BeB-Pattern Set/Pattern/map-pattern.png"
-          className=" absolute w-1/2 right-0"
+          className=" absolute w-1/2 right-0" 
           alt="Map Pattern Image"
         />
         <Image

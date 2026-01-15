@@ -235,6 +235,17 @@ export const brands2 = [
     ourWorks: getProjectsForBrand("the_hamper_exchange"),
   },
 
+  // SINAAGA
+  {
+    para: "SINAAGA is a contemporary jewelry brand celebrating individuality, confidence, and everyday luxury. Blending tradition with modern expression, each piece is handcrafted in 18k gold-plated silver with an anti-tarnish finish. Designed to move with you, SINAAGA creates meaningful jewelry that reflects evolving identities, personal stories, and authentic self-expression.",
+    pathname: "sinaaga",
+    _img: "/18 Logos/sinaaga.webp",
+    about_img: "/18 Logos/sinaaga.webp",
+    img_title: "SINAAGA Logo",
+    brandName: "SINAAGA",
+    ourWorks: getProjectsForBrand("sinaaga"),
+  },
+
   // Off Road Anarchy
   {
     para: "Off Road Anarchy is a destination for true adventure seekers driven by adrenaline and exploration. Built for those who thrive on rugged terrains and challenging trails, it celebrates the raw spirit of off-road journeys. Every ride is about pushing limits, embracing the wild, and experiencing freedom where untamed paths turn into unforgettable stories.",

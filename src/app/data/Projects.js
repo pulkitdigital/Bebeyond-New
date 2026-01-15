@@ -1632,6 +1632,67 @@ export const projects2 = [
     _pTag: "Website Design and Development",
   },
 
+  // SINAAGA Project
+  {
+    forBrand: "sinaaga",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "SINAAGA Shopify Website Design & Development",
+    _h4: "Contemporary Jewelry Brand",
+    _p2: "Website Design and Development",
+    _p3: "SINAAGA is a contemporary jewelry brand celebrating individuality and everyday luxury. The brand required a refined Shopify website with strong aesthetics and seamless e-commerce functionality.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development", "Shopify"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development (Shopify)" },
+      { _h6: "Client:", _pD: "SINAAGA Jewelry" },
+      { _h6: "Category:", _pD: "Jewelry & Fashion E-commerce Development" },
+    ],
+
+    _h4_new: "Website Design & Development (Shopify)",
+    _p_new:
+      "The SINAAGA website was designed and developed on Shopify to showcase contemporary jewelry through a clean, confident, and expressive digital experience. The focus was on minimal design, strong product presentation, and smooth shopping flow aligned with the brand’s modern luxury positioning.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to communicate individuality and modern luxury without feeling over-designed.",
+      "Jewelry presentation required high visual clarity while maintaining fast performance.",
+      "The platform had to support storytelling alongside seamless e-commerce.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We designed a minimal and confident visual language aligned with SINAAGA’s identity.",
+      "Shopify was chosen for its scalability, reliability, and e-commerce flexibility.",
+      "Site structure was planned to balance product discovery, brand storytelling, and conversion.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A custom Shopify website with refined UI/UX and contemporary aesthetics.",
+      "Clean product pages highlighting craftsmanship, materials, and anti-tarnish features.",
+      "Smooth navigation and secure checkout optimized for modern consumers.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "A strong digital storefront aligned with SINAAGA’s evolving identity and luxury positioning.",
+      "Improved product discovery and user engagement.",
+      "A scalable Shopify platform supporting growth and future collections.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Shopify-Based E-commerce Development",
+      "Minimal & Modern Jewelry UI/UX",
+      "High-Quality Product Presentation",
+      "Mobile-Optimized & Conversion-Ready Design",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
   // Off Road Anarchy Project
   {
     forBrand: "off_road_anarchy",
@@ -1938,7 +1999,6 @@ export const projects2 = [
 
     _pTag: "Meta Ads",
   },
-
 
   // Humans of Bombay Project
   {
