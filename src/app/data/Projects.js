@@ -2,7 +2,7 @@ export const projects2 = [
   // Madan Uniforms Project
   {
     forBrand: "madan_uniforms",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/MadanUniforms.webp",
     img_title: "Retail Uniform Manufacturer Project Image",
     _h4: "Retail Store",
     _p2: "Social Media Marketing and Meta Ads",
@@ -123,7 +123,7 @@ export const projects2 = [
   },
   {
     forBrand: "amber_group",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/amber-website.webp",
     img_title: "Amber Group Website Design & Development",
     _h4: "Hospitality & Events",
     _p2: "Website Design and Development",

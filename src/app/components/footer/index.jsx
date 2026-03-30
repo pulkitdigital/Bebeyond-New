@@ -95,6 +95,10 @@ const Footer = () => {
                   {" "}
                   <li>Services</li>
                 </Link>
+                <Link href="/project" title="Project Page" className=" hover:underline">
+                  {" "}
+                  <li>Project</li>
+                </Link>
                 <Link href="/blog" title="Blog Page" className=" hover:underline">
                   <li>Blog</li>
                 </Link>
@@ -144,11 +148,11 @@ const Footer = () => {
               </ul>
             </div>
             <div className="font-p1 text-color_gray  text-center hidden 446px:block text-p3 w-full">
-              &#169; 2024 Be Beyond, All Rights Reserved. Design By Be Beyond
+              &#169; 2026 Be Beyond, All Rights Reserved. Design By Be Beyond
             </div>
           </div>
           <div className="copyright-div-of-footer absolute bottom-16 text-p1 font-p1 text-color_gray w-1/3 text-center 1004px:text-p2 792px:text-p3 538px:bottom-4 538px:w-full 446px:hidden">
-            &#169; 2024 Be Beyond, All Rights Reserved. Design By Be Beyond
+            &#169; 2026 Be Beyond, All Rights Reserved. Design By Be Beyond
           </div>
         </div>
       </footer>

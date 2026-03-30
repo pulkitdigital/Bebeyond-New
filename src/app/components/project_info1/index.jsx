@@ -53,7 +53,7 @@ function ProjectInfo1({ projectInfoData }) {
                     priority={true}
                     title={projectInfoData._h4_new + " Image"}
                     alt="img"
-                    className=" w-full h-450px 1004px:h-340px 792px:h-250px"
+                    className=" w-full h-full object-contain rounded-md"
                     src={projectInfoData._img}
                   />
                 </div>
