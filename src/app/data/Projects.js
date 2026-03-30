@@ -64,11 +64,11 @@ export const projects2 = [
   // Amber Group Project
   {
     forBrand: "amber_group",
-    _img: "/projects_img/social-media-marketing.jpg",
+    _img: "/projects_img/AmberGroup.webp",
     img_title: "Amber Group Social Media Management",
     _h4: "Hospitality & Events",
     _p2: "Social Media Management",
-    _p3: "Amber is a premium hospitality and events brand offering curated cafe experiences, event spaces, and comfortable stays. Known for refined ambience and quality food, the brand needed a strong social media presence to drive recall and engagement.",
+    _p3: "Amber is a premium hospitality brand offering curated cafe experiences, event spaces, and comfortable stays. It needed social media presence to boost recall and engagement.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management"],
@@ -185,11 +185,11 @@ export const projects2 = [
   // SkyPro Aviation Projects
   {
     forBrand: "skypro_aviation",
-    _img: "/projects_img/social-media-marketing.jpg",
+    _img: "/projects_img/SkyproAviation.webp",
     img_title: "SkyPro Aviation Social Media Management",
     _h4: "Aviation Training Academy",
     _p2: "Social Media Management",
-    _p3: "SkyPro Aviation is a leading aviation training academy in India, led by airline-experienced instructors. The brand needed a strong social media presence to educate, engage, and convert aspiring pilots.",
+    _p3: "SkyPro Aviation is India’s leading aviation academy with airline-experienced instructors, requiring a strong social media presence to educate, engage, and convert aspiring pilots into enrollments.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management"],
@@ -306,7 +306,7 @@ export const projects2 = [
   // First Print Publication Project
   {
     forBrand: "first_print_publication",
-    _img: "/projects_img/social-media-marketing.jpg",
+    _img: "/projects_img/FPP.webp",
     img_title: "First Print Publications Social Media Management",
     _h4: "Digital Publishing Hub",
     _p2: "Social Media Management",
@@ -431,11 +431,11 @@ export const projects2 = [
   //Ttapio Cafe Project
   {
     forBrand: "ttapio_cafe",
-    _img: "/projects_img/social-media-marketing.jpg",
+    _img: "/projects_img/Ttapio.webp",
     img_title: "Ttapio Cafe Social Media & Branding",
     _h4: "Retail Cafe",
     _p2: "Social Media Management & Branding",
-    _p3: "Ttapio Cafe is a Jammu-based specialty cafe offering handcrafted bubble tea, desserts, and comfort beverages. The brand required a complete digital foundation to establish a strong identity and consistently attract local customers.",
+    _p3: "Ttapio Cafe is a Jammu-based specialty cafe offering bubble tea, desserts, and beverages, needing a strong digital identity to consistently attract local customers.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management", "Branding"],
@@ -492,11 +492,11 @@ export const projects2 = [
   // Lovely Jewellers Project
   {
     forBrand: "lovely_jewellers",
-    _img: "/projects_img/social-media-marketing.jpg",
+    _img: "/projects_img/LovelyJewellers.webp",
     img_title: "Lovely Jewellers Social Media Management",
     _h4: "Jewellery Store",
     _p2: "Social Media Management",
-    _p3: "Lovely Jewellers, located in Prayagraj, is a trusted destination for elegant gold and silver jewellery crafted with precision and care. To strengthen local visibility and customer engagement, the brand required a focused and consistent social media presence.",
+    _p3: "Lovely Jewellers, Prayagraj’s trusted jewellery destination, needed a focused social media presence to strengthen local visibility and boost customer engagement.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management"],
@@ -548,6 +548,127 @@ export const projects2 = [
     ],
 
     _pTag: "Social Media Management",
+  },
+
+  //Agarwal Bag House
+  {
+    forBrand: "agarwal_bag_house",
+    _img: "/projects_img/ABH.webp",
+    img_title: "Agarwal Bag House Social Media Management",
+    _h4: "Bags & Utility Retail Brand",
+    _p2: "Social Media Management",
+    _p3: "Agarwal Bag House needed a consistent social media presence to boost local visibility and showcase its wide range of everyday, travel, business, and bulk bags.",
+    _span: "Read More",
+
+    serviceUse: ["Social Media Management"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Social Media Management" },
+      { _h6: "Client:", _pD: "Agarwal Bag House" },
+      { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
+    ],
+
+    _h4_new: "Social Media Management",
+    _p_new:
+      "Agarwal Bag House needed a clear and product-focused social media strategy to highlight its wide range of bags, including school bags, backpacks, handbags, trolley bags, and customized bulk orders. The goal was to drive store awareness and enquiries through simple, honest communication.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The product range was wide, making it important to communicate utility without overwhelming customers.",
+      "Standing out in a competitive local retail market required consistent visibility.",
+      "Educating customers about bulk and customized bag options needed clear messaging.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We developed a content strategy focused on everyday use-cases such as school, travel, office, and gifting.",
+      "Content themes highlighted durability, pricing value, and practical design rather than gimmicks.",
+      "Posting schedules were aligned with school seasons, travel periods, and bulk buying cycles.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "Consistent social media posts showcasing different bag categories and use-cases.",
+      "Simple product-focused visuals and captions explaining functionality and value.",
+      "Clear CTAs encouraging store visits, bulk enquiries, and customization requests.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved local visibility and brand familiarity.",
+      "Higher engagement from parents, students, travelers, and business buyers.",
+      "Increased enquiries for bulk and customized bag orders.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Product-Focused Social Media Content",
+      "Local Retail Audience Engagement",
+      "Bulk & Custom Order Communication",
+      "Consistent Brand Messaging",
+    ],
+
+    _pTag: "Social Media Management",
+  },
+  {
+    forBrand: "agarwal_bag_house",
+    _img: "/projects_img/website-design.jpg",
+    img_title: "Agarwal Bag House Website Design & Development",
+    _h4: "Bags & Utility Retail Brand",
+    _p2: "Website Design and Development",
+    _p3: "Agarwal Bag House required a clean and informative website to showcase its product range, highlight bulk and customization services, and provide easy enquiry access for retail and B2B customers.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Agarwal Bag House" },
+      { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
+      { _h6: "Live Website:", _pD: "https://agarwalbaghouse.com/" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The website for Agarwal Bag House was designed to clearly present its wide range of bags and services while keeping navigation simple and enquiry-focused. The emphasis was on clarity, trust, and ease of contact.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The website needed to present multiple product categories without clutter.",
+      "Both retail customers and bulk buyers had to be addressed on the same platform.",
+      "Clear communication of customization and bulk order services was essential.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We structured the website around key product categories such as school bags, travel bags, handbags, and eco-friendly options.",
+      "Design choices focused on simplicity and usability rather than heavy visuals.",
+      "Clear enquiry points were added for bulk orders and branding requirements.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A responsive, easy-to-navigate website suitable for all devices.",
+      "Dedicated sections explaining bulk orders, customization, and product categories.",
+      "Clear contact and enquiry forms to capture high-intent leads.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Improved digital presence for Agarwal Bag House.",
+      "Better customer understanding of product range and services.",
+      "More structured enquiries from retail and B2B customers.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Utility-Focused Website Structure",
+      "Retail & B2B Information Flow",
+      "Clear Enquiry & Contact Points",
+      "Mobile-Friendly Development",
+    ],
+
+    _pTag: "Website Design and Development",
   },
 
   // Pookie Hub Project
@@ -672,126 +793,7 @@ export const projects2 = [
     _pTag: "Social Media Management",
   },
 
-  //Agarwal Bag House
-  {
-    forBrand: "agarwal_bag_house",
-    _img: "/projects_img/social-media-marketing.jpg",
-    img_title: "Agarwal Bag House Social Media Management",
-    _h4: "Bags & Utility Retail Brand",
-    _p2: "Social Media Management",
-    _p3: "Agarwal Bag House is a one-stop destination for functional and reliable bags for everyday use, travel, business, and bulk requirements. To strengthen local visibility and communicate product variety, the brand required a consistent and practical social media presence.",
-    _span: "Read More",
-
-    serviceUse: ["Social Media Management"],
-
-    _pDetails: [
-      { _h6: "Project Name:", _pD: "Social Media Management" },
-      { _h6: "Client:", _pD: "Agarwal Bag House" },
-      { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
-    ],
-
-    _h4_new: "Social Media Management",
-    _p_new:
-      "Agarwal Bag House needed a clear and product-focused social media strategy to highlight its wide range of bags, including school bags, backpacks, handbags, trolley bags, and customized bulk orders. The goal was to drive store awareness and enquiries through simple, honest communication.",
-
-    _newH5_1: "Challenges:",
-    _newp1: [
-      "The product range was wide, making it important to communicate utility without overwhelming customers.",
-      "Standing out in a competitive local retail market required consistent visibility.",
-      "Educating customers about bulk and customized bag options needed clear messaging.",
-    ],
-
-    _newH5_2: "Our Approach:",
-    _newp2: [
-      "We developed a content strategy focused on everyday use-cases such as school, travel, office, and gifting.",
-      "Content themes highlighted durability, pricing value, and practical design rather than gimmicks.",
-      "Posting schedules were aligned with school seasons, travel periods, and bulk buying cycles.",
-    ],
-
-    _newH5_3: "Solutions:",
-    _newp3: [
-      "Consistent social media posts showcasing different bag categories and use-cases.",
-      "Simple product-focused visuals and captions explaining functionality and value.",
-      "Clear CTAs encouraging store visits, bulk enquiries, and customization requests.",
-    ],
-
-    _newH5_4: "Results:",
-    _newp4: [
-      "Improved local visibility and brand familiarity.",
-      "Higher engagement from parents, students, travelers, and business buyers.",
-      "Increased enquiries for bulk and customized bag orders.",
-    ],
-
-    _newH5_5: "Key Features:",
-    _newp5: [
-      "Product-Focused Social Media Content",
-      "Local Retail Audience Engagement",
-      "Bulk & Custom Order Communication",
-      "Consistent Brand Messaging",
-    ],
-
-    _pTag: "Social Media Management",
-  },
-  {
-    forBrand: "agarwal_bag_house",
-    _img: "/projects_img/website-design.jpg",
-    img_title: "Agarwal Bag House Website Design & Development",
-    _h4: "Bags & Utility Retail Brand",
-    _p2: "Website Design and Development",
-    _p3: "Agarwal Bag House required a clean and informative website to showcase its product range, highlight bulk and customization services, and provide easy enquiry access for retail and B2B customers.",
-    _span: "Read More",
-
-    serviceUse: ["Website Design", "Website Development"],
-
-    _pDetails: [
-      { _h6: "Project Name:", _pD: "Website Design and Development" },
-      { _h6: "Client:", _pD: "Agarwal Bag House" },
-      { _h6: "Category:", _pD: "Wholesale & Retail Bag Store" },
-      { _h6: "Live Website:", _pD: "https://agarwalbaghouse.com/" },
-    ],
-
-    _h4_new: "Website Design & Development",
-    _p_new:
-      "The website for Agarwal Bag House was designed to clearly present its wide range of bags and services while keeping navigation simple and enquiry-focused. The emphasis was on clarity, trust, and ease of contact.",
-
-    _newH5_1: "Challenges:",
-    _newp1: [
-      "The website needed to present multiple product categories without clutter.",
-      "Both retail customers and bulk buyers had to be addressed on the same platform.",
-      "Clear communication of customization and bulk order services was essential.",
-    ],
-
-    _newH5_2: "Our Approach:",
-    _newp2: [
-      "We structured the website around key product categories such as school bags, travel bags, handbags, and eco-friendly options.",
-      "Design choices focused on simplicity and usability rather than heavy visuals.",
-      "Clear enquiry points were added for bulk orders and branding requirements.",
-    ],
-
-    _newH5_3: "Solutions:",
-    _newp3: [
-      "A responsive, easy-to-navigate website suitable for all devices.",
-      "Dedicated sections explaining bulk orders, customization, and product categories.",
-      "Clear contact and enquiry forms to capture high-intent leads.",
-    ],
-
-    _newH5_4: "Results:",
-    _newp4: [
-      "Improved digital presence for Agarwal Bag House.",
-      "Better customer understanding of product range and services.",
-      "More structured enquiries from retail and B2B customers.",
-    ],
-
-    _newH5_5: "Key Features:",
-    _newp5: [
-      "Utility-Focused Website Structure",
-      "Retail & B2B Information Flow",
-      "Clear Enquiry & Contact Points",
-      "Mobile-Friendly Development",
-    ],
-
-    _pTag: "Website Design and Development",
-  },
+  
 
   //Hi-Pro Bags Project
   {
