@@ -63,7 +63,7 @@ function ProjectPageCards({ activeTab }) {
                   delay: ind * 0.1,
                 }}
                 key={ind}
-                className="card-div-of-our-projects-2-cards-container w-32% flex flex-col items-start justify-start bg-white group relative overflow-hidden h-[580px] 1180px:h-[600px] 1050px:h-[600px] 1004px:h-[500px] 922px:h-[460px] 792px:h-[400px] 620px:h-[420px] 538px:h-[440px] 476px:h-[480px] 400px:h-[440px] 922px:w-48% 400px:w-full 400px:gap-2"
+                className="card-div-of-our-projects-2-cards-container w-32% flex flex-col items-start justify-start bg-white group relative overflow-hidden h-[560px]  1050px:h-[500px] 1004px:h-[500px] 922px:h-[460px] 792px:h-[400px] 620px:h-[420px] 538px:h-[440px] 476px:h-[480px] 400px:h-[440px] 922px:w-48% 400px:w-full 400px:gap-2"
               >
                 <div className="curve-line-div-for-card-div-of-our-projects-2-cards-container min-h-20 min-w-20 border-2 border-color_orange absolute rounded-50% opacity-0 group-hover:opacity-100 transition-all duration-500 ease-in-out 792px:min-w-16 792px:min-h-16"></div>
                 <Image

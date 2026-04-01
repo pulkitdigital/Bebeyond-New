@@ -2,11 +2,11 @@ export const projects2 = [
   // Madan Uniforms Project
   {
     forBrand: "madan_uniforms",
-    _img: "/projects_img/MadanUniforms.webp",
+    _img: "/projects_img/Social-Media/madan.webp",
     img_title: "Retail Uniform Manufacturer Project Image",
     _h4: "Retail Store",
     _p2: "Social Media Marketing and Meta Ads",
-    _p3: "Madan Uniforms is a Prayagraj-based retail and B2B school uniform manufacturer, known for durable quality, reliable delivery, and a strong offline presence built over the years.",
+    _p3: "Madan Uniforms is a Prayagraj-based retail and B2B school uniform manufacturer, known for durable quality, timely delivery, and a trusted offline presence built over the years.",
     _span: "Read More",
 
     serviceUse: ["Social Media Marketing", "Meta Ads"],
@@ -64,7 +64,7 @@ export const projects2 = [
   // Amber Group Project
   {
     forBrand: "amber_group",
-    _img: "/projects_img/AmberGroup.webp",
+    _img: "/projects_img/Social-Media/amber.webp",
     img_title: "Amber Group Social Media Management",
     _h4: "Hospitality & Events",
     _p2: "Social Media Management",
@@ -123,7 +123,7 @@ export const projects2 = [
   },
   {
     forBrand: "amber_group",
-    _img: "/projects_img/amber-website.webp",
+    _img: "/projects_img/Website/amber-website.webp",
     img_title: "Amber Group Website Design & Development",
     _h4: "Hospitality & Events",
     _p2: "Website Design and Development",
@@ -185,7 +185,7 @@ export const projects2 = [
   // SkyPro Aviation Projects
   {
     forBrand: "skypro_aviation",
-    _img: "/projects_img/SkyproAviation.webp",
+    _img: "/projects_img/Social-Media/skypro.webp",
     img_title: "SkyPro Aviation Social Media Management",
     _h4: "Aviation Training Academy",
     _p2: "Social Media Management",
@@ -244,11 +244,11 @@ export const projects2 = [
   },
   {
     forBrand: "skypro_aviation",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/skypro-website.webp",
     img_title: "SkyPro Aviation Website Design & Development",
     _h4: "Aviation Training Academy",
     _p2: "Website Design and Development",
-    _p3: "SkyPro Aviation required a modern, conversion-focused website to clearly communicate its complete aviation training ecosystem, build trust with aspiring pilots, and support enquiry generation.",
+    _p3: "SkyPro Aviation required a modern, conversion-focused website to clearly showcase its complete training ecosystem, build trust among aspiring pilots, and drive consistent enquiry generation.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development"],
@@ -306,7 +306,7 @@ export const projects2 = [
   // First Print Publication Project
   {
     forBrand: "first_print_publication",
-    _img: "/projects_img/FPP.webp",
+    _img: "/projects_img/Social-Media/firstprintpublication.webp",
     img_title: "First Print Publications Social Media Management",
     _h4: "Digital Publishing Hub",
     _p2: "Social Media Management",
@@ -431,7 +431,7 @@ export const projects2 = [
   //Ttapio Cafe Project
   {
     forBrand: "ttapio_cafe",
-    _img: "/projects_img/Ttapio.webp",
+    _img: "/projects_img/Social-Media/ttapio.webp",
     img_title: "Ttapio Cafe Social Media & Branding",
     _h4: "Retail Cafe",
     _p2: "Social Media Management & Branding",
@@ -489,10 +489,12 @@ export const projects2 = [
 
     _pTag: "Social Media + Branding",
   },
+
+
   // Lovely Jewellers Project
   {
     forBrand: "lovely_jewellers",
-    _img: "/projects_img/LovelyJewellers.webp",
+    _img: "/projects_img/Social-Media/lovely.webp",
     img_title: "Lovely Jewellers Social Media Management",
     _h4: "Jewellery Store",
     _p2: "Social Media Management",
@@ -553,7 +555,7 @@ export const projects2 = [
   //Agarwal Bag House
   {
     forBrand: "agarwal_bag_house",
-    _img: "/projects_img/ABH.webp",
+    _img: "/projects_img/Social-Media/abh.webp",
     img_title: "Agarwal Bag House Social Media Management",
     _h4: "Bags & Utility Retail Brand",
     _p2: "Social Media Management",
@@ -678,7 +680,7 @@ export const projects2 = [
     img_title: "Pookie Hub Social Media Management & Meta Ads",
     _h4: "Lifestyle & Gift Store",
     _p2: "Social Media Management & Meta Ads",
-    _p3: "Pookie Hub is Prayagraj’s cutest lifestyle store offering toys, stationery, gifts, and home décor that spark joy across all age groups. To drive local visibility, engagement, and store footfall, the brand required a combined social media and Meta Ads strategy.",
+    _p3: "Pookie Hub is Prayagraj’s lifestyle store offering toys, stationery, gifts, and décor, requiring a combined social media and Meta Ads strategy to boost visibility, engagement, and store footfall.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management", "Meta Ads"],
@@ -739,7 +741,7 @@ export const projects2 = [
     img_title: "Backyard Sports Arena Social Media Management",
     _h4: "Sports & Recreation Arena",
     _p2: "Social Media Management",
-    _p3: "Backyard Sports Arena is Naini’s go-to destination for sports lovers, offering a modern and well-equipped space for multiple sports. To build strong local visibility and community engagement, the arena required a consistent and energetic social media presence.",
+    _p3: "Backyard Sports Arena is Naini’s go-to sports destination, offering a modern multi-sport facility and requiring a consistent, energetic social media presence to boost local visibility and community engagement.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management"],
@@ -922,12 +924,12 @@ export const projects2 = [
   // Chandra Shekhar Singh College of Pharmacy Project
   {
     forBrand: "csscp",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/csscp-website.webp",
     img_title:
       "Chandra Shekhar Singh College of Pharmacy Website Design & Development",
     _h4: "Pharmacy Education Institute",
     _p2: "Website Design and Development",
-    _p3: "Chandra Shekhar Singh College of Pharmacy is a leading pharmacy institute in Uttar Pradesh offering M.Pharm, B.Pharm, and D.Pharm programs. The website was developed to present academic offerings, institutional approvals, and secure logins.",
+    _p3: "Chandra Shekhar Singh College of Pharmacy is a leading institute in Uttar Pradesh, with a website built to showcase courses, approvals, and secure student and admin login access.",
     _span: "Read More",
     serviceUse: ["Website Design", "Website Development"],
 
@@ -985,11 +987,11 @@ export const projects2 = [
   //Ibrand Solutions Project
   {
     forBrand: "ibrand_solutions",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/ibrand-website.webp",
     img_title: "iBrandSolutions Website Design & Development",
     _h4: "Digital Marketing & Growth Agency",
     _p2: "Website Design and Development",
-    _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into profitable digital businesses. The website was designed to communicate the agency’s capabilities and strategy-led approach.",
+    _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into profitable digital businesses, with a website designed to showcase its capabilities and strategy-led approach.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development"],
@@ -1047,7 +1049,7 @@ export const projects2 = [
   //Scanner Adda Project
   {
     forBrand: "scanner_adda",
-    _img: "/projects_img/e-commerce-development.jpg",
+    _img: "/projects_img/Website/scannerAdda-website.webp",
     img_title: "E-commerce Development Project Image",
     _h4: "Building an E-commerce Powerhouse on Shopify",
     _p2: "E-Commerce Development",
@@ -1143,11 +1145,11 @@ export const projects2 = [
   //Dayanand Sagar University Project
   {
     forBrand: "dayanand_sagar_university",
-    _img: "/projects_img/video-editing.webp",
+    _img: "/projects_img/Video-Editing/dsu-video.webp",
     img_title: "Dayanand Sagar University Lecture Video Editing",
     _h4: "Higher Education Institution",
     _p2: "Video Editing",
-    _p3: "Dayanand Sagar University is a multidisciplinary institution focused on education and research. To support digital learning, the university required professional editing of recorded lectures for clarity and ease of understanding.",
+    _p3: "Dayanand Sagar University is a multidisciplinary institution focused on education and research, requiring professional lecture video editing to enhance clarity, engagement, and ease of learning.",
     _span: "Read More",
 
     serviceUse: ["Video Editing"],
@@ -1204,11 +1206,11 @@ export const projects2 = [
   //Max HealthCare
   {
     forBrand: "max_healthcare",
-    _img: "/projects_img/video-editing.webp",
+    _img: "/projects_img/Video-Editing/max-video.webp",
     img_title: "Max Healthcare Doctor Lecture Video Editing",
     _h4: "Healthcare & Medical Services",
     _p2: "Video Editing",
-    _p3: "Max Healthcare is one of India’s leading healthcare providers delivering medical services across multiple specialties. To support medical education, the organization required professional editing of doctor-led video lectures.",
+    _p3: "Max Healthcare is one of India’s leading healthcare providers, requiring professional editing of doctor-led video lectures to support medical education with clear, engaging, and easy-to-follow content.",
     _span: "Read More",
 
     serviceUse: ["Video Editing"],
@@ -1269,7 +1271,7 @@ export const projects2 = [
     img_title: "Madhu Rekha Eye Care Centre Billing Software",
     _h4: "Ophthalmology Clinic",
     _p2: "Billing Software Development",
-    _p3: "Madhu Rekha Eye Care Centre is a specialized ophthalmology clinic in Jamshedpur, offering comprehensive eye care services. The clinic required custom billing software to manage billing, payments, receipts, and records efficiently.",
+    _p3: "Madhu Rekha Eye Care Centre is a specialized ophthalmology clinic in Jamshedpur, requiring custom billing software to efficiently manage billing, payments, receipts, and patient records.",
     _span: "Read More",
 
     serviceUse: ["Software Development"],
@@ -1330,11 +1332,11 @@ export const projects2 = [
   //Indian School of Business (ISB) Project
   {
     forBrand: "indian_school_of_business",
-    _img: "/projects_img/video-editing.webp",
+    _img: "/projects_img/Video-Editing/isb-video.webp",
     img_title: "Indian School of Business Video Editing",
     _h4: "Global Management Institution",
     _p2: "Video Editing",
-    _p3: "The Indian School of Business (ISB) is a globally recognised institution offering advanced management programmes. To support academic delivery, ISB required professional video editing for recorded lectures and learning content.",
+    _p3: "The Indian School of Business (ISB) is a globally recognised institution, requiring professional video editing for recorded lectures and learning content to support seamless academic delivery.",
     _span: "Read More",
 
     serviceUse: ["Video Editing"],
@@ -1395,7 +1397,7 @@ export const projects2 = [
     img_title: "Jesus Lall Social Media Management & Video Editing",
     _h4: "Education Leadership & Learning Advocacy",
     _p2: "Social Media Management & Video Editing",
-    _p3: "Jesus Lall, Chairman of Universal Education, focuses on practical and future-ready education. To share actionable insights with teachers, students, and parents, a structured social media and video content strategy was required.",
+    _p3: "Jesus Lall, Chairman of Universal Education, required a structured social media and video content strategy to share actionable insights with teachers, students, and parents.",
     _span: "Read More",
 
     serviceUse: ["Social Media Management", "Video Editing"],
@@ -1452,11 +1454,11 @@ export const projects2 = [
   // Khan Academy Project
   {
     forBrand: "khan_academy",
-    _img: "/projects_img/video-editing.webp",
+    _img: "/projects_img/Video-Editing/khan-academy-video.webp",
     img_title: "Khan Academy Educational Video Editing",
     _h4: "Online Learning Platform",
     _p2: "Video Editing",
-    _p3: "Khan Academy is a personalized learning platform offering instructional videos and practice-based learning across subjects. To support digital education, professional video editing was required to enhance clarity and learner engagement.",
+    _p3: "Khan Academy is a personalized learning platform, requiring professional video editing to enhance instructional clarity, learner engagement, and the overall digital learning experience.",
     _span: "Read More",
 
     serviceUse: ["Video Editing"],
@@ -1513,11 +1515,11 @@ export const projects2 = [
   // Phuhars Project
   {
     forBrand: "phuhars",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/phuhars-website.webp",
     img_title: "Phuhars Shopify Website Design & Development",
     _h4: "Sustainable Clothing Brand",
-    _p2: "Website Design and Development",
-    _p3: "Phuhars is a women-led, conscious clothing brand rooted in sustainability and ethical design. To support its slow-fashion philosophy, the brand required a clean Shopify website that reflected its values and enabled seamless shopping.",
+    _p2: "E-Commerce Development",
+    _p3: "Phuhars is a women-led sustainable clothing brand, requiring a clean Shopify website that reflects its ethical values and enables a seamless shopping experience.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development", "Shopify"],
@@ -1575,11 +1577,11 @@ export const projects2 = [
   // The Hamper Exchange Project
   {
     forBrand: "the_hamper_exchange",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/the-hamper-exchange-website.webp",
     img_title: "The Hamper Exchange Shopify Website Design & Development",
     _h4: "Wellness & Gifting Brand",
-    _p2: "Website Design and Development",
-    _p3: "The Hamper Exchange is a care and wellness brand offering curated, personalized gift hampers. To support mindful gifting, the brand required a clean, calming, and conversion-friendly Shopify website.",
+    _p2: "E-Commerce Development",
+    _p3: "The Hamper Exchange is a care and wellness brand offering curated gift hampers, requiring a clean, calming, and conversion-friendly Shopify website for a seamless gifting experience.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development", "Shopify"],
@@ -1637,11 +1639,11 @@ export const projects2 = [
   // SINAAGA Project
   {
     forBrand: "sinaaga",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/sinaaga-website.webp",
     img_title: "SINAAGA Shopify Website Design & Development",
     _h4: "Contemporary Jewelry Brand",
-    _p2: "Website Design and Development",
-    _p3: "SINAAGA is a contemporary jewelry brand celebrating individuality and everyday luxury. The brand required a refined Shopify website with strong aesthetics and seamless e-commerce functionality.",
+    _p2: "E-Commerce Development",
+    _p3: "SINAAGA is a contemporary jewelry brand celebrating individuality and everyday luxury, requiring a refined Shopify website with strong aesthetics and seamless e-commerce functionality.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development", "Shopify"],
@@ -1698,11 +1700,11 @@ export const projects2 = [
   // Off Road Anarchy Project
   {
     forBrand: "off_road_anarchy",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/off-road-anarchy-website.webp",
     img_title: "Off Road Anarchy Wix Website Design & Development",
     _h4: "Adventure & Off-Road Brand",
     _p2: "Website Design and Development",
-    _p3: "Off Road Anarchy is a destination for adventure seekers driven by adrenaline, exploration, and rugged off-road journeys. The brand required a bold and immersive website to reflect its raw spirit and connect with off-road enthusiasts.",
+    _p3: "Off Road Anarchy is an adventure-driven brand for off-road enthusiasts, requiring a bold and immersive website that reflects its rugged spirit and connects with thrill seekers.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development", "Wix"],
@@ -1760,11 +1762,11 @@ export const projects2 = [
   // PixelClay Project
   {
     forBrand: "pixelclay",
-    _img: "/projects_img/website-design.jpg",
+    _img: "/projects_img/Website/pixel-clay-website.webp",
     img_title: "PixelClay Framer Website Design & Development",
     _h4: "Creative Digital Agency",
     _p2: "Website Design and Development",
-    _p3: "PixelClay is a creative digital agency focused on building strong brand identities through design and strategy. The agency required a modern, high-performance website to reflect its creative depth and clarity of thinking.",
+    _p3: "PixelClay is a creative digital agency focused on brand identity and strategy, requiring a modern, high-performance website that reflects its creative depth and strategic clarity.",
     _span: "Read More",
 
     serviceUse: ["Website Design", "Website Development", "Framer"],
@@ -1826,7 +1828,7 @@ export const projects2 = [
     img_title: "EducationTechPlus Video Editing",
     _h4: "Education Technology Platform",
     _p2: "Video Editing",
-    _p3: "EducationTechPlus is a forward-focused education technology platform transforming how learning is delivered. To support digital education initiatives, the platform required professional video editing for instructional content.",
+    _p3: "EducationTechPlus is a forward-focused edtech platform, requiring professional video editing for instructional content to enhance clarity, engagement, and the overall digital learning experience.",
     _span: "Read More",
 
     serviceUse: ["Video Editing"],
@@ -1887,7 +1889,7 @@ export const projects2 = [
     img_title: "XARM Solutions Micro Site Design & Development",
     _h4: "Brand Experience & Experiential Marketing Agency",
     _p2: "Micro Site Design and Development",
-    _p3: "XARM Solutions is a brand experience agency delivering immersive events and activations. To support campaigns and experiential launches, the brand required high-impact microsites designed for storytelling and engagement.",
+    _p3: "XARM Solutions is a brand experience agency, requiring high-impact microsites designed for storytelling, campaign engagement, and immersive experiential launches.",
     _span: "Read More",
 
     serviceUse: ["Micro Site Design", "Micro Site Development"],
@@ -1948,7 +1950,7 @@ export const projects2 = [
     img_title: "Nishant Kumar Meta Ads Campaigns",
     _h4: "CA Educator & Author",
     _p2: "Meta Ads",
-    _p3: "Nishant Kumar is a Chartered Accountant, educator, and author who has mentored over 1,00,000 CA students. To scale reach, drive course visibility, and attract high-intent aspirants, structured Meta Ads campaigns were executed.",
+    _p3: "Nishant Kumar is a Chartered Accountant, educator, and author who has mentored over 1,00,000 CA students, requiring structured Meta Ads campaigns to scale reach and drive course enrollments.",
     _span: "Read More",
 
     serviceUse: ["Meta Ads"],
@@ -2009,7 +2011,7 @@ export const projects2 = [
     img_title: "Humans of Bombay Video Editing",
     _h4: "Storytelling & Media Platform",
     _p2: "Video Editing",
-    _p3: "Humans of Bombay (HOB) is a storytelling platform capturing real human experiences across India through powerful narratives. To amplify emotional impact, professional video editing was undertaken for story-led video content.",
+    _p3: "Humans of Bombay is a storytelling platform capturing real human experiences across India, requiring professional video editing to amplify the emotional impact of story-led content.",
     _span: "Read More",
 
     serviceUse: ["Video Editing"],
