@@ -26,6 +26,9 @@ function ProjectPageCards({ activeTab }) {
       if (activeTab === "website") {
         return category.includes("website") || category.includes("web development");
       }
+      if (activeTab === "e-commerce") {
+        return category.includes("e-commerce") || category.includes("ecommerce");
+      }
       if (activeTab === "video") {
         return category.includes("video");
       }

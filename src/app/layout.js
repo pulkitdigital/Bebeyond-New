@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import { AppWrapper } from "@/context";
+import Script from "next/script"; // 👈 ADD THIS
 
 const bricolage_grotesque_init = Bricolage_Grotesque({
   subsets: ["latin"],
@@ -80,6 +81,15 @@ export default function RootLayout({ children }) {
           <Navbar />
           {children}
           <Footer />
+          {/* 🔥 BOTPRESS CHATBOT ADD KARO YAHI */}
+          <Script
+            src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"
+            strategy="afterInteractive"
+          />
+          <Script
+            src="https://files.bpcontent.cloud/2026/04/01/06/20260401064223-LAPAK1JG.js"
+            strategy="afterInteractive"
+          />
         </AppWrapper>
       </body>
     </html>

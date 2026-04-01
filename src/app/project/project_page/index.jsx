@@ -8,10 +8,11 @@ const tabs = [
   { id: "all", label: "All Projects" },
   { id: "social-media", label: "Social Media Management" },
   { id: "website", label: "Web Development" },
+  { id: "e-commerce", label: "E-Commerce Development" },
   { id: "video", label: "Video Editing" },
   { id: "meta-ads", label: "Meta Ads" },
 ];
-
+ 
 function OurProjects2() {
   const [activeTab, setActiveTab] = useState("all");
 
