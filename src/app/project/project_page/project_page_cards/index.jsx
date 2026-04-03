@@ -58,7 +58,7 @@ function ProjectPageCards({ activeTab }) {
               <motion.div
                 initial={{ opacity: 0, y: "18%" }}
                 animate={{ opacity: 1, y: 0 }}
-                transition={{
+                transition={{ 
                   duration: 0.5,
                   delay: ind * 0.1,
                 }}
@@ -87,7 +87,8 @@ function ProjectPageCards({ activeTab }) {
                 <Link
                   onClick={() => setLoaderToggel(true)}
                   className="absolute -bottom-1"
-                  href={`/info/${"services"}-${"project_info"}-${ind + 1}`}
+                  // href={`/info/${"services"}-${"project_info"}-${ind + 1}`}
+                  href={`/info/${"services"}-${"project_info"}-${projects2.indexOf(data) + 1}`}
                   title={`${data._h4} Page`}
                 >
                   <span className="mb-4 mt-2 mx-4 flex items-center justify-start gap-2 cursor-pointer text-color_blue hover:text-color_orange">
