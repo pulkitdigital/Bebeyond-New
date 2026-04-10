@@ -322,9 +322,13 @@ export function generateStaticParams() {
   });
 
   // project_info (general): home-project_info-1 ...
-  projects2.forEach((_, i) => {
-    params.push({ id: `home-project_info-${i + 1}` });
-  });
+  // projects2.forEach((_, i) => {
+  //   params.push({ id: `home-project_info-${i + 1}` });
+  // });
+  // services project_info
+projects2.forEach((_, i) => {
+  params.push({ id: `services-project_info-${i + 1}` });
+});
 
   // project_info by brand: brand-project_info-1-brandPathname ...
   brands2.forEach((brand) => {
