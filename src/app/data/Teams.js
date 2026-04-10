@@ -25,8 +25,8 @@ export const teams2 = [
   },
   {
     _img: "/team/Harshita.webp",
-    img_title:"Harshita Sharma Profile Image",
-    _name: "Harshita Sharma",
+    img_title:"Harshita Pandey Profile Image",
+    _name: "Harshita Pandey",
     _span: "Social Media Manager",
   },
   {
@@ -48,17 +48,18 @@ export const teams2 = [
     _span: "Video Editor",
   },
   {
-    _img: "/team/Rushali.webp",
-    img_title:"Rushali Singh Profile Image",
-    _name: "Rushali Singh",
-    _span: "HR Manager",
-  },
-  {
     _img: "/team/Tanya.webp",
     img_title:"Tanya Kesarwani Profile Image",
     _name: "Tanya Kesarwani",
     _span: "Video Editor",
   },
+  {
+    _img: "/team/Rushali.webp",
+    img_title:"Rushali Singh Profile Image",
+    _name: "Rushali Singh",
+    _span: "HR Manager",
+  },
+  
   //  {
   //   _img: "/team/team new imag/him.jpg",
   //   img_title:"Himanshu Pandey Profile Image",

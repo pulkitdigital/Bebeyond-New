@@ -91,6 +91,10 @@ const Footer = () => {
                 Company
               </h4>
               <ul className=" text-color_gray public_sans_body text-p1 font-p1 flex flex-col gap-2 items-start justify-center 1004px:text-p2 792px:text-p3  446px:w-full 446px:flex-row 446px:gap-4">
+                <Link href="/" title="Home Page" className=" hover:underline">
+                  {" "}
+                  <li>Home</li>
+                </Link>
                 <Link href="/services" title="Service Page" className=" hover:underline">
                   {" "}
                   <li>Services</li>
