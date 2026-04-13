@@ -49,8 +49,8 @@ export const teams2 = [
   },
   {
     _img: "/team/Rohit.webp",
-    img_title:"Rohit Kumar Profile Image",
-    _name: "Rohit Kumar",
+    img_title:"Rohit Soni Profile Image",
+    _name: "Rohit Soni",
     _span: "Video Editor",
   },
   {
