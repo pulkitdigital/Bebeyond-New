@@ -60,14 +60,14 @@ function WhyChoose1BrandSlider({ _p, _d, _mW_p, _mW_p2, _mW_p3, _mW_p4 }) {
       >
         {slideData &&
           slideData.map((data, ind) => {
-            return (
+            return ( 
               <SwiperSlide key={ind}>
-                <Link
+                {/* <Link
                   className=" w-full"
                   href={`/client/${"home"}-${data.pathname}`}
                   title={data.brandName + " Website"}
                   onClick={() => setLoaderToggel(true)}
-                >
+                > */}
                   <Image
                     width={250}
                     height={100}
@@ -77,7 +77,7 @@ function WhyChoose1BrandSlider({ _p, _d, _mW_p, _mW_p2, _mW_p3, _mW_p4 }) {
                     className=" w-full hover:scale-90 transition-transform duration-200 ease-in-out"
                     src={data._img}
                   />
-                </Link>
+                {/* </Link> */}
               </SwiperSlide>
             );
           })}
