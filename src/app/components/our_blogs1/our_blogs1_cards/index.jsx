@@ -67,8 +67,11 @@ function OurBlogs1Cards() {
               </p>
               <Link
                 onClick={() => setLoaderToggel(true)}
-                href={`/info/${"home"}-${"blog_info"}-${ind + 1}`}
-                title={`/info/${"home"}-${"blog_info"}-${ind + 1}`}
+                
+                // href={`/info/${"home"}-${"blog_info"}-${ind + 1}`}
+                // title={`/info/${"home"}-${"blog_info"}-${ind + 1}`}
+                href={`/info/${data.slug || `blog-blog_info-${ind + 1}`}`}
+                title={`/info/${data.slug || `blog-blog_info-${ind + 1}`}`}
                 className=" 456px:absolute 456px:bottom-0  444px:static "
               >
                 <span className=" mb-4 mt-2 mx-4 flex items-center justify-start gap-2 cursor-pointer text-color_blue hover:text-color_orange">
