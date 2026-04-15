@@ -136,7 +136,7 @@ export const projects2 = [
       { _h6: "Project Name:", _pD: "Website Design and Development" },
       { _h6: "Client:", _pD: "Amber Group" },
       { _h6: "Category:", _pD: "Hospitality & Events Website Development" },
-      // { _h6: "Live Website:", _pD: "https://springgreen-quail-699876.hostingersite.com/" }
+      { _h6: "Live Website:", _pD: "https://ambercafe.in/" }
     ],
 
     _h4_new: "Website Design & Development",
@@ -1057,31 +1057,37 @@ export const projects2 = [
     _p3: "Built an e-commerce platform with email marketing integration to showcase products and streamline the purchasing process.",
     _span: "Read More",
     serviceUse: ["Shopify", "Product Showcase", "UX", "E-commerce"],
+    // _pDetails: [
+    //   {
+    //     _h6: "Project Name:",
+    //     _pD: "Building an E-commerce Powerhouse on Shopify",
+    //   },
+    //   // {
+    //   //   _h6: "Project Length:",
+    //   //   _pD: "20 Days",
+    //   // },
+    //   // {
+    //   //   _h6: "Completion Date:",
+    //   //   _pD: "JAN/11/24",
+    //   // },
+    //   // {
+    //   //   _h6: "Live Website:",
+    //   //   _pD: "www.projectdomain.com",
+    //   // },
+    //   {
+    //     _h6: "Client:",
+    //     _pD: "Scanner Adda",
+    //   },
+    //   {
+    //     _h6: "Category:",
+    //     _pD: "E-Commerce Development",
+    //   },
+    // ],
     _pDetails: [
-      {
-        _h6: "Project Name:",
-        _pD: "Building an E-commerce Powerhouse on Shopify",
-      },
-      // {
-      //   _h6: "Project Length:",
-      //   _pD: "20 Days",
-      // },
-      // {
-      //   _h6: "Completion Date:",
-      //   _pD: "JAN/11/24",
-      // },
-      // {
-      //   _h6: "Live Website:",
-      //   _pD: "www.projectdomain.com",
-      // },
-      {
-        _h6: "Client:",
-        _pD: "Scanner Adda",
-      },
-      {
-        _h6: "Category:",
-        _pD: "E-Commerce Development",
-      },
+      { _h6: "Project Name:", _pD: "Building an E-commerce Powerhouse on Shopify", },
+      { _h6: "Client:", _pD: "Scanner Adda", },
+      { _h6: "Category:", _pD: "E-Commerce Development" },
+      { _h6: "Live Website:", _pD: "https://scanneradda.com/" },
     ],
     _h4_new: "Building an E-commerce Powerhouse on Shopify",
     _p_new:
