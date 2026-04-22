@@ -59,7 +59,8 @@ function OurServices2Cards() {
               </p>
               <Link
                 onClick={() => setLoaderToggel(true)}
-                href={`/info/${"services"}-${"service_info"}-${ind + 1}`}
+                //href={`/info/${"services"}-${"service_info"}-${ind + 1}`}
+                href={`/info/${"home"}-${"service_info"}-${ind + 1}`}
                 title={data._h4 + " Page"} 
               >
                 <span className=" my-4 flex items-center justify-center gap-2 cursor-pointer text-color_blue hover:text-color_orange">
