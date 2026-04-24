@@ -136,7 +136,7 @@ export const projects2 = [
       { _h6: "Project Name:", _pD: "Website Design and Development" },
       { _h6: "Client:", _pD: "Amber Group" },
       { _h6: "Category:", _pD: "Hospitality & Events Website Development" },
-      { _h6: "Live Website:", _pD: "https://ambercafe.in/" }
+      { _h6: "Live Website:", _pD: "https://ambercafe.in/" },
     ],
 
     _h4_new: "Website Design & Development",
@@ -181,7 +181,7 @@ export const projects2 = [
 
     _pTag: "Website Design and Development",
   },
- 
+
   // SkyPro Aviation Projects
   {
     forBrand: "skypro_aviation",
@@ -491,7 +491,6 @@ export const projects2 = [
     _pTag: "Social Media + Branding",
   },
 
-
   // Lovely Jewellers Project
   {
     forBrand: "lovely_jewellers",
@@ -796,8 +795,6 @@ export const projects2 = [
   //   _pTag: "Social Media Management",
   // },
 
-  
-
   //Hi-Pro Bags Project
   // {
   //   forBrand: "hi_pro_bags",
@@ -1047,6 +1044,134 @@ export const projects2 = [
     _pTag: "Website Design and Development",
   },
 
+  //UBERMS Project
+  {
+    forBrand: "uberms",
+    _img: "/projects_img/Website/uberms-website.webp",
+    img_title: "UBERMS Website Design & Development",
+    _h4: "Performance Marketing & Business Solutions",
+    _p2: "Website Design and Development",
+    _p3: "UBERMS is a performance-driven digital solutions provider focused on helping businesses scale through marketing, automation, and strategic execution, with a website built to communicate its service depth and business impact clearly.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Uber Marketing Solutions" },
+      { _h6: "Category:", _pD: "Business & Marketing Website Development" },
+      { _h6: "Live Website:", _pD: "https://uberms.com/" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The UBERMS website was designed to establish the brand as a performance-focused business solution provider rather than just another service vendor. The goal was to improve clarity, build authority, and create a structured journey that converts visitors into serious business inquiries.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The existing positioning lacked clarity, making it difficult for users to quickly understand the core value proposition.",
+      "Services were presented without a strong narrative or hierarchy, reducing perceived expertise.",
+      "The website did not effectively communicate outcomes, results, or business impact.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "We repositioned UBERMS as a performance-driven partner focused on growth, not just service delivery.",
+      "Content structure was redesigned to guide users from problem awareness to solution and conversion.",
+      "Messaging was refined to emphasize results, strategy, and execution capability.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A structured, conversion-focused website with clear service categorization and flow.",
+      "Improved messaging focused on performance, ROI, and measurable outcomes.",
+      "Strategic CTA placements to drive consultations, leads, and business discussions.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger positioning as a business growth partner instead of a generic service provider.",
+      "Improved clarity in services and value communication for potential clients.",
+      "Better user journey leading to higher engagement and inquiry potential.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Performance-Oriented Website Structure",
+      "Clear Service Hierarchy & Messaging",
+      "Conversion-Focused UX Design",
+      "Responsive & SEO-Optimized Development",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
+  //Royal Rajasthan Wedding Project
+  {
+    forBrand: "royal_rajasthan_wedding",
+    _img: "/projects_img/Website/royal-rajasthan-website.webp",
+    img_title: "Royal Rajasthan Wedding Website Design & Development",
+    _h4: "Luxury Wedding & Destination Planning",
+    _p2: "Website Design and Development",
+    _p3: "Royal Rajasthan Wedding is a premium wedding planning company specializing in luxury and destination weddings across India, offering end-to-end planning, design, and execution with a focus on grand experiences and seamless coordination.",
+    _span: "Read More",
+
+    serviceUse: ["Website Design", "Website Development"],
+
+    _pDetails: [
+      { _h6: "Project Name:", _pD: "Website Design and Development" },
+      { _h6: "Client:", _pD: "Royal Rajasthan Wedding" },
+      { _h6: "Category:", _pD: "Luxury Wedding Website Development" },
+      { _h6: "Live Website:", _pD: "https://royalrajasthanwedding.co.in/" },
+    ],
+
+    _h4_new: "Website Design & Development",
+    _p_new:
+      "The Royal Rajasthan Wedding website was redesigned to position the brand as a premium luxury wedding planner rather than a generic event service provider. The focus was on showcasing grandeur, trust, and execution capability while creating a structured journey that converts high-value wedding inquiries.",
+
+    _newH5_1: "Challenges:",
+    _newp1: [
+      "The existing website lacked premium positioning despite targeting high-budget weddings.",
+      "Services were listed without emotional storytelling or aspirational appeal expected in luxury wedding brands.",
+      "No strong differentiation from local event planners, reducing perceived brand value.",
+      "Limited focus on conversions, inquiries, and lead generation flow.",
+    ],
+
+    _newH5_2: "Our Approach:",
+    _newp2: [
+      "Repositioned the brand as a luxury wedding experience creator rather than just a planner.",
+      "Structured content to highlight destination weddings, large-scale execution, and premium services.",
+      "Focused on visual storytelling using real wedding experiences and testimonials.",
+      "Designed a clear journey from inspiration → trust → consultation → booking.",
+    ],
+
+    _newH5_3: "Solutions:",
+    _newp3: [
+      "A premium, visually-driven website showcasing grand weddings, decor, and experiences.",
+      "Clear categorization of services including destination weddings, decor, hospitality, and entertainment.",
+      "Strategic placement of enquiry CTAs to drive high-value wedding consultations.",
+      "Trust-building elements including client testimonials, real event highlights, and execution proof.",
+    ],
+
+    _newH5_4: "Results:",
+    _newp4: [
+      "Stronger positioning as a luxury wedding and destination planning brand.",
+      "Improved perception of quality, scale, and professionalism.",
+      "Higher intent inquiries from clients planning premium weddings.",
+      "A scalable digital presence aligned with high-budget wedding clients.",
+    ],
+
+    _newH5_5: "Key Features:",
+    _newp5: [
+      "Luxury Wedding-Focused UI/UX Design",
+      "Destination Wedding Positioning",
+      "High-Impact Visual Storytelling",
+      "Conversion-Focused Inquiry Funnel",
+    ],
+
+    _pTag: "Website Design and Development",
+  },
+
   //Scanner Adda Project
   {
     forBrand: "scanner_adda",
@@ -1084,8 +1209,11 @@ export const projects2 = [
     //   },
     // ],
     _pDetails: [
-      { _h6: "Project Name:", _pD: "Building an E-commerce Powerhouse on Shopify", },
-      { _h6: "Client:", _pD: "Scanner Adda", },
+      {
+        _h6: "Project Name:",
+        _pD: "Building an E-commerce Powerhouse on Shopify",
+      },
+      { _h6: "Client:", _pD: "Scanner Adda" },
       { _h6: "Category:", _pD: "E-Commerce Development" },
       { _h6: "Live Website:", _pD: "https://scanneradda.com/" },
     ],
