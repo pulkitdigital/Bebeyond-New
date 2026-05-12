@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "./style.css";
 import Image from "next/image";
 import { HiArrowLongRight } from "react-icons/hi2";
@@ -8,12 +8,8 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { useAppContext } from "@/context";
 function OurServices1Cards() {
-  const [cardsData, setCardsData] = useState(null);
+  const [cardsData] = useState(services1);
   const { setLoaderToggel } = useAppContext();
-
-  useEffect(() => {
-    setCardsData(services1);
-  }, []);
   return (
     <div className="our-services-1-cards-container w-full flex items-start justify-between 922px:flex-wrap 922px:justify-center 922px:gap-y-8 922px:gap-[4%] 400px:flex-col 400px:items-center 400px:justify-center 400px:gap-6 overflow-hidden">
       {cardsData &&
@@ -60,7 +56,7 @@ function OurServices1Cards() {
                 {data._p1}
               </p>
               <Link
-                href={`/info/${"home"}-${"service_info"}-${ind + 1} `}
+                href={`/info/${"home"}-${"service_info"}-${ind + 1}`}
                 title={`${data._h4} Page`}
                 onClick={() => setLoaderToggel(true)}
               >

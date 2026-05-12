@@ -145,7 +145,9 @@ function OurProjects2Cards() {
                 <Link
                   onClick={() => setLoaderToggel(true)}
                   className="absolute -bottom-1"
-                  href={`/info/${"services"}-${"project_info"}-${ind + 1}`}
+                  href={`/info/${"services"}-${"project_info"}-${
+                    projects2.indexOf(data) + 1 || ind + 1
+                  }`}
                   title={`${data._h4} Page`}
                 >
                   <span className="mb-4 mt-2 mx-4 flex items-center justify-start gap-2 cursor-pointer text-color_blue hover:text-color_orange">

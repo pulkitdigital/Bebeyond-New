@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "./style.css";
 import { motion } from "framer-motion";
 import Image from "next/image";
@@ -8,11 +8,8 @@ import { services2 } from "../../../data/Services";
 import Link from "next/link";
 import { useAppContext } from "@/context";
 function OurServices2Cards() {
-  const [cardsData, setCardsData] = useState(null);
+  const [cardsData] = useState(services2);
   const { setLoaderToggel } = useAppContext();
-  useEffect(() => {
-    setCardsData(services2);
-  }, []);
   return (
     <div className="our-services-2-cards-container w-full flex items-start justify-between flex-wrap gap-y-5 922px:flex-wrap 922px:justify-center 922px:gap-y-8 922px:gap-[4%] 400px:flex-col 400px:items-center 400px:justify-center 400px:gap-6">
       {cardsData &&

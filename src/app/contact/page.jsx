@@ -1,17 +1,14 @@
-"use client"
-import Header2 from "@/app/components/header2";
 import React from "react";
-import Map1 from "../components/map1";
-import ContactUs2 from "../components/contact_us2";
+import ContactPageClient from "./ContactPageClient";
+
+export const metadata = {
+  title: "Contact Us | BeBeyond Digital Solutions",
+  description:
+    "Get in touch with BeBeyond Digital Solutions in Prayagraj. Call +91 99 1867 1867 or email info@bebeyond.digital for a free consultation.",
+};
+
 function Contact() {
- 
-  return (
-    <>
-      <Header2 h_1="Contact" />
-      <ContactUs2 />
-      <Map1 />
-    </>
-  );
+  return <ContactPageClient />;
 }
 
 export default Contact;

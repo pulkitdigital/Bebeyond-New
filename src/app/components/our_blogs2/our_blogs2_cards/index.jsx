@@ -13,7 +13,7 @@ function OurBlogs2Cards() {
   const { setLoaderToggel } = useAppContext();
   const [viewMoreBtn, setViewMoreBtn] = useState("flex");
   const [viewLessBtn, setViewLessBtn] = useState("hidden");
-  const [cardsData, setCardsData] = useState(null);
+  const [cardsData, setCardsData] = useState(blogs3);
   const [cardsDataCon, setCardsDataCon] = useState(true);
 
   const handleBlogsData = () => {

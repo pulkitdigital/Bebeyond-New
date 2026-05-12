@@ -1,15 +1,14 @@
-"use client"
-import Header2 from "@/app/components/header2";
-import ProjectPage from "./project_page";
 import React from "react";
-function Contact() {
- 
-  return (
-    <>
-      <Header2 h_1="Project" />
-      <ProjectPage />
-    </>
-  );
+import ProjectClient from "./ProjectClient";
+
+export const metadata = {
+  title: "Our Projects | BeBeyond Digital Solutions",
+  description:
+    "See work BeBeyond has done for businesses in Prayagraj — web development, branding, SEO, and digital marketing projects.",
+};
+
+function Project() {
+  return <ProjectClient />;
 }
 
-export default Contact;
+export default Project;

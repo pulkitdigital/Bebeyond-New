@@ -41,12 +41,12 @@ export const teams2 = [
     _name: "Rohit Maurya",
     _span: "Web developer",
   },
-  {
-    _img: "/team/Shivam.webp",
-    img_title:"Shivam Chandra Profile Image",
-    _name: "Shivam Kumar Chandra",
-    _span: "Video Editor",
-  },
+  // {
+  //   _img: "/team/Shivam.webp",
+  //   img_title:"Shivam Chandra Profile Image",
+  //   _name: "Shivam Kumar Chandra",
+  //   _span: "Video Editor",
+  // },
   {
     _img: "/team/Rohit.webp",
     img_title:"Rohit Soni Profile Image",
