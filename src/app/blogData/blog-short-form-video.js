@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogShortFormVideo = {
   slug: "short-form-video-ultimate-digital-marketing-tool",
-  _img: "/blog6-img1.jpg",
+  _img: "/Blogs/blog6-img1.jpg",
   img_title: "Blog Image",
   _h4: "Short-Form Videos: The Ultimate Digital Marketing Tool",
   _p4: "Branding",
   _p5:
     "Find out why short-form videos are the ultimate tool for creating impactful and effective digital marketing campaigns.",
-  _img2: "/blog6-img2.jpg",
-  _img3: "/blog6-img3.jpg",
+  _img2: "/Blogs/blog6-img2.jpg",
+  _img3: "/Blogs/blog6-img3.jpg",
   _metaDes:
     "Learn why short-form videos are a key tool for effective digital marketing.",
   _newH4_1:
@@ -17,13 +17,13 @@ export const blogShortFormVideo = {
   _newp1: [
     <>
       In the fast-paced world of{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         title="Digital Marketing"
         className="hover:underline text-blue-500"
-      >
-        digital marketing
-      </Link>
+      > */}
+        digital marketing 
+      {/* </Link> */}
       , where attention spans are shrinking and content is consumed at
       lightning speed, short-form video has emerged as a powerful tool for
       capturing attention, engaging audiences, and driving results. These
@@ -54,13 +54,13 @@ export const blogShortFormVideo = {
     </>,
     <>
       <b className=" font-extrabold">Algorithm Love</b>:{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-6"
         title="Social Media Algorithms"
         className="hover:underline text-blue-500"
-      >
-        Social media algorithms
-      </Link>{" "}
+      > */}
+        Social media algorithms 
+      {/* </Link>{" "} */}
       often favour video content, giving short-form videos greater visibility
       and reach. Platforms like TikTok and Instagram Reels prioritize videos in
       their feeds, making it easier for creators to reach a wider audience and
@@ -84,13 +84,13 @@ export const blogShortFormVideo = {
       videos are incredibly engaging, capturing attention and encouraging
       interaction. They are more likely to be watched to completion and shared
       compared to longer videos, leading to increased{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-3"
         title="Brand Awareness and Reach"
         className="hover:underline text-blue-500"
-      >
-        brand awareness and reach
-      </Link>
+      > */}
+        brand awareness and reach 
+      {/* </Link> */}
       . Metrics like likes, comments, and shares can skyrocket with the right
       short-form video strategy.
     </>,
@@ -100,13 +100,13 @@ export const blogShortFormVideo = {
       audience. They are easily shareable and can quickly go viral, exposing
       your brand to new potential customers and expanding your market reach.
       Effective{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         title="Social Media Marketing"
         className="hover:underline text-blue-500"
-      >
-        social media marketing
-      </Link>{" "}
+      > */}
+        social media marketing 
+      {/* </Link>{" "} */}
       with short-form videos can significantly boost your brand&apos;s presence.
     </>,
     <>

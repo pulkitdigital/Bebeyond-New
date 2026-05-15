@@ -2,9 +2,9 @@ import React from "react";
 import AboutPageClient from "./AboutPageClient";
 
 export const metadata = {
-  title: "About Us | BeBeyond Digital Solutions Prayagraj",
+  title: "About BeBeyond Digital Solutions | Digital Marketing Agency in Prayagraj",
   description:
-    "Learn about BeBeyond Digital Solutions — a Prayagraj-based digital marketing agency helping local businesses grow online with SEO, ads & social media.",
+    "Learn about BeBeyond Digital Solutions — Prayagraj's full-service digital marketing agency. Our story, our team, and our mission to help local businesses grow online.",
 };
 
 function About() {

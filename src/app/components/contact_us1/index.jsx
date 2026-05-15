@@ -4,9 +4,10 @@ import ContactUs1BrandSlider from "./contact_us1_brand_swiper";
 import Image from "next/image";
 import ContactUs1Form from "./contact_us1_form";
 import { motion } from "framer-motion";
-function ContactUs1({ _d, _d2, _pt, _mW_pt }) {
+function ContactUs1({ _d, _d2, _pt, _mW_pt, id }) {
   return (
-    <main className="main-of-contact-us-1 w-full flex items-center justify-center relative overflow-hidden">
+    <main id={id}  
+     className="main-of-contact-us-1 w-full flex items-center justify-center relative overflow-hidden">
       <div className="contact-us-1-container max-w-1600px w-full flex items-center justify-center relative">
         <Image
           width={500}

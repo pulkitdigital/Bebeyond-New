@@ -93,9 +93,10 @@ function WhyWorkWithUs1() {
             viewport={{ once: true }}
             className=" text-white bricolage_grotesque_head text-h2 font-h2 text-center leading-h2 relative 1004px:leading-h3 1004px:text-h3 792px:text-h4"
           >
-            Be Beyond Is A Ready To Protect
+            {/* Be Beyond Is A Ready To Protect
             <br />
-            Your Business!
+            Your Business! */}
+            Ready to Grow Your Business Online?
           </motion.h3>
           <motion.p
             initial={{ y: "50%", opacity: 0 }}
@@ -106,10 +107,11 @@ function WhyWorkWithUs1() {
             viewport={{ once: true }}
             className=" text-p1 font-p1 text-gray-300 text-center public_sans_body 1004px:text-p2 792px:text-p3 662px:mt-2"
           >
-            Be Beyond a trusted name for providing assistants. Initially their
+            {/* Be Beyond a trusted name for providing assistants. Initially their
             main objective was
             <br />
-            to ensure the service they provide these people
+            to ensure the service they provide these people */}
+            Book a free 30-minute digital audit and walk away with a clear growth plan for your business <br/> whether you work with us or not.
           </motion.p>
           <motion.div
             initial={{ y: "50%", opacity: 0 }}
@@ -135,7 +137,7 @@ function WhyWorkWithUs1() {
        active:scale-75
        "
               >
-                Get In Touch
+                Get My Free Audit 
               </button>
             </Link>
             <Link href="/services" title="Service Page">

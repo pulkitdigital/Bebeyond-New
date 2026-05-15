@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogBrandingIdentity = {
   slug: "building-strong-brands-competitive-market",
-  _img: "/blog7-img1.jpg",
+  _img: "/Blogs/blog7-img1.jpg",
   img_title: "Blog Image",
   _h4: "Building Strong Brands in Today’s Competitive Market",
   _p4: "Design",
   _p5:
     "Discover the secrets to building a strong brand identity that stands out in today’s competitive business environment.",
-  _img2: "/blog7-img2.jpg",
-  _img3: "/blog7-img3.jpg",
+  _img2: "/Blogs/blog7-img2.jpg",
+  _img3: "/Blogs/blog7-img3.jpg",
   _metaDes:
     "Find out how to build a strong brand that stands out in a crowded market.",
   _newH4_1:
@@ -17,13 +17,13 @@ export const blogBrandingIdentity = {
   _newp1: [
     <>
       In today&apos;s saturated market, a{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-10"
         title="Social Brand Identity"
         className="hover:underline text-blue-500"
-      >
-        strong brand identity
-      </Link>{" "}
+      > */}
+        strong brand identity 
+      {/* </Link>{" "} */}
       is essential for any business striving for success. It&apos;s the bedrock
       upon which trust is built, customers are attracted, and differentiation is
       achieved. Branding transcends mere logos and taglines; it embodies the
@@ -135,13 +135,13 @@ export const blogBrandingIdentity = {
       your logo, color palette, typography, and imagery. Your visual identity
       should be memorable, visually appealing, and consistently applied across
       all platforms. Consider elements like{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-1"
         title="Graphic Design"
         className="hover:underline text-blue-500"
-      >
-        graphic design
-      </Link>{" "}
+      > */}
+        graphic design 
+      {/* </Link>{" "} */}
       and web design to ensure a cohesive visual identity.
     </>,
     <>

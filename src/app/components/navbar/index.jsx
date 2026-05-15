@@ -13,8 +13,8 @@ function Navbar() {
   const [navOpt] = useState([
     { opt: "Home", navPath: "/" },
     { opt: "Services", navPath: "/services" },
-    { opt: "Project", navPath: "/project" },
-    { opt: "Blog", navPath: "/blog" },
+    { opt: "Project", navPath: "/projects" },
+    { opt: "Blog", navPath: "/blogs" },
     { opt: "About", navPath: "/about" },
     { opt: "Contact", navPath: "/contact" },
   ]);

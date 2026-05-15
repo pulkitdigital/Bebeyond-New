@@ -99,11 +99,11 @@ const Footer = () => {
                   {" "}
                   <li>Services</li>
                 </Link>
-                <Link href="/project" title="Project Page" className=" hover:underline">
+                <Link href="/projects" title="Project Page" className=" hover:underline">
                   {" "}
                   <li>Project</li>
                 </Link>
-                <Link href="/blog" title="Blog Page" className=" hover:underline">
+                <Link href="/blogs" title="Blog Page" className=" hover:underline">
                   <li>Blog</li>
                 </Link>
                 <Link href="/about" title="About Page" className=" hover:underline">

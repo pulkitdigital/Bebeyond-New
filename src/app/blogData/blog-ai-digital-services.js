@@ -2,27 +2,27 @@ import Link from "next/link";
 
 export const blogAiDigitalServices = {
   slug: "ai-in-digital-services-transforming-growth",
-  _img: "/blog4-img1.jpg",
+  _img: "/Blogs/blog4-img1.jpg",
   img_title: "Blog Image",
   _h4: "AI in Digital Services: Transforming How Businesses Grow",
   _p4: "Design",
   _p5:
     "Understand how artificial intelligence is revolutionizing digital services and helping businesses reach new heights.",
-  _img2: "/blog4-img2.jpg",
-  _img3: "/blog4-img3.jpg",
+  _img2: "/Blogs/blog4-img2.jpg",
+  _img3: "/Blogs/blog4-img3.jpg",
   _metaDes:
     "Learn how artificial intelligence is changing digital services and helping businesses grow.",
   _newH4_1:
     "Artificial Intelligence: Revolutionizing Digital Services and Transforming Businesses",
   _newp1: [
     <>
-      <Link
+      {/* <Link
         href="/info/home-service_info-3"
         className="hover:underline text-blue-500"
         title="Artificial Intelligence"
-      >
+      > */}
         Artificial intelligence
-      </Link>{" "}
+      {/* </Link>{" "} */}
       (AI) is no longer a futuristic concept; it&apos;s here, and it&apos;s
       transforming the digital landscape at an unprecedented pace. This
       revolution is profoundly impacting the realm of digital marketing, where
@@ -58,13 +58,13 @@ export const blogAiDigitalServices = {
       creatives, bidding strategies, and campaign parameters, ensuring your ads
       perform at their best. Free up your marketing team to focus on strategic
       initiatives by automating repetitive tasks with{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-3"
         className="hover:underline text-blue-500"
         title="AI Marketing"
-      >
+      > */}
         AI marketing
-      </Link>{" "}
+      {/* </Link>{" "} */}
       automation. AI can automate email marketing, social media posting, and
       lead nurturing, saving time and resources.
     </>,
@@ -73,13 +73,13 @@ export const blogAiDigitalServices = {
   _newp5: [
     <>
       The integration of AI in{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-1"
         className="hover:underline text-blue-500"
         title="Digital Services"
-      >
+      > */}
         digital services
-      </Link>{" "}
+      {/* </Link>{" "} */}
       offers a multitude of benefits for businesses:
     </>,
     "Streamline your operations and increase productivity by automating time-consuming tasks with AI. Achieve better marketing outcomes with AI-powered personalization, campaign optimization, and improved ROI. Gain valuable insights into customer behaviour, campaign performance, and market trends through AI-powered data analysis. Unlock new possibilities for customer engagement and business growth by leveraging AI for innovation in digital services.",

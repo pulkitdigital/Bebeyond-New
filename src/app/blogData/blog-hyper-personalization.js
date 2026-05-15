@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogHyperPersonalization = {
   slug: "hyper-personalized-marketing-transforming-engagement",
-  _img: "/blog5-img1.jpg",
+  _img: "/Blogs/blog5-img1.jpg",
   img_title: "Blog Image",
   _h4: "Hyper-Personalized Marketing: Transforming Engagement",
   _p4: "Marketing",
   _p5:
     "Learn about hyper-personalization in marketing and how it transforms the way businesses engage with customers.",
-  _img2: "/blog5-img2.jpg",
-  _img3: "/blog5-img3.jpg",
+  _img2: "/Blogs/blog5-img2.jpg",
+  _img3: "/Blogs/blog5-img3.jpg",
   _metaDes:
     "Learn how hyper-personalization in digital marketing is changing the way businesses connect with customers.",
   _newH4_1:
@@ -25,13 +25,13 @@ export const blogHyperPersonalization = {
   _newp3: [
     <>
       Implementing hyper-personalization in your{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-5"
         className="hover:underline text-blue-500"
         title="Digital Marketing Strategy"
-      >
-        digital marketing strategy
-      </Link>{" "}
+      > */}
+        digital marketing strategy 
+      {/* </Link>{" "} */}
       can yield significant benefits for your business:
     </>,
     <>
@@ -76,13 +76,13 @@ export const blogHyperPersonalization = {
     "First, gather customer data from various sources, including website interactions, purchase history, social media activity, app usage, customer surveys, and customer relationship management (CRM) systems. The more data you collect, the better you can understand your customers and their preferences.",
     <>
       Next, use{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-4"
         title="AI Algorithms"
         className="hover:underline text-blue-500"
-      >
-        AI algorithms
-      </Link>{" "}
+      > */}
+        AI algorithms 
+      {/* </Link>{" "} */}
       and machine learning to analyze the collected data, identify patterns, and
       predict customer behavior. AI can identify trends and insights that would
       be impossible for humans to uncover manually.
@@ -91,13 +91,13 @@ export const blogHyperPersonalization = {
       Finally, leverage marketing automation tools to deliver personalized
       content, offers, and recommendations across various channels, including
       email,{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         title="Social Media"
         className="hover:underline text-blue-500"
-      >
-        social media
-      </Link>
+      > */}
+        social media 
+      {/* </Link> */}
       , in-app messaging, and the website. Automation ensures that the right
       message reaches the right customer at the right time.
     </>,
@@ -109,13 +109,13 @@ export const blogHyperPersonalization = {
       recommend products based on browsing history, past purchases, and similar
       customer behavior. Websites can display different content to different
       users based on their interests, demographics, and past behavior.{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         title="Email Marketing"
         className="hover:underline text-blue-500"
-      >
-        Email marketing
-      </Link>{" "}
+      > */}
+        Email marketing 
+      {/* </Link>{" "} */}
       can be tailored to individual subscribers, delivering targeted messages
       and offers based on their preferences and engagement history. Chatbots can
       provide instant and personalized customer support, answering questions,

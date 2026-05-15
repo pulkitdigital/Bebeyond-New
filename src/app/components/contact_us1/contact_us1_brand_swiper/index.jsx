@@ -61,12 +61,12 @@ function ContactUs1BrandSlider({ _d }) {
           slideData.map((data, ind) => {
             return (
               <SwiperSlide key={ind}>
-                <Link
+                {/* <Link
                   className=" w-full"
                   href={`/client/${"services"}-${data.pathname}`}
                   title={data.pathname + " Page"}
                   onClick={() => setLoaderToggel(true)}
-                >
+                > */}
                   <Image
                     width={100}
                     height={100}
@@ -76,7 +76,7 @@ function ContactUs1BrandSlider({ _d }) {
                     className=" w-full hover:scale-90 transition-transform duration-200 ease-in-out"
                     src={data._img}
                   />
-                </Link>
+                {/* </Link> */}
               </SwiperSlide>
             );
           })}

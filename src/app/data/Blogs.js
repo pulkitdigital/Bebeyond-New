@@ -2079,7 +2079,7 @@
 import { blogAiFlux } from "../blogData/blog-ai-flux";
 import { blogChatgptImagegen } from "../blogData/blog-chatgpt-imagegen";
 import { blogDigitalMarketingServices } from "../blogData/blog-dm-services";
-import { blogLocalSeo } from "../blogData/blog-local-seo";
+
 import { blogSocialAdsVsOrganic } from "../blogData/blog-social-ads-vs-organic";
 import { blogAiDigitalServices } from "../blogData/blog-ai-digital-services";
 import { blogHyperPersonalization } from "../blogData/blog-hyper-personalization";
@@ -2090,11 +2090,35 @@ import { blogEcommerceStore } from "../blogData/blog-ecommerce-store";
 import { blogGraphicDesign } from "../blogData/blog-graphic-design";
 import { blogAiChatbots } from "../blogData/blog-ai-chatbots";
 
+import {blogDmCost} from "../blogData/blog-dm-cost";
+import {blogSeoVsAds} from "../blogData/blog-seo-ads";
+import { blogDmMistakes } from "../blogData/blog-dm-mistakes"; 
+import { blogLocalSeo } from "../blogData/blog-local-seo";
+import { blogChooseAgency } from "../blogData/blog-choose-agency";
+import {blogInstagramReels} from "../blogData/blog-instagram-reels";
+import {blogMetaAdsBudget} from "../blogData/blog-meta-ads-budget";
+import {blogWebsiteRanking} from "../blogData/blog-website-ranking";
+import {blogHotelsTourism} from "../blogData/blog-hotels-tourism";
+import {blogGoogleReviews} from "../blogData/blog-google-reviews";
+import {blogBranding} from "../blogData/blog-branding";
+import {blogDigest} from "../blogData/blog-digest";
+
 export const blogs2 = [
+  blogDmCost,
+  blogSeoVsAds,
+  blogDmMistakes,
+  blogLocalSeo,
+  blogChooseAgency,
+  blogInstagramReels,
+  blogMetaAdsBudget,
+  blogWebsiteRanking,
+  blogHotelsTourism,
+  blogGoogleReviews,
+  blogBranding,
+  blogDigest,
   blogAiFlux,
   blogChatgptImagegen,
   blogDigitalMarketingServices,
-  blogLocalSeo,
   blogSocialAdsVsOrganic,
   blogAiDigitalServices,
   blogHyperPersonalization,

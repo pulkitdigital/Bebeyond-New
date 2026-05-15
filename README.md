@@ -1,0 +1,142 @@
+# BeBeyond Edited
+
+A Next.js project for the BeBeyond website, using Tailwind CSS and a structured `src/app` architecture.
+
+## Project Structure
+
+- `jsconfig.json`
+- `next.config.mjs`
+- `package.json`
+- `postcss.config.mjs`
+- `README.md`
+- `tailwind.config.js`
+- `public/`
+  - `google54fc494b51adaeae.html`
+  - `robots.txt`
+  - `sitemap.xml`
+  - `18 Logos/`
+  - `BeB_Icon Set/`
+    - `BeB_Icon Set/`
+      - `Set/`
+      - `Values/`
+  - `BeB-Pattern Set/`
+    - `BeB-Pattern Set/`
+      - `Arrow/`
+      - `Frame/`
+      - `Pattern/`
+  - `Home-Images/`
+  - `projects_img/`
+    - `Social-Media/`
+    - `Video-Editing/`
+    - `Website/`
+  - `service_includes_icon/`
+  - `team/`
+  - `team new imag/`
+
+- `src/`
+  - `app/`
+    - `globals.css`
+    - `layout.js`
+    - `page.jsx`
+    - `about/`
+      - `AboutPageClient.jsx`
+      - `page.jsx`
+      - `style.css`
+    - `blog/`
+      - `BlogClient.jsx`
+      - `page.jsx`
+      - `style.css`
+    - `blogData/`
+      - `blog-ai-chatbots.js`
+      - `blog-ai-digital-services.js`
+      - `blog-ai-flux.js`
+      - `blog-branding-identity.js`
+      - `blog-chatgpt-imagegen.js`
+      - `blog-dm-services.js`
+      - `blog-ecommerce-store.js`
+      - `blog-graphic-design.js`
+      - `blog-hyper-personalization.js`
+      - `blog-local-seo.js`
+      - `blog-short-form-video.js`
+      - `blog-social-ads-vs-organic.js`
+      - `blog-website-development.js`
+    - `client/`
+      - `page.jsx`
+      - `[id]/`
+        - `BrandInfo.jsx`
+        - `...`
+    - `components/`
+      - `about_client1/`
+      - `about_founder/`
+      - `about_us1/`
+      - `blog_info1/`
+      - `clients_testimonials1/`
+      - `contact_us1/`
+      - `contact_us2/`
+      - `events/`
+      - `extra_benifits/`
+      - `faq1/`
+      - `footer/`
+      - `header/`
+      - `header2/`
+      - `header3/`
+      - `header4/`
+      - `loader/`
+      - `map1/`
+      - `navbar/`
+      - `our_blogs1/`
+      - `our_blogs2/`
+      - `our_process/`
+      - `our_projects1/`
+      - `our_projects2/`
+      - `our_services1/`
+      - `our_services2/`
+      - `our_team_member1/`
+      - `project_info1/`
+      - `service_info1/`
+      - `social_proof_bar/`
+      - `vision_mission/`
+      - `why_choose1/`
+      - `why_work_with_us/`
+    - `contact/`
+      - `ContactPageClient.jsx`
+      - `page.jsx`
+      - `style.css`
+    - `data/`
+      - `Blogs.js`
+      - `Brands.js`
+      - `Events.js`
+      - `InfoPage.js`
+      - `OurProcess.js`
+      - `Projects.js`
+      - `Services.js`
+      - `Teams.js`
+      - `Testimonials.js`
+      - `VisionMission.js`
+    - `home/`
+      - `page.jsx`
+      - `style.css`
+    - `hooks/`
+      - `useFormHooks.js`
+      - `useFormHooks2.js`
+    - `info/`
+      - `page.jsx`
+      - `style.css`
+      - `[id]/`
+    - `project/`
+      - `page.jsx`
+      - `ProjectClient.jsx`
+      - `project_page/`
+    - `services/`
+      - `page.jsx`
+      - `ServicesClient.jsx`
+      - `style.css`
+      - `[slug]/`
+  - `context/`
+    - `index.jsx`
+
+## Notes
+
+- The project uses Next.js app router conventions.
+- Components, pages, and data are organized inside `src/app`.
+- Static assets are stored under `public/`.

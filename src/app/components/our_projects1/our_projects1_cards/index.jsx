@@ -95,14 +95,20 @@ function OurProjects1Cards() {
               <p className="mx-4 text-p1 font-p1 text-color_gray public_sans_body 1004px:text-p2 792px:text-p3">
                 {data._p3}
               </p>
-              <Link
+              {/* <Link
                 onClick={() => setLoaderToggel(true)}
                 className="absolute -bottom-1"
                 href={`/info/${"services"}-${"project_info"}-${
                   projects2.indexOf(data) + 1 || ind + 1
                 }`}
                 title={`${data._h4} Page`}
-              >
+              > */}
+              <Link
+                  onClick={() => setLoaderToggel(true)}
+                  className="absolute -bottom-1"
+                  href={`/projects/${data.slug}`}
+                  title={`${data._h4} Page`}
+                >
                 <span className="mb-4 mt-2 mx-4 flex items-center justify-start gap-2 cursor-pointer text-color_blue hover:text-color_orange">
                   <b className="text-p1 font-p1 bricolage_grotesque_head 1004px:text-p2 792px:text-p3">
                     {data._span}
@@ -120,3 +126,22 @@ function OurProjects1Cards() {
 }
 
 export default OurProjects1Cards;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

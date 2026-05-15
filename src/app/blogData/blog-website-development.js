@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogWebsiteDevelopment = {
   slug: "website-development-attract-engage-convert",
-  _img: "/blog8-img1.jpg",
+  _img: "/Blogs/blog8-img1.jpg",
   img_title: "Blog Image",
   _h4: "Website Development: Attract, Engage, and Convert Users",
   _p4: "Marketing",
   _p5:
     "Website development focuses on crafting engaging sites designed to attract visitors and convert them into loyal customers.",
-  _img2: "/blog8-img2.jpg",
-  _img3: "/blog8-img3.jpg",
+  _img2: "/Blogs/blog8-img2.jpg",
+  _img3: "/Blogs/blog8-img3.jpg",
   _metaDes:
     "Website development focuses on creating a site that attracts visitors and drives conversions.",
   _newH4_1: "Website Development: Creating a Website that Converts",
@@ -20,13 +20,13 @@ export const blogWebsiteDevelopment = {
       generate leads, and boost sales. But simply having a website isn&apos;t
       enough; it needs to be strategically designed and developed to achieve
       these goals. This is where{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-3"
         title="Website Development"
         className="hover:underline text-blue-500"
-      >
-        website development
-      </Link>{" "}
+      > */}
+        website development 
+      {/* </Link>{" "} */}
       comes in – the art of creating a website that not only looks good but also
       converts visitors into customers.
     </>,
@@ -75,13 +75,13 @@ export const blogWebsiteDevelopment = {
     <>
       <b className=" font-extrabold">SEO Optimization</b>: Implement search
       engine optimization{" "}
-      <Link
+       {/* <Link
         href="/info/home-service_info-2"
         title="SEO"
         className="hover:underline text-blue-500"
-      >
-        (SEO)
-      </Link>{" "}
+      > */}
+        (SEO) 
+      {/* </Link>{" "} */}
       best practices to improve your website&apos;s visibility in search
       results. This involves optimizing your content, meta descriptions, and
       technical aspects of your website to rank higher in search engine
@@ -157,13 +157,13 @@ export const blogWebsiteDevelopment = {
     <>
       At Be Beyond Digital Solutions, we specialize in creating
       high-converting websites that drive{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-10"
         title="business growth"
         className="hover:underline text-blue-500"
-      >
-        business growth
-      </Link>
+      > */}
+        business growth 
+      {/* </Link> */}
       . Our team of experienced web developers and designers can help you
       through every stage of the website development process, from planning
       and design to development and optimization. We understand the importance

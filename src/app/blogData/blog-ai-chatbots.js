@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogAiChatbots = {
   slug: "ai-chatbots-future-of-customer-engagement",
-  _img: "/blog11-img1.jpg",
+  _img: "Blogs/blog11-img1.jpg",
   img_title: "Blog Image",
   _h4: "AI Chatbots: Redefining Personalized Customer Engagement",
   _p4: "Marketing",
   _p5:
     "AI-powered chatbots deliver personalized, real-time interactions, shaping the future of customer engagement across platforms.",
-  _img2: "/blog11-img2.jpg",
-  _img3: "/blog11-img3.jpg",
+  _img2: "/Blogs/blog11-img2.jpg",
+  _img3: "/Blogs/blog11-img3.jpg",
   _metaDes:
     "AI-powered chatbots are shaping the future of personalized customer engagement with smart, real-time interactions.",
   _newH4_1:
@@ -112,13 +112,13 @@ export const blogAiChatbots = {
     <>
       AI-powered chatbots are becoming increasingly sophisticated, offering more
       personalized and human-like interactions. As{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-3"
         title="AI Technology"
         className="hover:underline text-blue-500"
-      >
+      > */}
         AI technology
-      </Link>{" "}
+      {/* </Link>{" "} */}
       continues to evolve, chatbots will play an even greater role in customer
       engagement, automating tasks, providing support, and enhancing the overall
       customer experience. They will become even more adept at understanding

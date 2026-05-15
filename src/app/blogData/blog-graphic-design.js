@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogGraphicDesign = {
   slug: "graphic-design-visual-communication-digital-world",
-  _img: "/blog10-img1.jpg",
+  _img: "/Blogs/blog10-img1.jpg",
   img_title: "Blog Image",
   _h4: "Graphic Design: Crafting Exceptional Digital Experiences",
   _p4: "Design",
   _p5:
     "Graphic design enhances digital communication by combining creativity and functionality for a memorable user experience.",
-  _img2: "/blog10-img2.jpg",
-  _img3: "/blog10-img3.jpg",
+  _img2: "/Blogs/blog10-img2.jpg",
+  _img3: "/Blogs/blog10-img3.jpg",
   _metaDes:
     "Understand how graphic design enhances visual communication in the digital world.",
   _newH4_1:
@@ -21,13 +21,13 @@ export const blogGraphicDesign = {
       art of graphic design – a powerful blend of creativity and strategy that
       transforms ideas into compelling visuals. Whether it&apos;s for digital
       marketing or traditional media,{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-1"
         title="graphic design services"
         className="hover:underline text-blue-500"
-      >
-        graphic design services
-      </Link>{" "}
+      > */}
+        graphic design services 
+      {/* </Link>{" "} */}
       are essential for businesses to effectively communicate their message and
       build a strong brand.
     </>,
@@ -148,13 +148,13 @@ export const blogGraphicDesign = {
     <>
       <b className=" font-extrabold">Social Media Graphics</b>: Designing
       engaging graphics for{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-3"
         title="social media"
         className="hover:underline text-blue-500"
-      >
-        social media
-      </Link>{" "}
+      > */}
+        social media 
+      {/* </Link>{" "} */}
       platforms that capture attention and encourage interaction, boosting your
       social media presence.
     </>,
@@ -177,13 +177,13 @@ export const blogGraphicDesign = {
       help businesses create visually compelling and effective designs. Our team
       of experienced graphic designers can help you with all your design needs,
       from logo design and branding to{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-3"
         title="Website Design"
         className="hover:underline text-blue-500"
-      >
-        website design
-      </Link>{" "}
+      > */}
+        website design 
+      {/* </Link>{" "} */}
       and marketing collateral.
     </>,
     "Contact us today to learn how we can elevate your brand through the power of visual communication.",

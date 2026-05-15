@@ -65,7 +65,7 @@ function OurBlogs2Sidebar() {
                 >
                   <div className="w-1/3 h-full flex items-center justify-center 800px:w-full 800px:justify-start">
                     <Link
-                      href={`/info/${"blog"}-${"blog_info"}-${ind + 1}`}
+                      href={`/blogs/${data.slug || `blog-blog_info-${ind + 1}`}`}
                       title={data._h4 + " Page"}
                       onClick={() => setLoaderToggel(true)}
                     >

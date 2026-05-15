@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogEcommerceStore = {
   slug: "expanding-your-reach-with-ecommerce",
-  _img: "/blog9-img1.jpg",
+  _img: "/Blogs/blog9-img1.jpg",
   img_title: "Blog Image",
   _h4: "E-commerce Strategies: Build and Expand Your Online Store",
   _p4: "Branding",
   _p5:
     "Learn how e-commerce helps businesses grow, enabling you to build a successful and scalable online store.",
-  _img2: "/blog9-img2.jpg",
-  _img3: "/blog9-img3.jpg",
+  _img2: "/Blogs/blog9-img2.jpg",
+  _img3: "/Blogs/blog9-img3.jpg",
   _metaDes:
     "Learn how to grow your business and build a successful online store with e-commerce.",
   _newH4_1:
@@ -17,13 +17,13 @@ export const blogEcommerceStore = {
   _newp1: [
     <>
       The internet has revolutionized the way we shop, and{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-3"
         title="online  e-commerce"
         className="hover:underline text-blue-500"
-      >
-        e-commerce
-      </Link>{" "}
+      > */}
+        e-commerce 
+      {/* </Link>{" "} */}
       has become an indispensable tool for businesses of all sizes. Today,
       businesses can reach a global audience and sell products or services
       online through a dedicated online store. This digital storefront offers
@@ -97,13 +97,13 @@ export const blogEcommerceStore = {
     <>
       <b className=" font-extrabold">Marketing Opportunities</b>: An online
       store provides numerous marketing opportunities, including SEO,{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         title="Social Media Marketing"
         className="hover:underline text-blue-500"
-      >
-        social media marketing
-      </Link>
+      > */}
+        social media marketing 
+      {/* </Link> */}
       , marketingemail , and paid advertising. This allows you to reach your
       target audience and drive traffic to your store.
     </>,

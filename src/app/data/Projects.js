@@ -8,7 +8,7 @@ export const projects2 = [
     _p2: "Social Media Marketing and Meta Ads",
     _p3: "Madan Uniforms is a Prayagraj-based retail and B2B school uniform manufacturer, known for durable quality, timely delivery, and a trusted offline presence built over the years.",
     _span: "Read More",
-
+    slug: "madan-uniforms-social-media-meta-ads",
     serviceUse: ["Social Media Marketing", "Meta Ads"],
 
     _pDetails: [
@@ -70,7 +70,7 @@ export const projects2 = [
     _p2: "Social Media Management",
     _p3: "Amber is a premium hospitality brand offering curated cafe experiences, event spaces, and comfortable stays. It needed social media presence to boost recall and engagement.",
     _span: "Read More",
-
+    slug: "amber-group-social-media-management",
     serviceUse: ["Social Media Management"],
 
     _pDetails: [
@@ -129,7 +129,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "Amber Group required a clean, visually appealing website to present its hospitality offerings, event spaces, and brand experiences while supporting enquiries and digital credibility.",
     _span: "Read More",
-
+    slug: "amber-group-website-design-development",
     serviceUse: ["Website Design", "Website Development"],
 
     _pDetails: [
@@ -191,7 +191,7 @@ export const projects2 = [
     _p2: "Social Media Management",
     _p3: "SkyPro Aviation is India’s leading aviation academy with airline-experienced instructors, requiring a strong social media presence to educate, engage, and convert aspiring pilots into enrollments.",
     _span: "Read More",
-
+    slug: "skypro-aviation-social-media-management",
     serviceUse: ["Social Media Management"],
 
     _pDetails: [
@@ -250,7 +250,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "SkyPro Aviation required a modern, conversion-focused website to clearly showcase its complete training ecosystem, build trust among aspiring pilots, and drive consistent enquiry generation.",
     _span: "Read More",
-
+    slug: "skypro-aviation-website-design-development",
     serviceUse: ["Website Design", "Website Development"],
 
     _pDetails: [
@@ -312,7 +312,7 @@ export const projects2 = [
     _p2: "Social Media Management",
     _p3: "First Print Publications required a consistent and informative social media presence to connect with authors, scholars, and readers while building credibility in the publishing ecosystem.",
     _span: "Read More",
-
+    slug: "first-print-publication-social-media-management",
     serviceUse: [
       "Social Media Management",
       "Content Strategy",
@@ -438,7 +438,7 @@ export const projects2 = [
     _p2: "Social Media Management & Branding",
     _p3: "Ttapio Cafe is a Jammu-based specialty cafe offering bubble tea, desserts, and beverages, needing a strong digital identity to consistently attract local customers.",
     _span: "Read More",
-
+    slug: "ttapio-cafe-social-media-branding",
     serviceUse: ["Social Media Management", "Branding"],
 
     _pDetails: [
@@ -500,7 +500,7 @@ export const projects2 = [
     _p2: "Social Media Management",
     _p3: "Lovely Jewellers, Prayagraj’s trusted jewellery destination, needed a focused social media presence to strengthen local visibility and boost customer engagement.",
     _span: "Read More",
-
+    slug: "lovely-jewellers-social-media-management",
     serviceUse: ["Social Media Management"],
 
     _pDetails: [
@@ -561,7 +561,7 @@ export const projects2 = [
     _p2: "Social Media Management",
     _p3: "Agarwal Bag House needed a consistent social media presence to boost local visibility and showcase its wide range of everyday, travel, business, and bulk bags.",
     _span: "Read More",
-
+    slug: "agarwal-bag-house-social-media-management",
     serviceUse: ["Social Media Management"],
 
     _pDetails: [
@@ -929,6 +929,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "Chandra Shekhar Singh College of Pharmacy is a leading institute in Uttar Pradesh, with a website built to showcase courses, approvals, and secure student and admin login access.",
     _span: "Read More",
+    slug: "csscp-website-design-development",
     serviceUse: ["Website Design", "Website Development"],
 
     _pDetails: [
@@ -991,7 +992,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "iBrandSolutions is a full-stack digital marketing partner helping brands grow into profitable digital businesses, with a website designed to showcase its capabilities and strategy-led approach.",
     _span: "Read More",
-
+    slug: "ibrand-solutions-website-design-development",
     serviceUse: ["Website Design", "Website Development"],
 
     _pDetails: [
@@ -1053,7 +1054,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "UBERMS is a performance-driven digital solutions provider focused on helping businesses scale through marketing, automation, and strategic execution, with a website built to communicate its service depth and business impact clearly.",
     _span: "Read More",
-
+    slug: "uberms-website-design-development",
     serviceUse: ["Website Design", "Website Development"],
 
     _pDetails: [
@@ -1115,7 +1116,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "Royal Rajasthan Wedding is a premium wedding planning company specializing in luxury and destination weddings across India, offering end-to-end planning, design, and execution with a focus on grand experiences and seamless coordination.",
     _span: "Read More",
-
+    slug: "royal-rajasthan-wedding-website-design-development",
     serviceUse: ["Website Design", "Website Development"],
 
     _pDetails: [
@@ -1181,6 +1182,7 @@ export const projects2 = [
     _p2: "E-Commerce Development",
     _p3: "Built an e-commerce platform with email marketing integration to showcase products and streamline the purchasing process.",
     _span: "Read More",
+    slug: "scanner-adda-ecommerce-development",
     serviceUse: ["Shopify", "Product Showcase", "UX", "E-commerce"],
     // _pDetails: [
     //   {
@@ -1286,7 +1288,7 @@ export const projects2 = [
     _p2: "Video Editing",
     _p3: "Dayanand Sagar University is a multidisciplinary institution focused on education and research, requiring professional lecture video editing to enhance clarity, engagement, and ease of learning.",
     _span: "Read More",
-
+    slug: "dayanand-sagar-university-video-editing",
     serviceUse: ["Video Editing"],
 
     _pDetails: [
@@ -1347,7 +1349,7 @@ export const projects2 = [
     _p2: "Video Editing",
     _p3: "Max Healthcare is one of India’s leading healthcare providers, requiring professional editing of doctor-led video lectures to support medical education with clear, engaging, and easy-to-follow content.",
     _span: "Read More",
-
+    slug: "max-healthcare-video-editing",
     serviceUse: ["Video Editing"],
 
     _pDetails: [
@@ -1408,7 +1410,7 @@ export const projects2 = [
     _p2: "Billing Software Development",
     _p3: "Madhu Rekha Eye Care Centre is a specialized ophthalmology clinic in Jamshedpur, requiring custom billing software to efficiently manage billing, payments, receipts, and patient records.",
     _span: "Read More",
-
+    slug: "madhu-rekha-eye-care-billing-software",
     serviceUse: ["Software Development"],
 
     _pDetails: [
@@ -1473,7 +1475,7 @@ export const projects2 = [
     _p2: "Video Editing",
     _p3: "The Indian School of Business (ISB) is a globally recognised institution, requiring professional video editing for recorded lectures and learning content to support seamless academic delivery.",
     _span: "Read More",
-
+    slug: "isb-video-editing",
     serviceUse: ["Video Editing"],
 
     _pDetails: [
@@ -1595,7 +1597,7 @@ export const projects2 = [
     _p2: "Video Editing",
     _p3: "Khan Academy is a personalized learning platform, requiring professional video editing to enhance instructional clarity, learner engagement, and the overall digital learning experience.",
     _span: "Read More",
-
+    slug: "khan-academy-video-editing",
     serviceUse: ["Video Editing"],
 
     _pDetails: [
@@ -1656,7 +1658,7 @@ export const projects2 = [
     _p2: "E-Commerce Development",
     _p3: "Phuhars is a women-led sustainable clothing brand, requiring a clean Shopify website that reflects its ethical values and enables a seamless shopping experience.",
     _span: "Read More",
-
+    slug: "phuhars-ecommerce-shopify",
     serviceUse: ["Website Design", "Website Development", "Shopify"],
 
     _pDetails: [
@@ -1718,7 +1720,7 @@ export const projects2 = [
     _p2: "E-Commerce Development",
     _p3: "The Hamper Exchange is a care and wellness brand offering curated gift hampers, requiring a clean, calming, and conversion-friendly Shopify website for a seamless gifting experience.",
     _span: "Read More",
-
+    slug: "the-hamper-exchange-ecommerce-shopify",
     serviceUse: ["Website Design", "Website Development", "Shopify"],
 
     _pDetails: [
@@ -1780,7 +1782,7 @@ export const projects2 = [
     _p2: "E-Commerce Development",
     _p3: "SINAAGA is a contemporary jewelry brand celebrating individuality and everyday luxury, requiring a refined Shopify website with strong aesthetics and seamless e-commerce functionality.",
     _span: "Read More",
-
+    slug: "sinaaga-ecommerce-shopify",
     serviceUse: ["Website Design", "Website Development", "Shopify"],
 
     _pDetails: [
@@ -1841,7 +1843,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "Off Road Anarchy is an adventure-driven brand for off-road enthusiasts, requiring a bold and immersive website that reflects its rugged spirit and connects with thrill seekers.",
     _span: "Read More",
-
+    slug: "off-road-anarchy-website-wix",
     serviceUse: ["Website Design", "Website Development", "Wix"],
 
     _pDetails: [
@@ -1903,7 +1905,7 @@ export const projects2 = [
     _p2: "Website Design and Development",
     _p3: "PixelClay is a creative digital agency focused on brand identity and strategy, requiring a modern, high-performance website that reflects its creative depth and strategic clarity.",
     _span: "Read More",
-
+    slug: "pixelclay-website-framer",
     serviceUse: ["Website Design", "Website Development", "Framer"],
 
     _pDetails: [
@@ -1965,7 +1967,7 @@ export const projects2 = [
     _p2: "Video Editing",
     _p3: "EducationTechPlus is a forward-focused edtech platform, requiring professional video editing for instructional content to enhance clarity, engagement, and the overall digital learning experience.",
     _span: "Read More",
-
+    slug: "educationtechplus-video-editing",
     serviceUse: ["Video Editing"],
 
     _pDetails: [
@@ -2087,7 +2089,7 @@ export const projects2 = [
     _p2: "Meta Ads",
     _p3: "Nishant Kumar is a Chartered Accountant, educator, and author who has mentored over 1,00,000 CA students, requiring structured Meta Ads campaigns to scale reach and drive course enrollments.",
     _span: "Read More",
-
+    slug: "ca-nishant-kumar-meta-ads",
     serviceUse: ["Meta Ads"],
 
     _pDetails: [
@@ -2148,7 +2150,7 @@ export const projects2 = [
     _p2: "Video Editing",
     _p3: "Humans of Bombay is a storytelling platform capturing real human experiences across India, requiring professional video editing to amplify the emotional impact of story-led content.",
     _span: "Read More",
-
+    slug: "humans-of-bombay-video-editing",
     serviceUse: ["Video Editing"],
 
     _pDetails: [
@@ -3201,6 +3203,7 @@ export const projects2 = [
     _p2: "Branding",
     _p3: "Developed branding and social media strategies to connect with customers and highlight the stories behind exquisite furniture designs.",
     _span: "Read More",
+    slug: "the-woods-living-branding",
     serviceUse: [
       "Branding",
       "Logo",
@@ -3834,6 +3837,7 @@ export const projects2 = [
     _p2: "Marketing",
     _p3: "We crafted a content strategy with mouthwatering visuals, compelling storytelling, and data-driven marketing to enhance their brand presence.",
     _span: "Read More",
+    slug: "venus-restaurant-digital-marketing",
     serviceUse: ["Infographics", "Structuring", "Content", "Customization"],
     _pDetails: [
       { _h6: "Project Name:", _pD: "Digital Growth Strategy" },

@@ -122,7 +122,7 @@ function OurBlogs2Cards() {
               > */}
               <Link
                 onClick={() => setLoaderToggel(true)}
-                href={`/info/${data.slug || `blog-blog_info-${ind + 1}`}`}
+                href={`/blogs/${data.slug || `blog-blog_info-${ind + 1}`}`}
                 title={data._h4 + " Page"}
                 className=" 576px:absolute 576px:bottom-1 538px:static 490px:absolute 446px:static"
               >

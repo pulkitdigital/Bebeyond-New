@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogSocialAdsVsOrganic = {
   slug: "social-media-ads-vs-organic-strategy",
-  _img: "/blog3-img1.jpg",
+  _img: "/Blogs/blog3-img1.jpg",
   img_title: "Blog Image",
   _h4: "Social Media Ads vs Organic: Choose the Right Strategy",
   _p4: "Branding",
   _p5:
     "Discover the pros and cons of social media advertising versus organic strategies to achieve your business goals.",
-  _img2: "/blog3-img2.jpg",
-  _img3: "/blog3-img3.jpg",
+  _img2: "/Blogs/blog3-img2.jpg",
+  _img3: "/Blogs/blog3-img3.jpg",
   _metaDes:
     "Discover the key differences between social media advertising and organic strategies to determine which approach best suits your business goals.",
   _newH4_1:
@@ -20,13 +20,13 @@ export const blogSocialAdsVsOrganic = {
       presence is crucial for any business aiming to thrive. With countless
       brands vying for attention, cutting through the noise and reaching your
       target audience requires a strategic approach to{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         className="hover:underline text-blue-500"
         title="Social Media Marketing"
-      >
-        social media marketing
-      </Link>
+      > */}
+        social media marketing 
+      {/* </Link> */}
       . Should you invest in social media advertising or focus on building an
       organic social media strategy?
     </>,
@@ -55,13 +55,13 @@ export const blogSocialAdsVsOrganic = {
     <>
       <b className=" font-extrabold">Increased website traffic</b>: Sharing
       valuable content with relevant links drives traffic to your website,{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-2"
         className="hover:underline text-blue-500"
         title="SEO services"
-      >
-        boosting SEO
-      </Link>{" "}
+      > */}
+        boosting SEO 
+      {/* </Link>{" "} */}
       efforts and potentially leading to conversions.
     </>,
     <>
@@ -90,13 +90,13 @@ export const blogSocialAdsVsOrganic = {
   _newH4_5: "Social Media Advertising: Amplifying Your Reach and Impact",
   _newp5: [
     <>
-      <Link
+      {/* <Link
         href="/info/home-service_info-4"
         title="Social media advertising"
         className="hover:underline text-blue-500"
-      >
-        Social media advertising
-      </Link>{" "}
+      > */}
+        Social media advertising 
+      {/* </Link>{" "} */}
       empowers you to reach a wider audience, target specific demographics, and
       promote your products or services directly to potential customers. With
       various ad formats (image ads, video ads, stories ads, carousel ads) and
@@ -164,13 +164,13 @@ export const blogSocialAdsVsOrganic = {
       of experts can help you develop a comprehensive social media strategy that
       aligns with your business goals, target audience, and budget. We
       specialize in{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         className="hover:underline text-blue-500"
         title="Social Media Marketing Services"
-      >
-        social media marketing services
-      </Link>
+      > */}
+        social media marketing services 
+      {/* </Link> */}
       , social media advertising services, and content marketing services.
     </>,
     "We take a customized approach, analyzing your target audience, industry landscape, and business objectives to create a tailored social media strategy. We excel in crafting engaging organic content, optimizing your social media profiles, and building a thriving online community around your brand. We also develop targeted advertising campaigns across various platforms, maximizing your reach and driving measurable results. Throughout the process, we track key metrics, analyze campaign performance, and make data-driven adjustments to optimize your social media presence.",

@@ -1,6 +1,7 @@
 "use client";
 import Header from "@/app/components/header";
 import React from "react";
+import SocialProoft from "../components/social_proof_bar";
 import OurServices1 from "../components/our_services1";
 import OurProjects1 from "../components/our_projects1";
 import ClientsTestimonials1 from "../components/clients_testimonials1";
@@ -14,7 +15,7 @@ import { useEffect } from "react";
 import Loader from "../components/loader";
 import OurProcess from "../components/our_process";
 import Events from "../components/events";
-
+import Faq from "../components/faq1";
 function Home() {
   const { setLoaderToggel2, loaderToggel2 } = useAppContext();
 
@@ -29,10 +30,11 @@ function Home() {
   ) : (
     <>
       <Header />
+      <SocialProoft />
       <OurServices1 />
       <OurProcess/>
-      <OurProjects1 />
-      <ClientsTestimonials1 />
+      <OurProjects1/>
+      <ClientsTestimonials1 />  
       <WhyChoose1
         _p="pt-[85px] pb-40"
         _mW_p="1004px:pt-[75px] 1004px:pb-32"
@@ -43,6 +45,7 @@ function Home() {
       />
       <WhyWorkWithUs1 />
       <OurTeamMember1 _pb1="pb-16" />
+      <Faq/>
       <OurBlogs1 />
       <ContactUs1 _d="hidden" _d2="absolute" _pt="pt-20" _mW_pt="792px:pt-14" />
       <Events/>

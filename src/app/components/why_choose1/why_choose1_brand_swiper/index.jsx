@@ -68,7 +68,7 @@ function WhyChoose1BrandSlider({ _p, _d, _mW_p, _mW_p2, _mW_p3, _mW_p4 }) {
                   title={data.brandName + " Website"}
                   onClick={() => setLoaderToggel(true)}
                 > */}
-                  <Image
+                  <Image 
                     width={250}
                     height={100}
                     priority={true}

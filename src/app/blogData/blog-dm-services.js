@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export const blogDigitalMarketingServices = {
   slug: "boost-business-growth-digital-marketing-services",
-  _img: "/blog1-img1.jpg",
+  _img: "/Blogs/blog1-img1.jpg",
   img_title: "Blog Image",
   _h4: "Boost Business Growth with Our Digital Marketing Services",
   _p4: "Design",
   _p5:
     "Explore our expert digital marketing services crafted to elevate your online presence and drive sustainable business success.",
-  _img2: "/blog1-img2.jpg",
-  _img3: "/blog1-img3.jpg",
+  _img2: "/Blogs/blog1-img2.jpg",
+  _img3: "/Blogs/blog1-img3.jpg",
   _metaDes:
     "Unlock business growth with expert digital marketing services designed to boost your online presence and drive success.",
   _newH4_1:
@@ -23,21 +23,21 @@ export const blogDigitalMarketingServices = {
     <>
       Imagine your brand becoming synonymous with quality and excellence in your
       industry.{" "}
-      <Link
+      {/* <Link
         href="/info/home-service_info-2"
         title="Digital marketing services"
         className="hover:underline text-blue-500"
-      >
-        Digital marketing services
-      </Link>
+      > */}
+        Digital marketing services 
+      {/* </Link> */}
       , encompassing SEO,{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-3"
         title="social media marketing"
         className="hover:underline text-blue-500"
-      >
-        social media marketing
-      </Link>
+      > */}
+        social media marketing 
+      {/* </Link> */}
       , and content marketing, can transform this vision into reality. By
       optimizing your online presence across various digital touchpoints, you
       can significantly enhance your brand&apos;s visibility and recognition
@@ -56,13 +56,13 @@ export const blogDigitalMarketingServices = {
       Achieve digital transformation and business growth with targeted digital
       marketing services that drive sales, generate revenue, and expand your
       reach through effective{" "}
-      <Link
+      {/* <Link
         href="/info/home-blog_info-3"
         title="lead generation"
         className="hover:underline text-blue-500"
-      >
-        lead generation
-      </Link>{" "}
+      > */}
+        lead generation 
+      {/* </Link>{" "} */}
       and optimized campaigns.
     </>,
   ],
@@ -84,13 +84,13 @@ export const blogDigitalMarketingServices = {
       If you&apos;re ready to harness the transformative power of digital
       marketing to ignite your business growth, consider partnering with a
       reputable{" "}
-      <Link
+      {/* <Link
         href="/"
         className="hover:underline text-blue-500"
         title="digital marketing agency"
-      >
-        digital marketing agency
-      </Link>
+      > */}
+        digital marketing agency 
+      {/* </Link> */}
       . An experienced agency can provide expert guidance, develop and implement
       a customized strategy tailored to your specific business needs and goals,
       and help you navigate the complexities of the digital landscape.

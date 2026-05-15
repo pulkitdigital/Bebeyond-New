@@ -22,19 +22,14 @@ function Header() {
             <div className="top-div-of-left-div-of-header flex items-center justify-start w-full">
               <h1 className="  bricolage_grotesque_head flex flex-col items-start justify-center w-full">
                 <AutoType />
-                <span className=" text-h2 font-h2 leading-h2 1004px:text-h3 1004px:leading-h3 792px:text-h4">
-                  One Stop Solution For All Your Digital Needs
+                <span className=" text-h3 font-h3 leading-h2 1004px:text-h3 1004px:leading-h3 792px:text-h4">
+                  India&apos;s Digital Marketing Agency That Delivers Real Business Results
                 </span>
               </h1>
             </div>
             <div className="bottom-div-of-left-div-of-header flex items-start justify-center w-full flex-col gap-4">
               <p className=" public_sans_body text-p1 font-p1 text-color_gray text-justify 1004px:text-p2 792px:text-p3">
-                Forget the traditional agency model. At Be Beyond, we become an
-                extension of your team, a true partner invested in your success.
-                We&apos;re not just task executors; we&apos;re digital
-                strategists who immerse ourselves in your vision, challenge
-                assumptions, and collaboratively build a digital blueprint that
-                delivers exceptional results.
+                We help local businesses and brands across Uttar Pradesh grow their revenue through SEO, Meta Ads, social media management, and professional web development. Our strategies are backed by real data, audience insights, and performance-driven execution focused on leads, visibility, and long-term growth.
               </p>
               <Link href="/contact" title="Contact Us Page">
                 <button
@@ -53,7 +48,7 @@ function Header() {
                   active:duration-700
                         "
                 >
-                  Contact
+                  Book Your Free Digital Audit
                 </button>
               </Link>
             </div>

@@ -99,14 +99,14 @@
 
 
 
-
-
 import { Bricolage_Grotesque, Public_Sans } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import { AppWrapper } from "@/context";
 import Script from "next/script";
+import Link from "next/link";
+import { FaWhatsapp } from "react-icons/fa6";
 
 const bricolage_grotesque_init = Bricolage_Grotesque({
   subsets: ["latin"],
@@ -179,6 +179,18 @@ export default function RootLayout({ children }) {
           <Navbar />
           {children}
           <Footer />
+
+          {/* ✅ WhatsApp Floating Button */}
+          <Link
+            href="https://wa.me/919918671867?text=Hi%2C%20I%20want%20to%20know%20more%20about%20BeBeyond%20Digital%20Solutions."
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Chat on WhatsApp"
+            className="fixed bottom-6 left-6 z-[999] w-14 h-14 bg-[#25D366] rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition-transform duration-300"
+          >
+            <FaWhatsapp size={30} color="white" />
+          </Link>
+
           {/* ✅ Botpress Chatbot */}
           <Script
             src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"
@@ -192,4 +204,4 @@ export default function RootLayout({ children }) {
       </body>
     </html>
   );
-} 
+}

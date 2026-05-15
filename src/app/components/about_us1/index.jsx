@@ -78,22 +78,24 @@ function AboutUs1() {
                 About Our Company
               </h2>
             </div>
-            <h3 className=" bricolage_grotesque_head text-h2 font-h2 leading-h2 relative w-full 1004px:text-h3 1004px:leading-h3 792px:text-h4 378px:text-center">
-              Unlock The Potential Of
+            <h1 className=" bricolage_grotesque_head text-h3 font-h2 leading-h2 relative w-full 1004px:text-h3 1004px:leading-h3 792px:text-h4 378px:text-center">
+              {/* Unlock The Potential Of
               <br className=" 1172px:hidden" />
               Your Business With
               <br className=" 1172px:hidden" />
-              Creative Design!
-            </h3>
+              Creative Design! */}
+              We&apos;re BeBeyond — The Digital Marketing Team That Puts Prayagraj Businesses on the Map
+            </h1>
             <h5 className=" text-color_orange bricolage_grotesque_head text-h5 font-h5 text-justify w-full 1004px:text-p1 792px:text-p2 378px:text-center">
               We Are A Digital Agency With Added Commercial Value For Your
               Startup Company Business!
             </h5>
             <p className=" public_sans_body text-p1 font-p1 w-full text-justify text-color_gray 1004px:text-p2 792px:text-p3 378px:text-justify">
-              At BeBeyond Digital Solutions, we empower businesses with
+              {/* At BeBeyond Digital Solutions, we empower businesses with
               innovative strategies and 360-degree solutions, minimizing efforts
               while maximizing results, driving online and offline growth in
-              today&apos;s evolving digital landscape.
+              today&apos;s evolving digital landscape. */}
+              Founded in Prayagraj with a simple belief: local businesses deserve the same quality of digital marketing support that large corporates get in metro cities at a price that makes sense.
             </p>
             <Link href="/contact" title="Contact Us Page">
               <button

@@ -61,13 +61,18 @@ function OurServices1() {
               className=" w-28 absolute -left-24 top-1/2 1004px:w-24 792px:w-20 456px:-left-6 330px:w-16 330px:top-1/3 330px:-left-4"
               alt="Arrow Image"
             />
-            Fueling Digital Success with
+            Everything Your Business 
             <br />
-            Comprehensive Services
+            Needs to Win Online
             {/* Start Your Digital Business
             <br />
             With Be Beyond! */}
           </motion.h3>
+          <div className="bottom-div-of-left-div-of-header flex items-center justify-center w-full flex-col gap-4">
+              <p className=" public_sans_body text-p1 font-p1 text-color_gray text-justify 1004px:text-p2 792px:text-p3  center">
+                From getting found on Google to converting followers into paying customers we handle the full digital journey for your business.
+              </p>
+            </div>
           <OurServices1Cards />
           <Link href="/services#all-services" className=" overflow-hidden" title="All Service Page">
             <motion.button

@@ -79,9 +79,9 @@ function ContactUs2() {
                 duration: 0.5,
               }}
               viewport={{ once: true }}
-              className=" bricolage_grotesque_head text-h2 font-h2 text-center leading-h2 relative 1004px:text-h3 1004px:leading-h3 828px:text-start 792px:text-h4"
+              className=" bricolage_grotesque_head text-h2 font-h2 text-left leading-h2 relative 1004px:text-h3 1004px:leading-h3 828px:text-start 792px:text-h4"
             >
-              Have Any Questions?
+              Let&apos;s Talk About Growing Your Business
             </motion.h3>
             <motion.p
               initial={{ y: "50%", opacity: 0 }}
@@ -92,9 +92,7 @@ function ContactUs2() {
               viewport={{ once: true }}
               className=" text-p1 font-p1 text-color_gray  public_sans_body 1004px:text-p2 792px:text-p3"
             >
-              Get in touch to discuss your employee wellbeing needs today.
-              Please give us a call, drop us an email or fill out the contact
-              form.
+              Book a free 30-minute strategy call. We&apos;ll review your current digital presence and tell you exactly what&apos;s working, what isn&apos;t, and what we&apos;d do differently.
             </motion.p>
             <motion.div
               initial={{ y: "50%", opacity: 0 }}
