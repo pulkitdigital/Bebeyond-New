@@ -118,7 +118,6 @@
 
 
 
-
 import { Bricolage_Grotesque, Public_Sans } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/navbar";
@@ -193,17 +192,6 @@ export default function RootLayout({ children }) {
             }),
           }}
         />
-
-        {/* ✅ Meta Pixel noscript fallback */}
-        <noscript>
-          <img
-            height="1"
-            width="1"
-            style={{ display: "none" }}
-            src="https://www.facebook.com/tr?id=967373885910467&ev=PageView&noscript=1"
-            alt=""
-          />
-        </noscript>
       </head>
 
       <body
@@ -225,7 +213,7 @@ export default function RootLayout({ children }) {
             <FaWhatsapp size={30} color="white" />
           </Link>
 
-          {/* ✅ Meta Pixel Script */}
+          {/* ✅ Meta Pixel Script — afterInteractive so it loads after page is ready */}
           <Script
             id="meta-pixel"
             strategy="afterInteractive"
@@ -244,6 +232,17 @@ export default function RootLayout({ children }) {
               `,
             }}
           />
+
+          {/* ✅ Meta Pixel Noscript fallback — BODY mein hona chahiye, HEAD mein nahi */}
+          <noscript>
+            <img
+              height="1"
+              width="1"
+              style={{ display: "none" }}
+              src="https://www.facebook.com/tr?id=967373885910467&ev=PageView&noscript=1"
+              alt=""
+            />
+          </noscript>
 
           {/* ✅ Botpress Chatbot */}
           <Script
