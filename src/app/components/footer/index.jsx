@@ -90,7 +90,7 @@ const Footer = () => {
               <h4 className=" text-white  text-h4 font-h4 bricolage_grotesque_head 1004px:text-h5new 792px:text-p1 446px:w-full 446px:text-center">
                 Company
               </h4>
-              <ul className=" text-color_gray public_sans_body text-p1 font-p1 flex flex-col gap-2 items-start justify-center 1004px:text-p2 792px:text-p3  446px:w-full 446px:flex-row 446px:gap-4">
+              <ul className=" text-color_gray public_sans_body text-p1 font-p1 flex flex-col gap-2 items-start justify-center 1004px:text-p2 792px:text-p3 446px:w-full 446px:flex-row 446px:flex-wrap 446px:justify-center 446px:gap-x-4 446px:gap-y-1">
                 <Link href="/" title="Home Page" className=" hover:underline">
                   {" "}
                   <li>Home</li>
@@ -113,6 +113,10 @@ const Footer = () => {
                 <Link href="/contact" title="Contact Page" className=" hover:underline">
                   {" "}
                   <li>Contact</li>
+                </Link>
+                <Link href="/privacy-policy" title="Privacy Policy" className=" hover:underline">
+                  {" "}
+                  <li>Privacy Policy</li>
                 </Link>
               </ul>
             </div>
